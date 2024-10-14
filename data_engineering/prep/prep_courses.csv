@@ -1,0 +1,2001 @@
+CourseId,Title,Category,Total_enrollment,Total_Completions,completion_rate
+COR0000,Machine Learning Specialization,Machine Learning,4217,2135,50.62840882143704
+COR0001,Introduction to Data Science Specialization,Data Analysis,4238,3485,82.23218499292119
+COR0002,Data Science Fundamentals with Python and SQL Specialization,Data Analysis,2700,1504,55.7037037037037
+COR0003,Key Technologies for Business Specialization,Business Essentials,4308,2527,58.65831012070566
+COR0004,Deep Learning Specialization,Machine Learning,4792,2999,62.58347245409015
+COR0005,IBM & Darden Digital Strategy Specialization,Machine Learning,3792,3665,96.65084388185655
+COR0006,IBM AI Foundations for Business Specialization,Machine Learning,2607,1872,71.80667433831991
+COR0007,Data Analysis and Visualization Foundations Specialization,Data Analysis,964,955,99.06639004149378
+COR0008,Applied Data Science Specialization,Machine Learning,1246,982,78.81219903691814
+COR0009,Data Engineering Foundations Specialization,Data Management,489,288,58.895705521472394
+COR0010,IT Fundamentals for Cybersecurity Specialization,Security,3118,2893,92.78383579217447
+COR0011,Applied Software Engineering Fundamentals Specialization,Software Development,1590,968,60.880503144654085
+COR0012,"DevOps, Cloud, and Agile Foundations Specialization",Design and Product,3681,3161,85.8734039663135
+COR0013,Cloud Application Development Foundations Specialization,Cloud Computing,3096,2827,91.31136950904393
+COR0014,Python for Everybody Specialization,Software Development,3272,2660,81.2958435207824
+COR0015,Information Technology (IT) and Cloud Fundamentals Specialization,Cloud Computing,1172,664,56.655290102389074
+COR0016,"BI Foundations with SQL, ETL and Data Warehousing Specialization",Data Management,237,138,58.22784810126582
+COR0017,Natural Language Processing Specialization,Machine Learning,4418,4256,96.33318243549117
+COR0018,Business Foundations Specialization,Business Essentials,1548,1405,90.76227390180878
+COR0019,Meta React Native Specialization,Mobile and Web Development,2884,1864,64.63245492371706
+COR0020,Mathematics for Machine Learning and Data Science Specialization,Algorithms,1025,958,93.46341463414635
+COR0021,Introduction to Finance and Accounting Specialization,Finance,2673,2470,92.4055368499813
+COR0022,AI Foundations for Everyone Specialization,Data Analysis,1258,1165,92.60731319554849
+COR0023,Finance & Quantitative Modeling for Analysts Specialization,Finance,2598,1332,51.27020785219399
+COR0024,Machine Learning Engineering for Production (MLOps) Specialization,Machine Learning,1076,905,84.10780669144981
+COR0025,Business and Financial Modeling Specialization,Business Essentials,2996,1875,62.583444592790386
+COR0026,Business Analytics Specialization,Data Analysis,2940,2316,78.77551020408163
+COR0027,Excel Skills for Business Specialization,Business Essentials,3613,1917,53.058400221422644
+COR0028,Learn SQL Basics for Data Science Specialization,Data Analysis,4489,2552,56.85007796836712
+COR0029,The Materiality of ESG Factors Specialization,Finance,2855,1847,64.69352014010508
+COR0030,AI For Business Specialization,Leadership and Management,2913,2672,91.72674219018194
+COR0031,Digital Product Management Specialization,Design and Product,4502,3585,79.63127498889384
+COR0032,Leading the Modern Day Business Specialization,Leadership and Management,2241,1419,63.31994645247657
+COR0033,Graphic Design Specialization,Music and Art,974,597,61.293634496919914
+COR0034,Security Analyst Fundamentals Specialization,Security,1025,768,74.92682926829268
+COR0035,Improve Your English Communication Skills Specialization,Learning English,3603,3112,86.37246738828753
+COR0036,Entrepreneurship Specialization,Entrepreneurship,2179,1701,78.06333180357963
+COR0037,Foundations of Positive Psychology  Specialization,Business Essentials,178,143,80.33707865168539
+COR0038,Data Science Specialization,Data Analysis,3989,2648,66.38255201804964
+COR0039,Supply Chain Management Specialization,Business Essentials,2883,1603,55.60180367672564
+COR0040,Fintech: Foundations & Applications of Financial Technology Specialization,Business Essentials,2840,2238,78.80281690140845
+COR0041,Microsoft 365 Fundamentals Specialization,Business Essentials,3265,1730,52.986217457886674
+COR0042,Search Engine Optimization (SEO) Specialization,Marketing,1736,876,50.46082949308756
+COR0043,AI Product Management Specialization,Machine Learning,2331,1524,65.37966537966537
+COR0044,Introduction to Programming with Python and Java Specialization,Software Development,3821,2672,69.92933786966763
+COR0045,Construction Management Specialization,Leadership and Management,2887,1670,57.84551437478351
+COR0046,IBM Introduction to Machine Learning Specialization,Data Analysis,2772,1401,50.541125541125545
+COR0047,Data Analysis and Presentation Skills: the PwC Approach Specialization,Business Essentials,3820,2957,77.40837696335079
+COR0048,AWS Fundamentals Specialization,Cloud Computing,3756,2722,72.47071352502662
+COR0049,Data Science: Foundations using R Specialization,Data Analysis,3089,1608,52.055681450307546
+COR0050,Python 3 Programming Specialization,Software Development,2360,2130,90.2542372881356
+COR0051,Reinforcement Learning Specialization,Machine Learning,1440,1329,92.29166666666667
+COR0052,Accelerated Computer Science Fundamentals Specialization,Algorithms,693,546,78.78787878787878
+COR0053,Digital Marketing Specialization,Marketing,2172,1696,78.08471454880295
+COR0054,DevOps on AWS Specialization,Software Development,3016,2108,69.89389920424404
+COR0055,Generative Adversarial Networks (GANs) Specialization,Machine Learning,3208,1992,62.094763092269325
+COR0056,Data Visualization with Tableau Specialization,Data Analysis,317,216,68.13880126182966
+COR0057,Certified in Cybersecurity Specialization,Security,913,799,87.51369112814896
+COR0058,Business Strategy Specialization,Business Strategy,4472,4431,99.08318425760287
+COR0059,Applied Data Science with Python Specialization,Data Analysis,779,413,53.01668806161746
+COR0060,Human Resource Management: HR for People Managers Specialization,Business Strategy,304,195,64.14473684210526
+COR0061,Achieving Personal and Professional Success Specialization,Personal Development,572,333,58.21678321678322
+COR0062,Regulatory Compliance Specialization,Business Essentials,2328,1330,57.13058419243986
+COR0063,"TESOL Certificate, Part 1: Teach English Now! Specialization",Learning English,4328,3548,81.97781885397413
+COR0064,Financial Engineering and Risk Management Specialization,Finance,4801,2627,54.71776713184753
+COR0065,UI / UX Design Specialization,Music and Art,1853,1052,56.77280086346465
+COR0066,"Product Ideation, Design, and Management Specialization",Marketing,2859,1595,55.78873732074152
+COR0067,Financial Analysis - Skills for Success Specialization,Finance,899,647,71.96885428253616
+COR0068,Creative Writing Specialization,Music and Art,3252,2195,67.49692496924969
+COR0069,Data Structures and Algorithms Specialization,Algorithms,4683,3494,74.61029254751227
+COR0070,Software Product Management Specialization,Design and Product,1280,1167,91.171875
+COR0071,Foundations of Management Specialization,Leadership and Management,1893,1693,89.43475964078182
+COR0072,Genomic Data Science Specialization,Data Analysis,3265,2407,73.72128637059724
+COR0073,Methods and Statistics in Social Sciences Specialization,Governance and Society,3617,3442,95.16173624550733
+COR0074,"NoSQL, Big Data, and Spark Foundations Specialization",Data Management,2638,1418,53.75284306292646
+COR0075,Think like a CFO Specialization,Finance,2878,2271,78.90896455872134
+COR0076,TensorFlow: Advanced Techniques Specialization,Machine Learning,815,779,95.58282208588957
+COR0077,"Data Engineering, Big Data, and Machine Learning on GCP Specialization",Machine Learning,3650,1870,51.23287671232877
+COR0078,Mathematics for Machine Learning Specialization,Machine Learning,955,887,92.87958115183245
+COR0079,Modern and Contemporary Art and Design Specialization,Music and Art,426,354,83.09859154929578
+COR0080,Agile Development Specialization,Design and Product,3324,1866,56.13718411552347
+COR0081,Career Success Specialization,Business Essentials,2244,1149,51.20320855614974
+COR0082,U.S. Federal Taxation Specialization,Business Essentials,2588,2479,95.78825347758887
+COR0083,The Business of Music Production Specialization,Music and Art,4011,2141,53.378209922712536
+COR0084,The Business of Health Care Specialization,Healthcare Management,2161,1966,90.9763998149005
+COR0085,Practical Data Science on the AWS Cloud Specialization,Machine Learning,3161,1862,58.90540968048086
+COR0086,Risk Management Specialization,Finance,197,131,66.49746192893402
+COR0087,Music Production Specialization,Music and Art,2896,2174,75.06906077348067
+COR0088,Google Cloud Database Engineer Specialization,Cloud Computing,935,499,53.36898395721925
+COR0089,Architecting with Google Compute Engine Specialization,Cloud Computing,3372,1900,56.34638196915777
+COR0090,Global Procurement and Sourcing Specialization,Leadership and Management,3178,2761,86.8785399622404
+COR0091,Entrepreneurship: Growing Your Business Specialization,Business Strategy,141,78,55.319148936170215
+COR0092,Six Sigma Yellow Belt Specialization,Leadership and Management,4684,3238,69.12894961571307
+COR0093,The DIY Musician Specialization,Music and Art,2778,2094,75.377969762419
+COR0094,Algorithms Specialization,Algorithms,1458,1357,93.0727023319616
+COR0095,"Influencing: Storytelling, Change Management and Governance Specialization",Leadership and Management,3052,1616,52.94888597640891
+COR0096,Applied Data Science with R Specialization,Data Analysis,4616,2890,62.608318890814566
+COR0097,Geographic Information Systems  (GIS) Specialization,Data Analysis,2299,2030,88.29926054806437
+COR0098,Decentralized Finance (DeFi): The Future of Finance Specialization,Finance,4170,2141,51.34292565947243
+COR0099,Project Management & Other Tools for Career Development Specialization,Business Essentials,4607,2364,51.31321901454309
+COR0100,Project Management Principles and Practices Specialization,Business Essentials,259,146,56.37065637065637
+COR0101,Java Programming and Software Engineering Fundamentals Specialization,Software Development,861,716,83.15911730545878
+COR0102,MATLAB Programming for Engineers and Scientists Specialization,Software Development,121,113,93.38842975206612
+COR0103,Design Thinking Specialization,Leadership and Management,1212,1143,94.3069306930693
+COR0104,Architecting with Google Kubernetes Engine Specialization,Cloud Computing,690,493,71.44927536231884
+COR0105,Security in Google Cloud Specialization,Security,3237,2811,86.83966635773864
+COR0106,Leading People and Teams Specialization,Leadership and Management,1574,1505,95.61626429479034
+COR0107,Coding for Everyone: C and C++ Specialization,Software Development,4524,3719,82.20601237842618
+COR0108,Developing Applications with Google Cloud Specialization,Software Development,3572,3280,91.82530795072789
+COR0109,Real-World Product Management Specialization,Design and Product,1295,980,75.67567567567568
+COR0110,Pricing Strategy Optimization Specialization,Marketing,2073,1707,82.34442836468887
+COR0111,Networking in Google Cloud Specialization,Networking,2615,1782,68.14531548757171
+COR0112,Academic English: Writing Specialization,Education,4146,2186,52.7255185721177
+COR0113,Introduction to Cyber Security Specialization,Computer Security and Networks,2044,1701,83.21917808219177
+COR0114,Business Data Management and Communication Specialization,Data Analysis,1012,893,88.2411067193676
+COR0115,Intellectual Property Law Specialization,Business Strategy,3947,3581,90.72713453255638
+COR0116,The Singer Songwriter Specialization,Music and Art,185,182,98.37837837837839
+COR0117,AI for Medicine Specialization,Machine Learning,2338,1478,63.216424294268606
+COR0118,Mergers and Acquisitions  Specialization,Finance,682,440,64.51612903225806
+COR0119,Dynamic Public Speaking Specialization,Personal Development,3854,2049,53.16554229372081
+COR0120,Supply Chain Analytics Specialization,Business Essentials,3164,2448,77.37041719342605
+COR0121,Six Sigma Black Belt Specialization,Leadership and Management,2587,1911,73.86934673366834
+COR0122,Strategic Leadership and Management Specialization,Leadership and Management,3293,3073,93.3191618584877
+COR0123,Music Education for Teachers Specialization,Education,2492,2461,98.75601926163723
+COR0124,Project Management Specialization,Leadership and Management,3288,2523,76.73357664233576
+COR0125,User Experience Research and Design Specialization,Design and Product,4896,3377,68.97467320261438
+COR0126,Good with Words: Writing and Editing Specialization,Personal Development,4720,3662,77.58474576271186
+COR0127,Drug Development Product Management Specialization,Healthcare Management,3699,2866,77.48040010813733
+COR0128,Excel Skills for Data Analytics and Visualization Specialization,Business Essentials,1769,1728,97.68230638778971
+COR0129,"Food Sustainability, Mindful Eating, and Healthy Cooking Specialization",Nutrition,4708,3095,65.7391673746814
+COR0130,Web Design for Everybody: Basics of Web Development & Coding Specialization,Mobile and Web Development,932,513,55.04291845493562
+COR0131,Microsoft Azure Fundamentals AZ-900 Exam Prep Specialization,Software Development,1184,722,60.979729729729726
+COR0132,Business Value and Project Management Specialization,Leadership and Management,4875,4598,94.31794871794872
+COR0133,Clinical Trials Operations Specialization,Public Health,1418,993,70.02820874471087
+COR0134,Investment Management with Python and Machine Learning Specialization,Finance,2963,1828,61.69422882213972
+COR0135,Data Analysis with R Specialization,Data Analysis,2718,2202,81.01545253863135
+COR0136,Excel to MySQL: Analytic Techniques for Business Specialization,Business Essentials,540,327,60.55555555555555
+COR0137,Bayesian Statistics Specialization,Probability and Statistics,118,78,66.10169491525424
+COR0138,Data Science Foundations: Data Structures and Algorithms Specialization,Algorithms,497,321,64.58752515090544
+COR0139,Biostatistics in Public Health  Specialization,Public Health,3873,2616,67.54453911696359
+COR0140,Algorithms for Battery Management Systems Specialization,Electrical Engineering,3599,3501,97.27702139483189
+COR0141,"Effective Communication: Writing, Design, and Presentation Specialization",Business Essentials,2987,2123,71.07465684633412
+COR0142,Financial Management Specialization,Finance,555,386,69.54954954954955
+COR0143,Game Design: Art and Concepts Specialization,Music and Art,4539,2342,51.59726812073144
+COR0144,Neuroscience and Neuroimaging Specialization,Data Analysis,4832,2807,58.091887417218544
+COR0145,Electronic Music Production Specialization,Music and Art,3361,2978,88.60458196965189
+COR0146,Branding: The Creative Journey Specialization,Business Strategy,3612,3104,85.93576965669989
+COR0147,Six Sigma Green Belt Specialization,Business Essentials,734,699,95.2316076294278
+COR0148,Excel/VBA for Creative Problem Solving Specialization,Design and Product,3540,2074,58.587570621468934
+COR0149,Business Statistics and Analysis Specialization,Probability and Statistics,2521,1610,63.86354621182071
+COR0150,People and Soft Skills for Professional and Personal Success Specialization,Personal Development,226,161,71.23893805309734
+COR0151,"Songwriting: Writing, Arranging, and Producing Music Specialization",Music and Art,4090,2153,52.640586797066014
+COR0152,Culture-Driven Team Building Specialization,Business Essentials,231,203,87.87878787878788
+COR0153,Investment Management Specialization,Finance,1418,1170,82.51057827926658
+COR0154,Object Oriented Programming in Java Specialization,Software Development,4134,3091,74.77019835510401
+COR0155,Fundamentals of Accounting  Specialization,Business Essentials,3695,3284,88.87686062246279
+COR0156,Databases for Data Scientists Specialization,Data Management,4082,3361,82.33708966193043
+COR0157,PostgreSQL for Everybody Specialization,Mobile and Web Development,909,705,77.55775577557755
+COR0158,Medical Terminology Specialization,Basic Science,4019,2584,64.2946006469271
+COR0159,Advanced Data Science with IBM Specialization,Machine Learning,4786,3733,77.9983284580025
+COR0160,Probabilistic Graphical Models  Specialization,Machine Learning,1077,742,68.89507892293408
+COR0161,FPGA Design for Embedded Systems Specialization,Electrical Engineering,959,814,84.8800834202294
+COR0162,School Health for Children and Adolescents Specialization,Patient Care,2621,1456,55.551316291491794
+COR0163,Statistical Analysis with R for Public Health Specialization,Public Health,2774,2043,73.64816149963951
+COR0164,Music Business  Specialization,Leadership and Management,3747,2933,78.27595409661062
+COR0165,Healthcare IT Support Specialization,Health Informatics,1315,896,68.13688212927757
+COR0166,Practical Guide to Trading Specialization,Finance,340,337,99.11764705882354
+COR0167,Introduction to Logic and Critical Thinking Specialization,Philosophy,3920,3859,98.4438775510204
+COR0168,Blockchain Specialization,Software Development,276,174,63.04347826086957
+COR0169,Software Design and Architecture Specialization,Software Development,4337,3491,80.49342863730689
+COR0170,Climate Change and Sustainable Investing Specialization,Finance,4946,4916,99.39344925192074
+COR0171,Functional Programming in Scala Specialization,Software Development,2276,2016,88.57644991212655
+COR0172,Microsoft Azure Data Fundamentals DP-900 Exam Prep Specialization,Data Analysis,1936,1055,54.49380165289256
+COR0173,Financial Technology (Fintech) Innovations Specialization,Finance,1851,1588,85.7914640734738
+COR0174,Business Strategies for A Better World Specialization,Leadership and Management,105,57,54.285714285714285
+COR0175,Machine Learning on Google Cloud Specialization,Machine Learning,1407,920,65.38734896943852
+COR0176,Integrative Health and Medicine Specialization,Patient Care,1057,966,91.3907284768212
+COR0177,Futures Thinking Specialization,Business Essentials,342,215,62.86549707602339
+COR0178,Finance for Technical Managers Specialization,Leadership and Management,2475,1488,60.12121212121212
+COR0179,"TESOL Certificate, Part 2: Teach English Now! Specialization",Learning English,386,248,64.24870466321244
+COR0180,Introduction to Discrete Mathematics for Computer Science Specialization,Algorithms,319,273,85.57993730407524
+COR0181,Core Java Specialization,Software Development,190,144,75.78947368421053
+COR0182,Engineering Project Management Specialization,Leadership and Management,1316,905,68.76899696048632
+COR0183,Bioinformatics Specialization,Health Informatics,1042,953,91.45873320537427
+COR0184,Cybersecurity Attack and Defense Fundamentals Specialization,Computer Security and Networks,4442,3219,72.4673570463755
+COR0185,Organizational Leadership Specialization,Leadership and Management,1226,772,62.96900489396411
+COR0186,Inspirational Leadership: Leading with Sense Specialization,Leadership and Management,2041,1297,63.54728074473297
+COR0187,Photography Basics and Beyond: From Smartphone to DSLR Specialization,Music and Art,2555,1578,61.76125244618396
+COR0188,Omnichannel Retail Strategy Specialization,Business Strategy,1169,879,75.19247219846022
+COR0189,Renewable Energy Specialization,Environmental Science and Sustainability,1670,1396,83.59281437125749
+COR0190,Become an EMT Specialization,Patient Care,1002,551,54.99001996007984
+COR0191,Market Research Specialization,Marketing,3402,2265,66.57848324514991
+COR0192,Transforming the Fashion Business Specialization,Business Strategy,4980,4612,92.61044176706828
+COR0193,"GIS, Mapping, and Spatial Analysis Specialization",Data Analysis,1024,911,88.96484375
+COR0194,Trading Strategies in Emerging Markets Specialization,Finance,4724,2779,58.8272650296359
+COR0195,Healthcare Law Specialization,Healthcare Management,4369,2807,64.24811169604028
+COR0196,Web Applications for Everybody Specialization,Mobile and Web Development,3198,2671,83.52095059412133
+COR0197,Inspired Leadership Specialization,Leadership and Management,1049,686,65.39561487130601
+COR0198,Marketing Strategy Specialization,Marketing,875,745,85.14285714285714
+COR0199,Health Informatics Specialization,Health Informatics,1737,1375,79.15947035118019
+COR0200,Robotics Specialization,Electrical Engineering,1825,1676,91.83561643835615
+COR0201,Management Consulting Specialization,Leadership and Management,3408,2663,78.13967136150235
+COR0202,Machine Learning Specialization,Machine Learning,2539,2478,97.59747932256793
+COR0203,Professional Skills for the Workplace Specialization,Business Essentials,2532,1735,68.52290679304897
+COR0204,Introduction to Computer Science and Programming Specialization,Software Development,4873,3199,65.64744510568438
+COR0205,C# Programming for Unity Game Development Specialization,Software Development,338,329,97.33727810650888
+COR0206,Artificial Intelligence: an Overview Specialization,Algorithms,3962,3760,94.90156486622918
+COR0207,Embedding Sensors and Motors Specialization,Electrical Engineering,3337,1990,59.63440215762661
+COR0208,Expressway to Data Science: Essential Math Specialization,Math and Logic,2101,2029,96.57306044740601
+COR0209,Everyday Excel Specialization,Design and Product,3193,2870,89.88412151581585
+COR0210,C Programming with Linux Specialization,Software Development,1419,1319,92.95278365045807
+COR0211,Blockchain Revolution in Financial Services Specialization,Computer Security and Networks,979,680,69.45863125638407
+COR0212,The Pronunciation of American English Specialization,Learning English,2851,2109,73.97404419501929
+COR0213,Managing Cybersecurity Specialization,Security,2938,2640,89.857045609258
+COR0214,Digital Manufacturing & Design Technology  Specialization,Electrical Engineering,2775,2706,97.51351351351352
+COR0215,Epidemiology in Public Health Practice Specialization,Public Health,2143,2021,94.30704619692021
+COR0216,Social Media Marketing Specialization,Marketing,597,406,68.00670016750419
+COR0217,Managerial Economics and Business Analysis  Specialization,Finance,1180,881,74.66101694915255
+COR0218,Sustainability Analyst Fundamentals Specialization,Environmental Science and Sustainability,4685,3171,67.68409818569904
+COR0219,Interaction Design Specialization,Design and Product,2334,2087,89.41730934018852
+COR0220,Introductory C Programming Specialization,Software Development,1578,1523,96.51457541191381
+COR0221,Learn English: Intermediate Grammar Specialization,Learning English,1758,1507,85.72241183162684
+COR0222,How to Play Guitar Specialization,Music and Art,1047,918,87.67908309455588
+COR0223,Spring Framework Specialization,Software Development,3448,2737,79.37935034802784
+COR0224,Investment and Portfolio Management Specialization,Finance,2956,1729,58.49120433017592
+COR0225,Coaching Skills for Managers Specialization,Leadership and Management,3173,3126,98.51875196974473
+COR0226,Data Visualization & Dashboarding with R Specialization,Data Analysis,3648,2971,81.44188596491229
+COR0227,Business Analytics Specialization,Business Essentials,1993,1844,92.52383341695935
+COR0228,An Introduction to Programming the Internet of Things (IOT) Specialization,Electrical Engineering,4481,3153,70.36375808971212
+COR0229,Software Testing and Automation Specialization,Software Development,929,680,73.19698600645856
+COR0230,Linux and Private Cloud Administration on IBM Power Systems Specialization,Cloud Computing,1574,899,57.1156289707751
+COR0231,Power Electronics Specialization,Electrical Engineering,2019,1961,97.1272907379891
+COR0232,Microsoft Azure AI Fundamentals AI-900 Exam Prep Specialization,Machine Learning,457,300,65.64551422319475
+COR0233,Cybersecurity Specialization,Computer Security and Networks,343,257,74.9271137026239
+COR0234,Cancer Biology Specialization,Basic Science,420,310,73.80952380952381
+COR0235,"Strategic Leadership: Impact, Change, and Decision-Making Specialization",Leadership and Management,1722,1645,95.52845528455285
+COR0236,Learn Chinese: HSK Test Preparation Specialization,Other Languages,1279,1084,84.75371383893668
+COR0237,Abnormal Psychology Specialization,Psychology,2781,2508,90.18338727076592
+COR0238,Business English Communication Skills Specialization,Learning English,1321,1291,97.72899318697957
+COR0239,Statistics with Python Specialization,Probability and Statistics,1159,786,67.81708369283865
+COR0240,Conflict Management Specialization,Leadership and Management,2739,1661,60.6425702811245
+COR0241,Big Data Specialization,Data Analysis,2243,2149,95.80918412839947
+COR0242,Robotic Process Automation (RPA) Specialization,Software Development,302,169,55.960264900662246
+COR0243,Healthcare Organization Operations Specialization,Healthcare Management,2748,2542,92.50363901018923
+COR0244,Data Mining  Specialization,Machine Learning,2009,1540,76.65505226480836
+COR0245,"Python, Bash and SQL Essentials for Data Engineering Specialization",Data Management,2713,1637,60.33910799852562
+COR0246,Supply Chain Finance and Blockchain Technology Specialization,Finance,1375,1162,84.50909090909092
+COR0247,Oracle SQL Databases Specialization,Data Management,248,202,81.45161290322581
+COR0248,Machine Learning for Trading Specialization,Machine Learning,2758,2556,92.67585206671501
+COR0249,Software Development Lifecycle Specialization,Software Development,4862,2678,55.080213903743314
+COR0250,Autodesk CAD/CAM/CAE for Mechanical Engineering Specialization,Mechanical Engineering,1427,1367,95.79537491240364
+COR0251,Design of Experiments Specialization,Probability and Statistics,4358,4105,94.19458467186783
+COR0252,Creativity and AI Specialization,Design and Product,3335,2493,74.75262368815592
+COR0253,Strategic Management and Innovation Specialization,Business Strategy,119,76,63.86554621848739
+COR0254,"Hotel Management: Distribution, Revenue and Demand Management Specialization",Leadership and Management,1604,884,55.11221945137157
+COR0255,Introduction to Business Specialization,Business Essentials,3044,1527,50.16425755584757
+COR0256,Entrepreneurial Finance: Strategy and Innovation Specialization,Entrepreneurship,3793,3704,97.65357237015554
+COR0257,Learning Linux for LFCA Certification Specialization,Software Development,1326,1274,96.07843137254902
+COR0258,Getting started with Google Workspace Specialization,Cloud Computing,388,196,50.51546391752577
+COR0259,First Principles of Computer Vision Specialization,Algorithms,4054,2841,70.07893438579181
+COR0260,Machine Learning and Reinforcement Learning in Finance Specialization,Machine Learning,2660,1533,57.631578947368425
+COR0261,"Negotiation, Mediation and Conflict Resolution Specialization",Leadership and Management,1627,1209,74.30854333128457
+COR0262,Fundamentals of Computing Specialization,Software Development,3294,2276,69.09532483302975
+COR0263,Executive Data Science Specialization,Data Analysis,3410,2943,86.3049853372434
+COR0264,Django for Everybody Specialization,Mobile and Web Development,4696,3460,73.67972742759795
+COR0265,Social Media Marketing in Practice Specialization,Marketing,4473,2647,59.17728593784932
+COR0266,Agile Leadership Specialization,Leadership and Management,2943,1843,62.62317363234794
+COR0267,Palliative Care Always Specialization,Patient Care,143,119,83.21678321678321
+COR0268,Fundamentals of Flight mechanics Specialization,Physics and Astronomy,3238,2094,64.66954910438542
+COR0269,Leading: Human Resource Management and Leadership Specialization,Leadership and Management,3757,3290,87.56986957679
+COR0270,Data Warehousing for Business Intelligence Specialization,Data Analysis,4298,2508,58.35272219637041
+COR0271,FinTech: Finance Industry Transformation and Regulation Specialization,Business Strategy,1165,676,58.02575107296137
+COR0272,Digital Signal Processing Specialization,Electrical Engineering,1884,1746,92.67515923566879
+COR0273,Data Science: Statistics and Machine Learning Specialization,Data Analysis,2105,1955,92.87410926365796
+COR0274,"Introduction to Biology: Ecology, Evolution, & Biodiversity Specialization",Environmental Science and Sustainability,2739,1808,66.00949251551661
+COR0275,Introduction to Financial Accounting: The Accounting Cycle Specialization,Finance,4828,2831,58.63711681855841
+COR0276,Good with Words: Speaking and Presenting Specialization,Personal Development,2506,1942,77.49401436552274
+COR0277,Fundamentals of Immunology Specialization,Basic Science,4995,3514,70.35035035035035
+COR0278,Gender Analytics: Gender Equity through Inclusive Design Specialization,Leadership and Management,3860,3137,81.26943005181347
+COR0279,Data Science Foundations: Statistical Inference Specialization,Probability and Statistics,2559,1632,63.77491207502931
+COR0280,Real-World Engineering Management Specialization,Leadership and Management,3541,2174,61.39508613386049
+COR0281,Hands-on Internet of Things Specialization,Computer Security and Networks,197,122,61.92893401015228
+COR0282,International Business Essentials Specialization,Business Essentials,792,582,73.48484848484848
+COR0283,Qualitative Research Design and Methods for Public Health Specialization,Public Health,4289,2152,50.174865936115644
+COR0284,"Organizational Leadership in Diversity, Equity & Inclusion Specialization",Leadership and Management,324,195,60.18518518518518
+COR0285,Survey Data Collection and Analytics  Specialization,Data Analysis,3497,1881,53.78896196740063
+COR0286,The Fundamentals of Personal Finance Specialization,Business Essentials,2716,2703,99.52135493372607
+COR0287,Financial Reporting Specialization,Business Essentials,396,330,83.33333333333334
+COR0288,Salesforce Fundamentals Specialization,Business Essentials,2131,1558,73.11121539183482
+COR0289,Advanced Statistics for Data Science Specialization,Math and Logic,2406,1923,79.92518703241896
+COR0290,How to Start Your Own Business Specialization,Entrepreneurship,384,239,62.239583333333336
+COR0291,Patient Safety Specialization,Patient Care,3555,3309,93.08016877637131
+COR0292,Uncommon Sense Teaching Specialization,Education,4685,2929,62.51867662753469
+COR0293,Advanced Business Analytics Specialization,Business Essentials,1922,1652,85.95213319458897
+COR0294,Digital Fashion Innovation Specialization,Business Strategy,4695,3958,84.3024494142705
+COR0295,Competitive Strategy and Organization Design Specialization,Business Strategy,4619,3137,67.91513314570253
+COR0296,Computer Security and Systems Management Specialization,Security,3552,2549,71.76238738738738
+COR0297,Business English for Non-Native Speakers Specialization,Business Essentials,504,366,72.61904761904762
+COR0298,Cloud Computing Law Specialization,Law,1855,1810,97.57412398921834
+COR0299,"Project Management: Tools, Approaches, Behavioural Skills  Specialization",Leadership and Management,264,173,65.53030303030303
+COR0300,Optical Engineering Specialization,Electrical Engineering,1845,1517,82.22222222222221
+COR0301,Android App Development Specialization,Mobile and Web Development,2588,2092,80.83462132921174
+COR0302,Introduction to Public Relations and the Media Specialization,Marketing,1203,929,77.2236076475478
+COR0303,Cloud-Native Development with OpenShift and Kubernetes Specialization,Cloud Computing,664,533,80.2710843373494
+COR0304,Developing Your Musicianship Specialization,Music and Art,1950,1477,75.74358974358975
+COR0305,Innovation: From Creativity to Entrepreneurship Specialization,Leadership and Management,4089,3579,87.52751283932501
+COR0306,C++ Programming for Unreal Game Development Specialization,Software Development,607,464,76.44151565074135
+COR0307,Mathematics for Engineers Specialization,Math and Logic,4224,3567,84.44602272727273
+COR0308,Marketing Mix Implementation Specialization,Marketing,4181,2363,56.51757952642909
+COR0309,TensorFlow: Data and Deployment Specialization,Machine Learning,828,474,57.2463768115942
+COR0310,Content Strategy for Professionals Specialization,Marketing,2507,2291,91.3841244515357
+COR0311,Digital Marketing Strategy and Planning Specialization,Marketing,2507,2003,79.89629038691663
+COR0312,Organizational Change and Culture for Adopting Google Cloud Specialization,Cloud Computing,3426,1793,52.335084646818444
+COR0313,Foundations of Global Health Specialization,Public Health,3167,2734,86.32775497316072
+COR0314,Essentials of Corporate Finance Specialization,Finance,2770,2372,85.63176895306859
+COR0315,Python for Cybersecurity Specialization,Security,3582,2166,60.46901172529313
+COR0316,Object Oriented Java Programming: Data Structures and Beyond Specialization,Software Development,2750,2672,97.16363636363636
+COR0317,Integrative Nursing Specialization,Patient Care,3600,3465,96.25
+COR0318,Accounting Data Analytics Specialization,Data Analysis,3248,3069,94.48891625615764
+COR0319,Habilidades Gerenciales  Specialization,Personal Development,4148,3567,85.99324975891996
+COR0320,Become a Journalist: Report the News! Specialization,Music and Art,4100,3572,87.1219512195122
+COR0321,Introduction to Electricity and Magnetism Specialization,Physics and Astronomy,4264,2865,67.19043151969981
+COR0322,Modern Big Data Analysis with SQL Specialization,Data Analysis,1372,895,65.2332361516035
+COR0323,Clinical Data Science Specialization,Data Analysis,4401,2585,58.73665076119063
+COR0324,Diseño y Gestión de Proyectos de Desarrollo Specialization,Governance and Society,3861,2102,54.441854441854446
+COR0325,Memoir and Personal Essay: Write About Yourself Specialization,Music and Art,4080,3633,89.04411764705881
+COR0326,Improving Leadership & Governance in Nonprofit Organizations Specialization,Leadership and Management,307,211,68.72964169381108
+COR0327,Game Design and Development with Unity 2020 Specialization,Software Development,4238,2294,54.12930627654554
+COR0328,Health Information Literacy for Data Analytics Specialization,Health Informatics,1144,600,52.44755244755245
+COR0329,Systems Biology and Biotechnology Specialization,Biology,2034,1048,51.524090462143555
+COR0330,TensorFlow 2 for Deep Learning Specialization,Machine Learning,1605,1410,87.85046728971963
+COR0331,Digital Transformation in Financial Services Specialization,Business Strategy,4341,3400,78.3229670582815
+COR0332,Digital Transformation Using AI/ML with Google Cloud Specialization,Cloud Computing,1834,987,53.81679389312977
+COR0333,Data Science with Databricks for Data Analysts Specialization,Data Analysis,4461,3388,75.94709706343869
+COR0334,Healthcare Marketplace Specialization,Healthcare Management,522,305,58.429118773946364
+COR0335,Online Learning  Design for Educators Specialization,Education,1331,1224,91.96093163035312
+COR0336,Statistical Thermodynamics Specialization,Mechanical Engineering,1559,923,59.20461834509301
+COR0337,User Interface Design Specialization,Design and Product,882,696,78.91156462585033
+COR0338,JavaScript for Beginners Specialization,Mobile and Web Development,2523,2265,89.77407847800237
+COR0339,Immunology: The Immune System and its Failures Specialization,Basic Science,2454,2453,99.95925020374898
+COR0340,Image Processing for Engineering and Science Specialization,Electrical Engineering,4276,2233,52.22170252572498
+COR0341,Autodesk CAD/CAM for Manufacturing Specialization,Mechanical Engineering,4092,2293,56.03616813294232
+COR0342,"Data Engineering, Big Data and ML on Google Cloud 日本語版 Specialization",Software Development,891,711,79.7979797979798
+COR0343,Adapting: Career Development Specialization,Leadership and Management,3588,2083,58.0546265328874
+COR0344,Claves de la Dirección de Empresas Specialization,Leadership and Management,813,424,52.152521525215256
+COR0345,European Business Law  Specialization,Law,3224,3196,99.13151364764268
+COR0346,Information​ ​Systems Specialization,Support and Operations,2661,2631,98.87260428410372
+COR0347,IBM AI Enterprise Workflow Specialization,Machine Learning,419,375,89.49880668257757
+COR0348,Programming in C++: A Hands-on Introduction Specialization,Software Development,406,324,79.80295566502463
+COR0349,The Teacher and Social and Emotional Learning (SEL) Specialization,Education,892,833,93.38565022421524
+COR0350,Business English Specialization,Learning English,4072,2754,67.63261296660119
+COR0351,Value-Based Care Specialization,Healthcare Management,3889,2838,72.97505785548985
+COR0352,Marketing with TikTok Specialization,Marketing,4331,3316,76.56430385592242
+COR0353,Vital Skills for Data Science Specialization,Data Analysis,3781,3291,87.04046548532133
+COR0354,Building Cloud Computing Solutions at Scale Specialization,Cloud Computing,4653,3936,84.5905867182463
+COR0355,International Marketing & Cross Industry Growth  Specialization,Marketing,1510,1077,71.32450331125828
+COR0356,Building No-Code Apps with AppSheet Specialization,Cloud Computing,1717,1700,99.00990099009901
+COR0357,CAD and Digital Manufacturing Specialization,Mechanical Engineering,2591,1935,74.68159011964492
+COR0358,Palliative Care: It's Not Just Hospice Anymore Specialization,Patient Care,1531,1352,88.3082952318746
+COR0359,Plant Bioinformatic Methods Specialization,Research Methods,654,352,53.822629969418955
+COR0360,3D Printing and Additive Manufacturing Specialization,Design and Product,134,113,84.32835820895522
+COR0361,Implementación del Marketing Mix Specialization,Marketing,1692,1155,68.26241134751773
+COR0362,Learn English: Advanced Grammar and Punctuation Specialization,Learning English,655,427,65.19083969465649
+COR0363,Leverage Data Science for a More Agile Supply Chain Specialization,Data Analysis,4676,4175,89.28571428571429
+COR0364,Art for Games  Specialization,Music and Art,1597,1425,89.22980588603632
+COR0365,Getting Started with Google Workspace en Español Specialization,Cloud Computing,3862,2315,59.94303469704816
+COR0366,Career Self-Management Training and Certification Specialization,Business Essentials,3847,2042,53.0803223290876
+COR0367,Introduction to Scripting in Python Specialization,Software Development,2952,2458,83.26558265582655
+COR0368,Market Research Specialization,Marketing,1374,1130,82.24163027656476
+COR0369,Administración de Proyectos: Principios Básicos Specialization,Leadership and Management,1878,961,51.17145899893504
+COR0370,AI in Healthcare Specialization,Machine Learning,403,352,87.34491315136476
+COR0371,The Art of Sales: Mastering the Selling Process Specialization,Leadership and Management,4734,4529,95.66962399662019
+COR0372,Self-Driving Cars Specialization,Software Development,1562,1246,79.76952624839949
+COR0373,Anatomy Specialization,Basic Science,2350,1814,77.19148936170212
+COR0374,Learn English: Beginning Grammar Specialization,Learning English,1291,999,77.38187451587916
+COR0375,IELTS Preparation Specialization,Learning English,436,362,83.02752293577981
+COR0376,"Modern Robotics:  Mechanics, Planning, and Control Specialization",Mechanical Engineering,2608,1826,70.01533742331289
+COR0377,Extended Reality for Everybody Specialization,Design and Product,2904,2390,82.30027548209367
+COR0378,Algebra: Elementary to Advanced Specialization,Math and Logic,2447,1440,58.84756845116469
+COR0379,Business and Marketing Strategies Specialization,Marketing,1559,1417,90.891597177678
+COR0380,Digital Technologies and the Future of Manufacturing  Specialization,Business Strategy,3628,3296,90.84895259095921
+COR0381,Web3 and Blockchain in Global Commerce Specialization,Computer Security and Networks,1615,1184,73.312693498452
+COR0382,Fundraising and Development Specialization,Business Strategy,731,580,79.34336525307798
+COR0383,Become a Sustainable Business Change Agent Specialization,Leadership and Management,3941,2127,53.97107333164172
+COR0384,Interviewing and Resume Writing in English Specialization,Business Essentials,406,361,88.91625615763546
+COR0385,Learn Mandarin Chinese Specialization,Other Languages,1973,1058,53.62392295995946
+COR0386,Newborn Baby Care Specialization,Patient Care,2105,1484,70.49881235154393
+COR0387,商务基础 (中文版) Specialization,Business Essentials,3634,2299,63.26362135388002
+COR0388,Scrum Master Certification Specialization,Design and Product,645,567,87.90697674418605
+COR0389,Programming with Google Go Specialization,Software Development,248,152,61.29032258064516
+COR0390,Sports Performance Analytics Specialization,Data Analysis,1643,1018,61.95982958003652
+COR0391,Learn Spanish: Basic Spanish Vocabulary Specialization,Other Languages,4648,2387,51.35542168674698
+COR0392,Blockchain Revolution Specialization,Software Development,899,490,54.50500556173527
+COR0393,Creating Business Value with Data and Looker Specialization,Cloud Computing,137,108,78.83211678832117
+COR0394,TOEFL Preparation Specialization,Learning English,2062,1661,80.55286129970902
+COR0395,Foundations of Public Health Practice Specialization,Public Health,4999,4514,90.29805961192238
+COR0396,Computational Social Science Specialization,Data Analysis,3960,3400,85.85858585858585
+COR0397,"Energy Production, Distribution & Safety Specialization",Electrical Engineering,2344,2290,97.6962457337884
+COR0398,Digitalisation in Aeronautics and Space Specialization,Mechanical Engineering,877,651,74.230330672748
+COR0399,Introducción a la inteligencia artificial Specialization,Algorithms,208,192,92.3076923076923
+COR0400,Digital Health Specialization,Public Health,4157,2214,53.25956218426751
+COR0401,Sales Operations/Management Specialization,Leadership and Management,1704,1536,90.14084507042254
+COR0402,The Art of Visual Storytelling Specialization,Personal Development,701,622,88.73038516405136
+COR0403,Advanced Leadership Skills for the 21st Century Specialization,Leadership and Management,290,232,80.0
+COR0404,Advanced Embedded Linux Development Specialization,Software Development,1596,1574,98.62155388471177
+COR0405,Strategic Thinking for Everyone Specialization,Personal Development,475,410,86.31578947368422
+COR0406,Professional Selling: 3 Steps to High-Performance Specialization,Marketing,313,172,54.9520766773163
+COR0407,GPU Programming Specialization,Software Development,4927,2839,57.621270550030445
+COR0408,Healthy and Sustainable Foods and Products Specialization,Public Health,1033,554,53.63020329138431
+COR0723,Reducing Gun Violence in America: Evidence for Change,Public Health,2096,1662,79.29389312977099
+COR0409,Communication For Everyone  Specialization,Personal Development,1849,1649,89.1833423472147
+COR0410,Principles of Leadership: Leading Technical Teams Specialization,Personal Development,3069,2541,82.79569892473118
+COR0411,"Diversity, Equity, and Inclusion for Organizational Leaders Specialization",Leadership and Management,3217,1619,50.32639104755984
+COR0412,Home-Based Child Care Specialization,Education,941,517,54.94155154091393
+COR0413,Deep Learning for Healthcare Specialization,Machine Learning,2408,1360,56.47840531561462
+COR0414,Google Data Analytics Professional Certificate,Data Analysis,3397,3275,96.40859581984104
+COR0415,Google Project Management: Professional Certificate,Leadership and Management,4614,2510,54.399653229302125
+COR0416,IBM Data Science Professional Certificate,Data Analysis,135,118,87.4074074074074
+COR0417,Google UX Design Professional Certificate,Design and Product,459,449,97.82135076252723
+COR0418,Google IT Support Professional Certificate,Support and Operations,414,264,63.76811594202898
+COR0419,IBM Data Analyst Professional Certificate,Data Analysis,4393,2727,62.07603004780332
+COR0420,Google Digital Marketing & E-commerce Professional Certificate,Marketing,1514,1427,94.25363276089828
+COR0421,IBM DevOps and Software Engineering Professional Certificate,Software Development,3794,3271,86.21507643647865
+COR0422,IBM Full Stack Software Developer Professional Certificate,Cloud Computing,3553,2626,73.90937236138474
+COR0423,IBM Data Engineering Professional Certificate,Data Management,641,380,59.2823712948518
+COR0424,IBM Data Analytics with Excel and R Professional Certificate,Data Analysis,2000,1242,62.1
+COR0425,IBM Cybersecurity Analyst Professional Certificate,Security,4934,2847,57.701661937576
+COR0426,Google Advanced Data Analytics Professional Certificate,Data Analysis,2230,1214,54.43946188340807
+COR0427,IBM Back-End Development Professional Certificate,Software Development,1394,963,69.08177905308465
+COR0428,IBM Applied AI Professional Certificate,Machine Learning,4099,2267,55.306172237131015
+COR0429,Meta Front-End Developer Professional Certificate,移动和网络开发,3333,2323,69.6969696969697
+COR0430,IBM IT Support  Professional Certificate,Support and Operations,1544,1355,87.75906735751295
+COR0431,Google IT Automation with Python Professional Certificate,Support and Operations,1763,1528,86.67044809982983
+COR0432,IBM Data Warehouse Engineer Professional Certificate,Data Management,4085,2178,53.317013463892295
+COR0433,IBM AI Engineering Professional Certificate,Machine Learning,2125,1350,63.52941176470588
+COR0434,IBM Applied DevOps Engineering Professional Certificate,Software Development,3503,2997,85.5552383671139
+COR0435,Meta Social Media Marketing Professional Certificate,Marketing,3634,2869,78.94881673087507
+COR0436,Intuit Academy Bookkeeping Professional Certificate,Business Essentials,3476,2875,82.71001150747986
+COR0437,DeepLearning.AI TensorFlow Developer Professional Certificate,Machine Learning,4302,2222,51.65039516503952
+COR0438,Meta Back-End Developer Professional Certificate,Mobile and Web Development,2392,1284,53.67892976588629
+COR0439,Meta iOS Developer Professional Certificate,Mobile and Web Development,3585,3190,88.98186889818689
+COR0440,Google Business Intelligence Professional Certificate,Data Analysis,2424,1803,74.38118811881188
+COR0441,Meta Android Developer Professional Certificate,Mobile and Web Development,3453,2621,75.90501013611353
+COR0442,Meta Database Engineer Professional Certificate,Data Management,2153,1214,56.386437529029266
+COR0443,Análisis de Datos de Google Professional Certificate,Análisis de Datos,3961,3151,79.55061853067407
+COR0444,SAP Technology Consultant  Professional Certificate,Leadership and Management,3412,2843,83.32356389214537
+COR0445,Gestión de Proyectos de Google Professional Certificate,Liderazgo y Gestión,3336,2419,72.51199040767386
+COR0446,AWS Cloud Solutions Architect  Professional Certificate,Cloud Computing,2735,1939,70.89579524680073
+COR0447,Arizona State University TESOL Professional Certificate,Learning English,4223,3943,93.36964243428842
+COR0448,Salesforce Sales Operations Professional Certificate,Business Essentials,1359,1180,86.82855040470935
+COR0449,Diseño de Experiencia del Usuario (UX) de Google Professional Certificate,Diseño y Producto,1918,1151,60.010427528675706
+COR0450,Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate,Cloud Computing,1512,1193,78.9021164021164
+COR0451,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate,Machine Learning,3028,2337,77.17965653896962
+COR0452,Preparing for Google Cloud Certification: Cloud Architect Professional Certificate,Cloud Computing,1702,1367,80.31727379553466
+COR0453,Google Data Analytics (PT) Professional Certificate,Data Analysis,2021,1072,53.04304799604156
+COR0454,Preparing for Google Cloud Certification: Cloud Engineer Professional Certificate,Cloud Computing,665,596,89.62406015037594
+COR0455,Análise de marketing da Meta Professional Certificate,Marketing,4258,2270,53.31141380930015
+COR0456,Preparing for Google Cloud Certification: Cloud DevOps Engineer Professional Certificate,Cloud Computing,4959,4306,86.83202258519863
+COR0457,Preparing for Google Cloud Certification: Cloud Developer Professional Certificate,Cloud Computing,1292,1230,95.20123839009288
+COR0458,Preparing for Google Cloud Certification: Cloud Security Engineer Professional Certificate,Cloud Computing,2671,2634,98.61475102957694
+COR0459,Preparing for Google Cloud Certification: Cloud Network Engineer Professional Certificate,Cloud Computing,2509,1997,79.59346353128737
+COR0460,PwC GST Taxation Executive  Professional Certificate,Finance,1459,900,61.68608636052091
+COR0461,Salesforce Sales Development Representative Professional Certificate,Business Essentials,742,542,73.04582210242587
+COR0462,SAS Programmer Professional Certificate,Data Analysis,4482,4479,99.9330655957162
+COR0463,Google UX Design (PT) Professional Certificate,Design and Product,3449,2452,71.09307045520441
+COR0464,Google Project Management (PT) Professional Certificate,Leadership and Management,670,567,84.6268656716418
+COR0465,Microsoft Azure Data Scientist Associate (DP-100)  Professional Certificate,Software Development,4977,4881,98.07112718505124
+COR0466,Google Data Analytics Professional Certificate,Data Analysis,3742,3062,81.82789951897381
+COR0467,Google Project Management Professional Certificate,Leadership and Management,1020,817,80.09803921568628
+COR0468,Google データアナリティクス Professional Certificate,データ分析,1221,863,70.67977067977068
+COR0469,Tally Bookkeeper Professional Certificate,Finance,1573,816,51.875397329942786
+COR0470,تحليلات البيانات من Google Professional Certificate,Data Analysis,2850,2740,96.14035087719299
+COR0471,SAS Visual Business Analytics Professional Certificate,Data Analysis,762,396,51.96850393700787
+COR0472,Google UX Design Professional Certificate,Design and Product,3474,2775,79.87910189982729
+COR0473,Palo Alto Networks Cybersecurity Professional Certificate,Security,1123,867,77.20391807658059
+COR0474,Google IT Support (Deutsch)  Professional Certificate,Support and Operations,3020,1747,57.8476821192053
+COR0475,Google IT Support Professional Certificate,Support and Operations,3471,2795,80.52434456928839
+COR0476,Google Project Management (DE) Professional Certificate,Leadership and Management,2207,1653,74.89805165382873
+COR0477,Marketing en redes sociales de Meta Professional Certificate,Marketing,1781,1441,80.90960134755754
+COR0478,Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate 日本語版 Professional Certificate,Machine Learning,3833,2364,61.674928254630835
+COR0479,Analitik Data Google Professional Certificate,Data Analysis,4758,4402,92.5178646490122
+COR0480,Google Data Analytics (DE) Professional Certificate,Data Analysis,2191,1417,64.6736649931538
+COR0481,IBM Machine Learning Professional Certificate,Machine Learning,450,268,59.55555555555555
+COR0482,Microsoft Azure Data Engineering Associate (DP-203) Professional Certificate,Data Analysis,2105,2010,95.48693586698337
+COR0483,IBM Mainframe Developer Professional Certificate,Software Development,2038,1926,94.50441609421001
+COR0484,Google Cloud Digital Leader Training Professional Certificate,Cloud Computing,457,411,89.93435448577681
+COR0485,IBM z/OS Mainframe Practitioner Professional Certificate,Data Management,1764,1143,64.79591836734694
+COR0486,Soporte de Tecnologías de la Información de Google Professional Certificate,Support and Operations,159,122,76.72955974842768
+COR0487,Suporte em TI do Google Professional Certificate,Operações e suporte,818,450,55.012224938875306
+COR0488,Meta AR Developer  Professional Certificate,Software Development,2593,1443,55.64982645584266
+COR0489,Google Professional Workspace Administrator Professional Certificate,Computer Security and Networks,1396,1340,95.98853868194843
+COR0490,SAS Advanced Programmer Professional Certificate,Data Analysis,3301,2704,81.91457134201757
+COR0491,Goodwill® Career Coach and Navigator Professional Certificate,Education,2316,2235,96.50259067357513
+COR0492,Bases de Inteligencia Artificial para Todos Professional Certificate,Software Development,1991,1965,98.69412355600201
+COR0493,Desarrollador back-end de Meta Professional Certificate,Mobile and Web Development,2049,1543,75.30502684236214
+COR0494,UCI Project Management Professional Certificate,Leadership and Management,748,703,93.98395721925134
+COR0724,Structuring Machine Learning Projects,Data Analysis,4733,3566,75.34333403760827
+COR1913,Preparing for the AZ-900 Microsoft Azure Fundamentals Exam,Cloud Computing,4355,2569,58.98966704936854
+COR0495,Pre-MBA Statistics,Probability and Statistics,4577,3704,80.9263709853616
+COR0496,Automation Business Analysis - Concepts and Principles,Business Strategy,463,462,99.78401727861771
+COR0497,Probability & Statistics for Machine Learning & Data Science,Algorithms,4649,2664,57.302645730264565
+COR0498,Excellence in Online Teaching,Education,1365,995,72.89377289377289
+COR0499,Diversité et inclusion sur le lieu de travail ,Leadership and Management,2216,2041,92.1028880866426
+COR0500,A Blueprint for Success – Your Video Pre-Production,Personal Development,1458,1319,90.46639231824417
+COR0501,Design Thinking: Insights to Inspiration ,Business Strategy,1066,680,63.789868667917446
+COR0502,Become a CBRS Certified Professional Installer by Google,Networking,454,350,77.09251101321586
+COR0503,Introduction to Statistics,Data Analysis,456,434,95.17543859649122
+COR0504,Diversity and inclusion in the workplace,Leadership and Management,3039,2256,74.23494570582429
+COR0505,Instructional Design Foundations and Applications,Education,1440,1201,83.40277777777779
+COR0506,Project Practicum with Multiple Projects,Leadership and Management,1096,1013,92.42700729927007
+COR0507,The Science of Well-Being for Teens,Personal Development,2436,2127,87.31527093596058
+COR0508,Introduction to Systematic Review and Meta-Analysis,Research,4495,4369,97.19688542825361
+COR0509,Impact Measurement & Management for the SDGs,Leadership and Management,4268,3328,77.97563261480788
+COR0510,Introduction to Healthcare,Health Informatics,4517,4322,95.68297542616781
+COR0511,Project Execution,Leadership and Management,4793,4230,88.25370331733778
+COR0512,Fundamentals of Finance,Finance,1823,969,53.15414152495887
+COR0513,Social Psychology,Psychology,2699,1893,70.13708781030012
+COR0514,Primeros Auxilios Psicológicos (PAP),Psychology,2429,2079,85.5907780979827
+COR0515,AI Fundamentals for Non-Data Scientists,Leadership and Management,513,273,53.216374269005854
+COR0516,Wine Tasting: Sensory Techniques for Wine Analysis,Personal Development,4485,4114,91.72798216276477
+COR0517,"Cybersecurity Roles, Processes & Operating System Security",Security,1899,1737,91.4691943127962
+COR0518,Introduction to Cybersecurity Foundations,Computer Security and Networks,4575,2378,51.978142076502735
+COR0519,Managing Emotions in Times of Uncertainty & Stress,Education,4456,2748,61.66965888689408
+COR0520,Object-Oriented Data Structures in C++,Software Development,3433,2213,64.46256918147392
+COR0521,Cybersecurity for Everyone,Computer Security and Networks,254,196,77.16535433070865
+COR0522,ESG Risks and Opportunities,Finance,1151,691,60.03475238922677
+COR0523,AI & Law ,Law,4717,4371,92.66482934068264
+COR0524,Removing Barriers to Change,Leadership and Management,850,791,93.05882352941175
+COR0525,Corporate Strategy ,Business Strategy,4497,3161,70.29130531465422
+COR0526,Managerial Accounting Fundamentals,Finance,899,689,76.64071190211345
+COR0527,Emotional Intelligence: Cultivating Immensely Human Interactions,Leadership and Management,1045,1028,98.37320574162679
+COR0528,"Advanced Valuation and Strategy - M&A, Private Equity, and Venture Capital",Finance,4814,2664,55.33859576235979
+COR0529,Antibiotic Stewardship ,Public Health,305,269,88.19672131147541
+COR0530,Introduction to Dental Medicine,Basic Science,2750,2142,77.89090909090909
+COR0531,Driving business towards the Sustainable Development Goals,Business Essentials,1677,1279,76.26714370900417
+COR1914,Data Analytics in Accounting Capstone,Data Analysis,2161,1198,55.43729754743174
+COR0532,Positive Psychiatry and Mental Health ,Basic Science,1247,878,70.40898155573376
+COR0533,Global Diplomacy: the United Nations in the World,Governance and Society,1498,1274,85.04672897196261
+COR0534,Étudier en France: French Intermediate course B1-B2,Other Languages,1294,1279,98.84080370942813
+COR0535,Everyday Parenting: The ABCs of Child Rearing,Psychology,1878,1447,77.05005324813632
+COR0536,Introduction to Electronics,Electrical Engineering,4516,4070,90.12400354295838
+COR0537,AI For Everyone （すべての人のためのAIリテラシー講座）,Business Strategy,3220,2639,81.95652173913044
+COR0538,Economics of Money and Banking,Economics,4910,3050,62.11812627291242
+COR0539,Introduction to Scrum Master Training,Design and Product,3541,2641,74.58345100254165
+COR0540,Kotlin for Java Developers,Software Development,741,398,53.71120107962213
+COR0541,Site Reliability Engineering: Measuring and Managing Reliability,Cloud Computing,1592,1535,96.41959798994975
+COR0542,Electric Industry Operations and Markets,Environmental Science and Sustainability,1987,1302,65.52591847005536
+COR0543,Moral Foundations of Politics ,Governance and Society,2335,2045,87.58029978586723
+COR0544,Principles of Sustainable Finance ,Finance,4563,2520,55.22682445759369
+COR0545,Cybersecurity Compliance Framework & System Administration,Security,3931,2697,68.60849656575935
+COR1915,The Future of Payment Technologies,Finance,3220,2095,65.06211180124224
+COR0546,Spanish for Successful Communication in Healthcare Settings,Patient Care,2341,1256,53.65228534814182
+COR0547,Nuts and Bolts of U.S. Immigration Law,Law,1094,901,82.35831809872029
+COR0548,Introduction to Philosophy,Philosophy,1044,652,62.45210727969349
+COR0549,"FinTech: Foundations, Payments, and Regulations",Business Essentials,4767,4294,90.07761694986365
+COR0550,"The Sustainable Development Goals – A global, transdisciplinary vision for the future",Governance and Society,2589,1317,50.869061413673236
+COR0551,American Contract Law I,Law,1081,922,85.29139685476412
+COR0552,Gender and Sexuality: Diversity and Inclusion in the Workplace,Psychology,3637,2214,60.87434698927687
+COR0553,Weight Management: Beyond Balancing Calories,Nutrition,1229,1052,85.59804719283972
+COR0725, IT Security: Defense against the digital dark arts ,Security,1326,1050,79.18552036199095
+COR0554,Understanding Einstein: The Special Theory of Relativity,Physics and Astronomy,2994,1656,55.31062124248497
+COR0555,Understanding Research Methods,Research Methods,3957,3503,88.52666161233257
+COR0556,Fundamentals of Engineering Exam Review,Mechanical Engineering,508,329,64.76377952755905
+COR0557,Introduction to Engineering Mechanics,Mechanical Engineering,2729,2385,87.39465005496518
+COR0558,Getting Started with Go,Software Development,3389,2903,85.65948657421069
+COR0559,Leading Diverse Teams & Organizations,Leadership and Management,2330,1614,69.27038626609442
+COR0560,Corporate Sustainability. Understanding and Seizing the Strategic Opportunity ,Business Strategy,1521,1049,68.96778435239975
+COR0561,Industrial Biotechnology,Basic Science,3558,1925,54.10342889263631
+COR0562,Suicide Prevention,Personal Development,1771,1761,99.43534726143422
+COR1916,Automation Techniques in RPA,Software Development,1380,915,66.30434782608695
+COR0563,FinTech Law and Policy,Finance,3774,2161,57.26020137784844
+COR0564,U.S. Taxation of International Transactions,Business Essentials,1105,861,77.9185520361991
+COR0565,Introduction to Sustainability,Environmental Science and Sustainability,4890,2643,54.04907975460122
+COR0566,International Security Management,Governance and Society,2551,2378,93.21834574676598
+COR0567,Introduction to Chemistry:  Reactions and Ratios,Chemistry,3851,3060,79.45988055050636
+COR0568,Strategy and Sustainability,Business Strategy,1709,895,52.369806904622585
+COR0569,Python Basics,Software Development,4387,2625,59.83587873261909
+COR0570,L'excellence opérationnelle en pratique ,Leadership and Management,3028,2070,68.36195508586526
+COR0571,AI Applications in Marketing and Finance,Finance,3521,1984,56.34762851462652
+COR0572,Reporting extra-financier et stratégie RSE,Leadership and Management,3594,2515,69.9777406789093
+COR0573,Développement psychologique de l'enfant,Psychology,3927,2237,56.964604023427555
+COR0574,Business Sustainability in the Circular Economy,Business Essentials,4498,2506,55.71365051133837
+COR0575,Introduction to Systems Engineering,Electrical Engineering,1530,1226,80.13071895424837
+COR0576,African development – from the past to the present,Economics,2257,1772,78.51129818342933
+COR0577,Corporate & Commercial Law I: Contracts & Employment Law,Business Essentials,4934,3703,75.05066882853669
+COR0578,Auditing I: Conceptual Foundations of Auditing,Business Essentials,372,230,61.82795698924731
+COR0579,"Innovation Through Design: Think, Make, Break, Repeat",Entrepreneurship,3995,2049,51.28911138923654
+COR0580,International Law in Action: the Arbitration of International Disputes,Law,4711,2954,62.704309063893014
+COR0581,Blockchain: Foundations and Use Cases,Computer Security and Networks,2529,1334,52.7481217872677
+COR0582,Precision Medicine,Research,1003,695,69.29212362911267
+COR0583,Introduction to Forensic Science,Basic Science,3038,2829,93.12047399605004
+COR0584,Customer Segmentation and Prospecting,Business Essentials,4858,4817,99.15603128859613
+COR0585,Fundamentals of Machine Learning for Healthcare,Machine Learning,1710,1121,65.55555555555556
+COR0586,Introduction to English Common Law,Law,3634,2079,57.20968629609246
+COR0587,A Law Student's Toolkit,Law,4398,3416,77.67166894042747
+COR0588,Essentials of Global Health,Public Health,2957,2217,74.97463645586744
+COR0589,ESG and Climate Change,Business Strategy,2124,1350,63.559322033898304
+COR0590,International Organizations Management ,Leadership and Management,3268,3206,98.10281517747858
+COR0591,Ordered Data Structures,Software Development,2458,2073,84.33685923515053
+COR0592,Transgender Medicine for General Medical Providers,Patient Care,644,343,53.2608695652174
+COR0593,Malware Analysis and Introduction to Assembly Language,Security,1222,1110,90.83469721767594
+COR0594,21st Century Energy Transition: how do we make it work?,Environmental Science and Sustainability,3500,2328,66.51428571428572
+COR0595,Entrepreneurship Strategy: From Ideation to Exit,Leadership and Management,2721,2132,78.35354649026092
+COR0596,Big History: Connecting Knowledge,History,4598,2748,59.76511526750761
+COR0597,"AI, Business & the Future of Work",Business Strategy,2426,1217,50.1648804616653
+COR0598,Sports Marketing,Marketing,1682,1233,73.30558858501783
+COR0599,Curanderismo: Traditional Healing Using Plants,History,1865,1494,80.10723860589812
+COR0600,Financial Acumen for Non-Financial Managers,Business Essentials,3043,2742,90.10844561288202
+COR0601,Making Architecture,Music and Art,1295,751,57.992277992278
+COR0602,Equine Welfare and Management,Animal Health,1652,1563,94.61259079903148
+COR0603,Machine Learning for All,Software Development,159,135,84.90566037735849
+COR0604,Introduction to Quantum Information,Math and Logic,613,597,97.38988580750407
+COR0605,Foundations for Assisting in Home Care,Patient Care,4442,2281,51.350742908599734
+COR0606,Engineering Health: Introduction to Yoga and Physiology,Basic Science,4701,3810,81.04658583280153
+COR0607,Queering Identities: LGBTQ+ Sexuality and Gender Identity,Education,2775,2022,72.86486486486487
+COR0608,Aboriginal Worldviews and Education,Education,230,196,85.21739130434783
+COR0609,Scrum Master Certification: Scrum Methodologies,Design and Product,4277,3497,81.7629179331307
+COR0610,Sustainable Fashion,Business Strategy,731,600,82.07934336525308
+COR0611,Medical Terminology I,Basic Science,2341,1780,76.03588210166595
+COR0612,Banking and Financial Institutions,Finance,562,440,78.29181494661923
+COR0613,Introduction to Back-End Development,Mobile and Web Development,858,772,89.97668997668997
+COR0614,Politics and Economics of International Energy,Economics,4948,4205,84.98383185125303
+COR0615,Finding Purpose and Meaning In Life: Living for What Matters Most,Personal Development,1339,1286,96.04182225541449
+COR0616,Central Banks and Monetary Policy,Business Essentials,2823,2577,91.28586609989372
+COR0617,Leading Healthcare Quality and Safety,Healthcare Management,1378,1292,93.75907111756169
+COR0726,Build Wireframes and Low-Fidelity Prototypes,Design and Product,3025,2341,77.38842975206612
+COR0618,"Computers, Waves, Simulations: A Practical Introduction to Numerical Methods using Python",Research Methods,1638,1282,78.26617826617827
+COR0619,Introduction to Clinical Data,Data Analysis,4860,4839,99.5679012345679
+COR0620,"The Modern World, Part Two: Global History since 1910",History,4609,3047,66.10978520286396
+COR0621,Word Forms and Simple Present Tense,Learning English,1571,1494,95.0986632718014
+COR0622,ESG Impact: Investor Perspective,Finance,1877,1519,80.92701118806606
+COR0623,"Federal Taxation I: Individuals, Employees, and Sole Proprietors",Business Essentials,4022,2325,57.8070611636002
+COR0624,Machine Translation,Machine Learning,4025,3614,89.7888198757764
+COR0625,Feminism and Social Justice,History,981,691,70.43832823649338
+COR0626,Introduction to Portfolio Construction and Analysis with Python,Finance,2891,2182,75.47561397440332
+COR0627,Introduction to Comparative Indo-European Linguistics,Other Languages,3832,3287,85.7776617954071
+COR0628,Linear Circuits 1: DC Analysis,Electrical Engineering,4497,2402,53.413386702245944
+COR0629,Deep Neural Networks with PyTorch,Machine Learning,2270,2252,99.20704845814979
+COR0630,Introduction to Economic Theories,Economics,2380,1339,56.260504201680675
+COR0631,Security & Safety Challenges in a Globalized World,Governance and Society,728,514,70.6043956043956
+COR0632,AI Strategy and Governance,Machine Learning,3653,3426,93.78592937311798
+COR0633,The Science of Stem Cells,Basic Science,4509,2665,59.10401419383455
+COR0634,Nutrition and Lifestyle in Pregnancy,Nutrition,658,448,68.08510638297872
+COR0635,Introduction to Self-Driving Cars,Software Development,4584,2637,57.526178010471206
+COR0636,Business Models For Sustainability,Business Strategy,3916,2247,57.379979570990805
+COR0637,"Leading for Equity, Diversity and Inclusion in Higher Education",Personal Development,878,554,63.097949886104786
+COR0638,Introduction to Chemistry:  Structures and Solutions,Chemistry,2695,2255,83.6734693877551
+COR0639,Building AI Powered Chatbots Without Programming,Design and Product,1182,819,69.28934010152284
+COR0640,Leading transformations: Manage change,Leadership and Management,454,387,85.24229074889867
+COR0641,Cyber Security Fundamentals,Computer Security and Networks,4386,3753,85.56771545827634
+COR0642,Diversity and Inclusion in Education,Education,2473,1737,70.23857662757784
+COR0643,Teach English Now! Foundational Principles,Education,2096,1567,74.76145038167938
+COR0644,Formal Financial Accounting,Business Essentials,1603,1571,98.00374298190893
+COR0645,Marketing Digital en Acción,Marketing,1162,906,77.96901893287436
+COR0646,Storytelling and influencing: Communicate with impact,Leadership and Management,734,665,90.59945504087193
+COR0647,Influencer Marketing Strategy,Marketing,1281,708,55.26932084309133
+COR0648,AI For Everyone,Business Strategy,1433,1106,77.18073970690858
+COR0649,Supervised Machine Learning: Regression and Classification ,Machine Learning,483,418,86.5424430641822
+COR0650,"Foundations: Data, Data, Everywhere",Data Analysis,1849,1388,75.06760411032991
+COR0651,Foundations of Project Management,Leadership and Management,508,276,54.330708661417326
+COR0652,Leadership Skills,Leadership and Management,1423,742,52.143359100491914
+COR0727,First Step Korean,Other Languages,1841,1729,93.91634980988593
+COR0653,Technical Support Fundamentals,Support and Operations,4580,2997,65.43668122270742
+COR0654,Foundations of User Experience (UX) Design,Design and Product,270,236,87.4074074074074
+COR0655,Ask Questions to Make Data-Driven Decisions,Data Analysis,2409,1588,65.91946865919469
+COR0656,Indigenous Canada,History,1202,965,80.2828618968386
+COR0657,Financial Markets,Finance,2438,1547,63.45365053322395
+COR0658,Advanced Learning Algorithms,Machine Learning,3657,1866,51.025430680885975
+COR0659,The Science of Well-Being,Personal Development,508,358,70.47244094488188
+COR0660,Foundations of Digital Marketing and E-commerce,Marketing,140,79,56.42857142857143
+COR0661,Project Initiation: Starting a Successful Project,Leadership and Management,1736,1447,83.35253456221197
+COR0662,Neural Networks and Deep Learning,Machine Learning,4936,4034,81.72609400324149
+COR0663,The Bits and Bytes of Computer Networking,Networking,1505,1321,87.77408637873754
+COR0664,Prepare Data for Exploration,Data Analysis,1363,1190,87.30741012472487
+COR0665,Introduction to Psychology ,Psychology,856,629,73.48130841121495
+COR0666,Introduction to Cybersecurity Tools & Cyber Attacks,Cloud Computing,747,689,92.23560910307899
+COR0667,What is Data Science? ,Data Analysis,3533,2658,75.23351259552788
+COR0668,Fundamentals of Project Planning and Management,Business Essentials,4063,3283,80.80236278611864
+COR0669,"Start the UX Design Process: Empathize, Define, and Ideate",Design and Product,2998,2343,78.15210140093396
+COR0670,Linear Algebra for Machine Learning and Data Science,Algorithms,4190,4021,95.96658711217184
+COR0671,"HTML, CSS, and Javascript for Web Developers",Mobile and Web Development,921,633,68.72964169381108
+COR0672,Introduction to Data Analytics,Data Analysis,2832,1480,52.259887005649716
+COR0673,Writing in the Sciences,Basic Science,4902,3742,76.33618931048551
+COR0674,"Unsupervised Learning, Recommenders, Reinforcement Learning",Machine Learning,4593,2573,56.02003048116699
+COR0675,Process Data from Dirty to Clean,Data Analysis,2783,1871,67.2296083363277
+COR0676,OKR Certification: Leadership and Goal Setting,Leadership and Management,4238,2803,66.13968853232657
+COR0677,Psychological First Aid,Psychology,676,657,97.18934911242604
+COR0678,Foundations of Data Science,Data Analysis,2540,2373,93.4251968503937
+COR0679,Stanford Introduction to Food and Health,Nutrition,2595,1546,59.57610789980732
+COR0680,Successful Negotiation: Essential Strategies and Skills,Business Essentials,441,261,59.183673469387756
+COR0681,Project Planning: Putting It All Together,Leadership and Management,867,526,60.66897347174164
+COR0682,Tools for Data Science,Data Analysis,2118,1460,68.93295561850803
+COR0683,"Python for Data Science, AI & Development",Data Analysis,3220,2339,72.63975155279503
+COR0684,Foundations of Business Intelligence,Data Analysis,180,144,80.0
+COR0685,Private Equity and Venture Capital,Finance,3498,2418,69.12521440823328
+COR0686,Operating Systems and You: Becoming a Power User,Support and Operations,818,427,52.20048899755502
+COR0687,Programming for Everybody (Getting Started with Python),Software Development,4792,4453,92.92570951585977
+COR0688,Attract and Engage Customers with Digital Marketing,Marketing,4277,2793,65.30278232405891
+COR0689,Analyze Data to Answer Questions,Data Analysis,1382,1307,94.57308248914616
+COR0690,Natural Language Processing with Classification and Vector Spaces,Machine Learning,616,502,81.4935064935065
+COR0691,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",Machine Learning,650,425,65.38461538461539
+COR0692,Bookkeeping Basics,Business Essentials,678,402,59.29203539823009
+COR0693,Agile Project Management,Leadership and Management,681,355,52.12922173274597
+COR0694,Agile with Atlassian Jira,Software Development,2423,2063,85.14238547255468
+COR0695,Crash Course on Python,Support and Operations,1778,1701,95.66929133858267
+COR0696,Organizational Analysis ,Leadership and Management,1272,708,55.660377358490564
+COR0697,Business Analytics with Excel: Elementary to Advanced,Business Essentials,3042,2750,90.40105193951348
+COR0698,SQL for Data Science,Data Analysis,1726,1472,85.28389339513326
+COR0699,"Brand Management: Aligning Business, Brand and Behaviour",Entrepreneurship,4383,3936,89.80150581793292
+COR0700,Introduction to Artificial Intelligence (AI),Machine Learning,4356,3237,74.31129476584022
+COR0701,Get Started with Python,Data Analysis,1524,1294,84.90813648293964
+COR1942,The Structured Query Language (SQL),Data Analysis,1215,916,75.39094650205762
+COR0702,Game Theory,Economics,3145,1686,53.60890302066773
+COR0703, System Administration and IT Infrastructure Services,Support and Operations,904,618,68.36283185840708
+COR0704,Artificial Intelligence in Marketing,Marketing,4829,3288,68.08863118658107
+COR0705,Project Execution: Running the Project,Leadership and Management,2132,1119,52.4859287054409
+COR0706,Excel Basics for Data Analysis,Data Analysis,3159,2358,74.64387464387464
+COR0707,AWS Cloud Practitioner Essentials,Cloud Computing,173,112,64.73988439306359
+COR0708,Share Data Through the Art of Visualization,Data Analysis,2734,1649,60.314557425018286
+COR0709,Introduction to Negotiation: A Strategic Playbook for Becoming a Principled and Persuasive Negotiator,Business Essentials,2472,2347,94.94336569579288
+COR0710,Introduction to Cloud Computing,Cloud Computing,4443,4013,90.32185460274589
+COR0711,Introduction to Machine Learning in Production,Machine Learning,1750,1706,97.48571428571428
+COR1943,Leading Teams: Developing as a Leader,Leadership and Management,541,400,73.93715341959334
+COR0712,The Strategy of Content Marketing,Marketing,847,814,96.1038961038961
+COR0713,"Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",Software Development,3517,2036,57.890247369917546
+COR0714,Connected Leadership,Personal Development,2973,1606,54.019508913555335
+COR0715,Management of Fashion and Luxury Companies,Leadership and Management,1592,1543,96.92211055276381
+COR0716,Child Nutrition and Cooking,Nutrition,426,412,96.71361502347418
+COR0717,Data Analysis with R Programming,Data Analysis,1418,772,54.442877291960514
+COR0718,Learning How to Learn: Powerful mental tools to help you master tough subjects,Personal Development,4475,2399,53.60893854748603
+COR0719,Overcoming Dyslexia,Research,1083,704,65.00461680517083
+COR0720,Viral Marketing and How to Craft Contagious Content,Marketing,975,493,50.56410256410256
+COR0721,Convolutional Neural Networks,Machine Learning,1180,1165,98.72881355932203
+COR0722,SQL: A Practical Introduction for Querying Databases,Data Analysis,569,378,66.4323374340949
+COR0728,Human Resources Analytics,Leadership and Management,357,354,99.15966386554622
+COR0729,Fundamentals of Quantitative Modeling,Business Essentials,3241,2304,71.08917000925639
+COR0730,Understanding the Brain: The Neurobiology of Everyday Life,Basic Science,3504,1903,54.3093607305936
+COR0731,ITIL 4 Exam Preparation,Support and Operations,1724,1023,59.338747099767986
+COR0732,Introduction to User Experience Design ,Design and Product,4284,4051,94.56115779645191
+COR0733,Introduction to Social Media Marketing,Marketing,192,173,90.10416666666666
+COR0734,Medical Neuroscience,Research,589,346,58.74363327674024
+COR0735,Databases and SQL for Data Science with Python,Data Analysis,3967,2206,55.60877237206957
+COR0736,Data Science Methodology,Data Analysis,331,258,77.94561933534743
+COR0737,Excel Skills for Business: Essentials,Business Essentials,1030,561,54.46601941747573
+COR0738,Machine Learning with Python,Machine Learning,4445,3744,84.2294713160855
+COR0739,Sequence Models,Machine Learning,2093,1926,92.02102245580507
+COR0740,Global Diplomacy – Diplomacy in the Modern World,Governance and Society,1189,639,53.74264087468461
+COR0741,Introduction to Financial Accounting,Business Essentials,229,117,51.09170305676856
+COR0742,Introduction to Front-End Development,Mobile and Web Development,4750,2377,50.0421052631579
+COR0743,Principles of Management,Leadership and Management,3925,3395,86.49681528662421
+COR0744,Food & Beverage Management,Leadership and Management,2017,1255,62.221120475954386
+COR0745,Google Data Analytics Capstone: Complete a Case Study,Data Analysis,1635,918,56.14678899082569
+COR0746,From Likes to Leads: Interact with Customers Online,Marketing,4979,3409,68.46756376782487
+COR0747,Python Project for Data Science,Data Analysis,4038,3485,86.30510153541357
+COR0748,Cryptography I,Computer Security and Networks,1472,1144,77.71739130434783
+COR0749,An Introduction to American Law,Law,1212,905,74.66996699669967
+COR0750,Marketing Analytics,Marketing,4000,2953,73.825
+COR0751,Introductory Human Physiology,Basic Science,4505,2569,57.02552719200887
+COR0752,International Women's Health and Human Rights,Public Health,2347,1633,69.5781849169152
+COR0753,Machine Learning Foundations for Product Managers,Machine Learning,1690,1598,94.55621301775147
+COR0754,Introduction to Psychology,Psychology,3307,2832,85.63652857574841
+COR0755,Capstone: Applying Project Management in the Real World,Leadership and Management,2150,1776,82.6046511627907
+COR0756,Write Professional Emails in English,Learning English,2401,2050,85.381091211995
+COR0757,Introduction to Marketing,Marketing,4077,2454,60.191317144959534
+COR0758,Narrative Economics,Economics,2933,2017,68.7691783157177
+COR0759,Data Analysis with Python,Data Analysis,4860,3955,81.37860082304526
+COR0760,Gamification,Design and Product,4884,4855,99.40622440622441
+COR0761,Digital Product Management: Modern Fundamentals,Leadership and Management,2307,1588,68.83398352839185
+COR0762,The Path to Insights: Data Models and Pipelines,Data Analysis,3737,2604,69.68156275086969
+COR0763,Learn to Program: The Fundamentals,Software Development,4448,2957,66.47931654676259
+COR0764,Python Data Structures,Software Development,4402,3965,90.0726942298955
+COR0765,Behavioral Finance,Finance,2970,2054,69.15824915824916
+COR0766,Calculus for Machine Learning and Data Science,Algorithms,4687,3929,83.82760827821635
+COR0767,Introduction to Data Engineering,Data Management,4706,3790,80.53548661283469
+COR0768,Finance for Non-Finance Professionals,Finance,4883,3044,62.338726192914194
+COR0769,Essentials in Clinical Simulations Across the Health Professions,Healthcare Management,3498,2046,58.490566037735846
+COR0770,Microeconomics Principles,Economics,3160,2958,93.60759493670886
+COR0771,Forensic Accounting and Fraud Examination,Finance,4882,2648,54.240065546907005
+COR0772,Design and Interpretation of Clinical Trials,Research,827,513,62.031438935912945
+COR0773,Customer Analytics,Business Strategy,4893,2686,54.89474759861026
+COR0774,Introduction to Financial Analysis - The Why?,Business Essentials,4587,3938,85.85131894484412
+COR0775,AWS Cloud Technical Essentials,Cloud Computing,796,465,58.417085427135675
+COR0776,Conduct UX Research and Test Early Concepts,Design and Product,4702,3296,70.09783071033603
+COR0777,Customer Service Fundamentals,Support and Operations,1717,1209,70.41351193942924
+COR0778,Data Management for Clinical Research,Research,4708,4449,94.49872557349192
+COR0779,Fundamentals of Graphic Design,Music and Art,1793,1498,83.54712771890685
+COR0780,Build Basic Generative Adversarial Networks (GANs),Machine Learning,1507,811,53.81552753815527
+COR0781,English for Career Development,Learning English,3871,3528,91.13924050632912
+COR0782,Project Launch,Leadership and Management,1903,1726,90.6988964792433
+COR0783,Introduction to Calculus,Math and Logic,1212,784,64.68646864686468
+COR0784,Natural Language Processing with Probabilistic Models,Machine Learning,1822,1405,77.11306256860593
+COR0785,Computational Thinking for Problem Solving,Algorithms,1071,578,53.96825396825397
+COR0786,Data Visualization and Dashboards with Excel and Cognos,Data Analysis,3408,3060,89.7887323943662
+COR0787,Introduction to Python Programming,Software Development,2136,2094,98.03370786516854
+COR0788,Assets in Accounting,Business Essentials,4703,3626,77.09972358069317
+COR0789,Doing more with Google Sheets,Business Essentials,2379,1706,71.71080285834385
+COR0790,Contabilidad para no contadores ,Finance,3711,2662,71.73268660738346
+COR0791,Convolutional Neural Networks in TensorFlow,Machine Learning,1725,1071,62.08695652173913
+COR0792,Go Beyond the Numbers: Translate Data into Insights,Data Analysis,2118,1177,55.57129367327668
+COR0793,Animal Behaviour and Welfare,Animal Health,3562,2967,83.29590117911286
+COR0794,Understanding Clinical Research: Behind the Statistics,Research,3299,3036,92.02788723855714
+COR0795,Introduction to Mathematical Thinking,Math and Logic,1293,1061,82.05723124516628
+COR0796,Circular Economy - Sustainable Materials Management,Environmental Science and Sustainability,3146,2683,85.28289891926255
+COR0797,Addiction Treatment: Clinical Skills for Healthcare Providers,Patient Care,1594,1051,65.93475533249686
+COR0798,Machine Learning Data Lifecycle in Production ,Machine Learning,4201,2523,60.0571292549393
+COR0799,"Information Systems Auditing, Controls and Assurance",Security,1450,1007,69.44827586206897
+COR0800,Python and Statistics for Financial Analysis,Finance,3422,3270,95.55815312682641
+COR0801,Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),Algorithms,2809,1915,68.17372730509078
+COR0802,Introduction to DevOps,Software Development,4640,3671,79.11637931034483
+COR0803,International Humanitarian Law in Theory and Practice ,Law,1083,736,67.95937211449676
+COR0804,Think Outside the Inbox: Email Marketing,Marketing,4926,3813,77.40560292326431
+COR0805,Introduction to Software Engineering,Software Development,315,256,81.26984126984127
+COR0806,Introduction to Medical Software,Design and Product,2385,1332,55.84905660377358
+COR0807,Introduction to Finance: The Basics,Finance,2282,1257,55.083260297984225
+COR0808,Natural Language Processing with Attention Models,Machine Learning,2772,1954,70.49062049062049
+COR0809,Introduction to Technical Support ,Support and Operations,4453,3082,69.21176734785539
+COR0810,Entrepreneurship 1: Developing the Opportunity,Finance,3744,2825,75.45405982905983
+COR0811,Vital Signs: Understanding What the Body Is Telling Us,Patient Care,232,142,61.206896551724135
+COR0812,International Leadership and Organizational Behavior,Leadership and Management,4410,4003,90.77097505668934
+COR0813,An Introduction to Consumer Neuroscience & Neuromarketing ,Leadership and Management,2881,2541,88.19854217285665
+COR0814,Create High-Fidelity Designs and Prototypes in Figma,Design and Product,3167,2563,80.92832333438585
+COR0815,Improving Communication Skills,Personal Development,539,535,99.25788497217069
+COR0816,The Manager's Toolkit: A Practical Guide to Managing People at Work,Leadership and Management,1501,1400,93.2711525649567
+COR0817,Health Behavior Change: From Evidence to Action,Public Health,1339,1223,91.33681852128454
+COR0818,Programming with JavaScript,Mobile and Web Development,3040,1781,58.58552631578947
+COR0819,Clinical Terminology for International and U.S. Students,Patient Care,3764,2420,64.29330499468651
+COR0820,Réussir le Changement,Leadership and Management,4016,2611,65.01494023904382
+COR0821,Positive Psychology: Martin E. P. Seligman’s Visionary Science,Psychology,2144,2063,96.22201492537313
+COR0822,"Aspectos básicos: Datos, datos, en todas partes",Data Analysis,1883,1274,67.65799256505576
+COR0823,Fundamentals of Reinforcement Learning,Machine Learning,2543,1474,57.96303578450649
+COR0824,Dino 101: Dinosaur Paleobiology,Basic Science,3442,2697,78.35560720511332
+COR0825,Fundamentos de la gestión de proyectos,Leadership and Management,4794,4200,87.60951188986232
+COR0826,Introducción a la programación en Python I: Aprendiendo a programar con Python,Software Development,658,643,97.72036474164135
+COR0827,Fundamentals of Music Theory,Music and Art,3957,2102,53.12105130149103
+COR0828,Oil & Gas Industry Operations and Markets ,Environmental Science and Sustainability,4897,2743,56.013886052685315
+COR0829,Data Visualization with Python,Data Analysis,2960,2597,87.73648648648648
+COR0830,Sales and CRM Overview,Business Essentials,2404,1609,66.93011647254575
+COR0831,Mathematics for Machine Learning: Linear Algebra,Machine Learning,4032,2975,73.78472222222221
+COR0832,Introduction to Corporate Finance,Finance,3293,2573,78.13543880959611
+COR0833,How to Manage a Remote Team,Leadership and Management,1956,1881,96.16564417177914
+COR0834,Construction Project Management,Business Strategy,4751,3676,77.37318459271732
+COR0835,Science of Exercise,Basic Science,3198,3131,97.90494058786742
+COR0836,"Sequences, Time Series and Prediction",Machine Learning,747,379,50.73627844712182
+COR0837,Supply Chain Principles,Business Essentials,2943,1802,61.23003737682636
+COR0838,SAP Professional Fundamentals,Leadership and Management,626,353,56.38977635782748
+COR0839,Visualizing the Living Body: Diagnostic Imaging,Patient Care,2267,1350,59.55006616674019
+COR0840,A Crash Course in Causality:  Inferring Causal Effects from Observational Data,Probability and Statistics,3120,1612,51.66666666666667
+COR0841,Excel Skills for Business: Intermediate I,Business Essentials,1657,1467,88.53349426674714
+COR0842,Natural Language Processing in TensorFlow,Machine Learning,3916,2748,70.17364657814096
+COR0843,Write A Feature Length Screenplay For Film Or Television,Music and Art,2007,1924,95.86447433981067
+COR0844,ADHD: Everyday Strategies for Elementary Students,Education,4164,3367,80.85975024015369
+COR0845,Financial Accounting Fundamentals,Business Essentials,1873,987,52.696209289909234
+COR0846,Introduction to Programming with MATLAB,Software Development,2336,1202,51.455479452054796
+COR0847,Using Python to Access Web Data,Software Development,494,483,97.77327935222672
+COR0848,Dog Emotion and Cognition,Animal Health,941,643,68.33156216790648
+COR0849,"Introduction to Web Development with HTML, CSS, JavaScript",Mobile and Web Development,4763,3194,67.0585765273987
+COR0850,Analyze Datasets and Train ML Models using AutoML,Machine Learning,1934,1604,82.93691830403309
+COR0851,Terrorism and Counterterrorism: Comparing Theory and Practice,Governance and Society,4275,3199,74.83040935672514
+COR0852,"Speak English Professionally: In Person, Online & On the Phone",Learning English,3475,2589,74.50359712230215
+COR0853,Assess for Success: Marketing Analytics and Measurement,Marketing,2819,1551,55.01951046470379
+COR0854,English for Journalism,Learning English,4849,3082,63.55949680346463
+COR0855,The Power of Statistics,Probability and Statistics,2204,1978,89.7459165154265
+COR0856,Visual Elements of User Interface Design,Music and Art,2577,1968,76.36786961583236
+COR0857,Work Smarter with Microsoft Excel,Business Essentials,622,314,50.482315112540185
+COR0858,Supply Chain Logistics,Business Essentials,4073,3213,78.8853424993862
+COR0859,Teamwork Skills: Communicating Effectively in Groups,Leadership and Management,3046,3016,99.0151017728168
+COR0860,Exploratory Data Analysis for Machine Learning,Machine Learning,2624,2222,84.6798780487805
+COR0861,"Penetration Testing, Incident Response and Forensics",Security,2429,1965,80.8974886784685
+COR0862,Version Control,Mobile and Web Development,3185,2647,83.10832025117739
+COR0863,Work Smarter with Microsoft Word,Cloud Computing,4895,4338,88.62104187946885
+COR0864,Arts and Heritage Management,Marketing,2098,1994,95.04289799809342
+COR0865,Innovation Management,Business Strategy,2146,1697,79.07735321528425
+COR0866,Introduction to Spreadsheets and Models,Business Essentials,4503,3604,80.0355318676438
+COR0867,Wind Energy,Mechanical Engineering,3905,3750,96.03072983354673
+COR0868,AI for Medical Diagnosis,Machine Learning,3628,2220,61.19073869900772
+COR0869,Accounting: Principles of Financial Accounting,Finance,313,259,82.74760383386581
+COR0870,Write Your First Novel,Music and Art,1586,826,52.08070617906684
+COR0871,Social Media Management ,Marketing,138,137,99.27536231884058
+COR0872,"Decisions, Decisions: Dashboards and Reports",Data Analysis,4298,4134,96.18427175430433
+COR0873,COVID-19 Contact Tracing,Public Health,996,745,74.79919678714859
+COR0874,Camino a la Excelencia en Gestión de Proyectos,Leadership and Management,1005,874,86.96517412935323
+COR0875,Introduction to Hardware and Operating Systems,Support and Operations,1775,1581,89.07042253521126
+COR0876,Introduction to Embedded Systems Software and Development Environments,Electrical Engineering,402,361,89.80099502487562
+COR0877,Introduction to Financial Engineering and Risk Management,Finance,1179,833,70.65309584393555
+COR0878,English for Business and Entrepreneurship,Learning English,1007,662,65.73982125124131
+COR0879,Natural Language Processing with Sequence Models,Machine Learning,2365,1996,84.39746300211416
+COR0880,Design Thinking for the Greater Good: Innovation in the Social Sector,Education,4364,3737,85.63244729605867
+COR0881,What is Compliance?,Business Essentials,1898,963,50.73761854583773
+COR0882,Hands-on Introduction to Linux Commands and Shell Scripting,Software Development,3527,3018,85.56847178905585
+COR0883,Getting Started with AI using IBM Watson,Machine Learning,1599,1455,90.99437148217636
+COR0884,Microsoft Power Platform Fundamentals,Cloud Computing,2947,1586,53.81744146589752
+COR0885,Machine Learning Introduction for Everyone,Machine Learning,3592,2861,79.64922048997772
+COR0886,Financing and Investing in Infrastructure,Finance,4760,2538,53.319327731092436
+COR0887,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Algorithms,4907,4018,81.8830242510699
+COR0888,Modern Art & Ideas,Music and Art,1867,1572,84.19925013390466
+COR0889,Fundamentals of Technology Sales,Business Essentials,4375,3622,82.78857142857143
+COR0890,Creative Writing: The Craft of Plot,Music and Art,1525,1187,77.8360655737705
+COR0891,Miracles of Human Language: An Introduction to Linguistics,Other Languages,4289,2438,56.843086966658895
+COR0892,Liabilities and Equity in Accounting,Business Essentials,276,160,57.971014492753625
+COR0893,Biology Meets Programming: Bioinformatics for Beginners,Health Informatics,2769,2351,84.90429758035391
+COR0894,The Business of Product Management I,Leadership and Management,385,199,51.688311688311686
+COR0895,Autodesk Certified Professional: AutoCAD for Design and Drafting Exam Prep,Mechanical Engineering,4997,2918,58.39503702221332
+COR0896,Solar Energy Basics,Environmental Science and Sustainability,3681,2075,56.37055148057593
+COR0897,Learning to Teach Online,Education,3743,2506,66.95164306705851
+COR0898,Introduction to Deep Learning & Neural Networks with Keras,Machine Learning,4230,2408,56.92671394799055
+COR0899,Network Security & Database Vulnerabilities ,Security,1776,905,50.95720720720721
+COR0900,Digital Transformation,Leadership and Management,2085,2004,96.11510791366906
+COR0901,Project Management: Foundations and Initiation,Leadership and Management,3288,2750,83.63746958637469
+COR0902,Responsive Web Design in Adobe XD,Design and Product,2096,1284,61.25954198473282
+COR0903,Marketing Digital,Marketing,1322,684,51.73978819969742
+COR0904,Using Python to Interact with the Operating System,Support and Operations,2651,1521,57.37457563183705
+COR0905,The Arts and Science of Relationships: Understanding Human Needs,Personal Development,3550,2512,70.7605633802817
+COR0906,"Make the Sale: Build, Launch, and Manage E-commerce Stores",Marketing,4102,4071,99.2442710872745
+COR0907,Diversity and Inclusion for HR Professionals,Leadership and Management,3489,2991,85.72656921754084
+COR0908,Instructional Methods in Health Professions Education,Public Health,1760,1502,85.3409090909091
+COR0909,Schizophrenia,Psychology,321,285,88.78504672897196
+COR0910,Inclusive Leadership: The Power of Workplace Diversity,Education,2218,1143,51.53291253381425
+COR0911,Managing the Company of the Future,Leadership and Management,454,261,57.48898678414097
+COR0912,Foundations of Business Strategy,Business Strategy,4591,2491,54.25833151818777
+COR0913,Introduction to Google SEO,Marketing,1839,1535,83.46927678085916
+COR0914,Implant Dentistry,Basic Science,1983,1627,82.04740292486133
+COR0915,Healing with the Arts,Personal Development,309,166,53.72168284789643
+COR0916,Introduction to Data Science in Python,Data Analysis,1933,1667,86.23900672529746
+COR0917,People Analytics,Leadership and Management,4228,2287,54.09176915799432
+COR0918,Six Sigma Principles ,Business Essentials,1555,1083,69.64630225080386
+COR0919,"Excel/VBA for Creative Problem Solving, Part 1",Algorithms,4904,4579,93.37275693311582
+COR0920,Fundamentals of Visualization with Tableau,Data Analysis,1141,1041,91.23575810692375
+COR0921,Operational Research for Humanitarians,Research,141,79,56.02836879432624
+COR0922,Introduction to Probability and Data with R,Data Analysis,699,525,75.10729613733905
+COR0923,Business Model Innovation,Business Strategy,4518,3390,75.0332005312085
+COR0924,Data-Driven Decisions with Power BI,Business Essentials,4570,3681,80.54704595185996
+COR0925,Greek and Roman Mythology,Philosophy,4621,3535,76.4985933780567
+COR0926,Getting Started with Git and GitHub,Software Development,2256,1140,50.53191489361703
+COR0927,Agile Meets Design Thinking,Design and Product,3919,3841,98.00969635110998
+COR0928,Google SEO Fundamentals,Marketing,3203,2991,93.38120512019982
+COR0929,Introduction to Cyber Attacks,Computer Security and Networks,4433,2245,50.642905481615166
+COR0930,Introduction to Agile Development and Scrum,Software Development,4177,3196,76.51424467321044
+COR0931,Excel Fundamentals for Data Analysis,Business Essentials,4952,3961,79.98788368336027
+COR0932,Creative Thinking: Techniques and Tools for Success,Personal Development,3110,2906,93.44051446945338
+COR0933,Mastering Final Cut Pro,Business Essentials,3753,2798,74.55369038102852
+COR0934,Introduction to Public Speaking,Business Essentials,629,314,49.92050874403816
+COR0935,Children's Human Rights - An Interdisciplinary Introduction,Law,4114,3169,77.02965483714146
+COR0936,Data-driven Decision Making,Data Analysis,1259,965,76.64813343923748
+COR0937,Cost and Economics in Pricing Strategy,Marketing,1407,983,69.86496090973702
+COR0938,Aspectos básicos del diseño de la experiencia del usuario,Design and Product,3087,1549,50.17816650469712
+COR0939,Nutrición y obesidad: control de sobrepeso,Nutrition,1200,688,57.333333333333336
+COR0940,Positive Psychology ,Psychology,2881,2561,88.89274557445331
+COR0941,Security Principles,Security,3472,2957,85.16705069124424
+COR0942,Understanding Plants - Part I: What a Plant Knows,Basic Science,4816,2828,58.720930232558146
+COR0943,Science Literacy ,Basic Science,232,213,91.8103448275862
+COR0944,Machine Learning Modeling Pipelines in Production,Machine Learning,1304,1254,96.16564417177914
+COR0945,Design a User Experience for Social Good & Prepare for Jobs,Design and Product,1169,606,51.83917878528656
+COR0946,Social Impact Strategy: Tools for Entrepreneurs and Innovators,Entrepreneurship,1130,778,68.84955752212389
+COR0947,The Art of Music Production,Music and Art,921,763,82.84473398479913
+COR0948,Introduction to Risk Management,Finance,3078,3060,99.41520467836257
+COR0949,Initiating and Planning Projects,Leadership and Management,260,252,96.92307692307692
+COR0950,"Custom Models, Layers, and Loss Functions with TensorFlow",Machine Learning,4003,2087,52.135898076442665
+COR0951,Algorithmic Toolbox,Algorithms,530,447,84.33962264150944
+COR0952,Introduction to Computer Vision and Image Processing,Machine Learning,1459,1204,82.52227553118574
+COR0953,Preparing to Manage Human Resources,Leadership and Management,4466,3203,71.71965965069414
+COR0954,Deploying Machine Learning Models in Production,Machine Learning,1965,1481,75.36895674300254
+COR0955,Introduction to Genetics and Evolution,Basic Science,1501,814,54.23051299133911
+COR0956,Rebuilding Our Relationship with Food,Nutrition,2893,2029,70.13480815762185
+COR0957,Introduction to Web Development,Mobile and Web Development,3746,3444,91.93806727175654
+COR0958,Cyber Threat Intelligence,Security,4796,4421,92.18098415346122
+COR0959,Google Cloud Fundamentals: Core Infrastructure,Cloud Computing,658,404,61.39817629179332
+COR0960,Regression Analysis: Simplify Complex Data Relationships,Data Analysis,611,605,99.01800327332242
+COR0961,Fundamentals of GIS,Environmental Science and Sustainability,1898,1208,63.64594309799789
+COR0962,The Horse Course: Introduction to Basic Care and Management,Animal Health,463,284,61.33909287257019
+COR0963,Foundations of Health Equity Research,Public Health,249,143,57.42971887550201
+COR0964,CompTIA Exam Prep,Support and Operations,1923,1414,73.5309412376495
+COR0965,In the Studio: Postwar Abstract Painting,Music and Art,2374,1676,70.59814658803707
+COR0966,Bases de la planification et de la gestion de projet,Business Essentials,2944,2315,78.63451086956522
+COR0967,Satisfaction Guaranteed: Develop Customer Loyalty Online,Marketing,3600,2268,63.0
+COR0968,Computational Neuroscience,Machine Learning,219,179,81.7351598173516
+COR0969,Using Databases with Python,Software Development,777,543,69.88416988416989
+COR0970,Astronomy: Exploring Time and Space,Physics and Astronomy,242,181,74.79338842975206
+COR0971,Financial Planning for Young Adults,Finance,639,621,97.1830985915493
+COR0972,Process Mining: Data science in Action,Data Analysis,818,729,89.119804400978
+COR0973,Bugs 101: Insect-Human Interactions,Basic Science,881,612,69.46651532349603
+COR0974,Applied Data Science Capstone,Data Analysis,4115,3392,82.43013365735116
+COR0975,Introduction to Environmental Law and Policy,Law,2802,2228,79.5146324054247
+COR0976,Writing and Editing: Word Choice and Word Order,Personal Development,4188,2750,65.66380133715377
+COR0977,Code Yourself! An Introduction to Programming,Software Development,712,501,70.36516853932584
+COR0978,Introduction to Machine Learning,Machine Learning,4366,2936,67.24690792487402
+COR0979,The Cycle: Management of Successful Arts and Cultural Organizations,Music and Art,1792,1751,97.71205357142857
+COR0980,Getting Started with SAS Programming,Data Analysis,705,513,72.76595744680851
+COR0981,Earth Economics,Economics,3978,3690,92.76018099547511
+COR0982,Product Management Essentials,Business Essentials,375,261,69.6
+COR0983,"Algorithms for Searching, Sorting, and Indexing",Algorithms,4999,4402,88.05761152230446
+COR0984,Econometrics: Methods and Applications,Probability and Statistics,4257,2750,64.59948320413437
+COR0985,Operations Analytics,Business Strategy,4188,2951,70.4632282712512
+COR0986,Containerized Applications on AWS,Cloud Computing,2354,1886,80.11894647408666
+COR0987,Data Science Math Skills,Math and Logic,2290,2121,92.62008733624454
+COR0988,Global Financing Solutions  (by EDHEC and Société Générale),Finance,1334,1177,88.23088455772114
+COR0989,React Basics,Mobile and Web Development,4008,2108,52.59481037924152
+COR0990,Probabilistic Graphical Models 1: Representation,Machine Learning,3421,2877,84.09821689564455
+COR0991,Introduction to Enterprise Computing,Cloud Computing,1652,1470,88.98305084745762
+COR0992,ChatGPT for Beginners: Using AI For Market Research,Business Strategy,4670,2502,53.57601713062099
+COR0993,Getting Started with Power BI Desktop,Business Essentials,3293,1733,52.62678408745825
+COR0994,Coding for Beginners: An Easy Introduction,Software Development,2709,2405,88.7781469176818
+COR0995,ChatGPT for Beginners: SciFi Writing with Dall-e,Algorithms,3564,3502,98.26038159371492
+COR0996,Curso Completo de Power BI Desktop,Data Analysis,342,274,80.11695906432749
+COR0997,Excel for Beginners: Pivot Tables,Business Essentials,1599,1340,83.80237648530331
+COR0998,Cloud SQL for MySQL: Qwik Start,Data Analysis,3447,2769,80.3307223672759
+COR0999,Migrating to Cloud SQL from Amazon RDS for MySQL Using Database Migration Service,Cloud Computing,346,210,60.69364161849711
+COR1000,Cloud Spanner - Defining Schemas and Understanding Query Plans,Data Management,3209,2867,89.3424742910564
+COR1001,Configure Replication and Enable Point-in-Time-Recovery for Cloud SQL for PostgreSQL,Cloud Computing,4371,4198,96.04209563029055
+COR1002,Migrate to Cloud SQL for PostgreSQL using Database Migration Service,Cloud Computing,2802,1892,67.5231977159172
+COR1003,Connect an App to a Cloud SQL for PostgreSQL Instance,Data Analysis,3952,3474,87.90485829959515
+COR1004,Cloud Spanner - Loading Data and Performing Backups,Data Management,568,317,55.809859154929576
+COR1005,Deploy a Modern Web App connected to a Cloud Spanner Instance,Data Management,711,503,70.74542897327707
+COR1006,A Tour of Google Cloud Hands-on Labs,Cloud Computing,1705,1368,80.23460410557185
+COR1007,Migrating On-premises MySQL Using a Continuous Database Migration Service Job,Cloud Computing,494,307,62.145748987854255
+COR1008,Securing a Cloud SQL for PostgreSQL Instance,Cloud Computing,1570,1057,67.32484076433121
+COR1009,Visual Perception for Self-Driving Cars,Software Development,2602,1347,51.767870868562646
+COR1010,Introduction to Data Analytics for Business,Data Analysis,3240,2101,64.84567901234568
+COR1011,Writing Winning Resumes and Cover Letters,Business Essentials,2586,1644,63.57308584686775
+COR1012,Fundamentals of Investing,Personal Development,355,192,54.08450704225351
+COR1013,Verb Tenses and Passives,Learning English,4428,4081,92.16350496838301
+COR1014,Spanish Vocabulary: Careers and Social Events,Other Languages,2732,2128,77.89165446559298
+COR1015,"Introduction to CAD, CAM, and Practical CNC Machining",Mechanical Engineering,4789,3697,77.19774483190646
+COR1016,AI For Medical Treatment,Machine Learning,3353,3054,91.0826125857441
+COR1017,Introduction to Corporate Finance,Finance,2497,2017,80.77693231878254
+COR1018,Algorithmic Toolbox,Algorithms,3095,2903,93.79644588045234
+COR1019,Fundamentals of Machine Learning for Healthcare,Machine Learning,1739,1297,74.58309373202991
+COR1020,Regression Models,Probability and Statistics,1793,939,52.370329057445616
+COR1021,EMT Foundations,Patient Care,2772,2360,85.13708513708514
+COR1022,Culminating Project in Health Informatics,Health Informatics,1587,964,60.74354127284184
+COR1023,Managing Network Security,Security,3593,2424,67.46451433342611
+COR1024,Digital Transformation,Leadership and Management,1573,1493,94.91417673235854
+COR1025,Programming for the Internet of Things Project,Electrical Engineering,465,285,61.29032258064516
+COR1026,"Twitter, LinkedIn, and YouTube Marketing",Marketing,4400,2338,53.13636363636364
+COR1027,Capstone - Managing Board Change for Higher Levels of Leadership and Governance Effectiveness ,Leadership and Management,2631,1405,53.40174838464462
+COR1028,Statistics for Genomic Data Science,Probability and Statistics,3046,1668,54.76034143138543
+COR1029,Getting Started with Go,Software Development,4565,3959,86.7250821467689
+COR1030,Exploratory Data Analysis for Machine Learning,Machine Learning,4096,2376,58.0078125
+COR1031,Introduction to Typography,Music and Art,4980,4003,80.38152610441767
+COR1032,The Measure Phase for the 6 σ Black Belt,Business Essentials,2200,2101,95.5
+COR1033,Taxation of Business Entities I: Corporations,Business Essentials,4433,3726,84.05143243852922
+COR1034,Gestión con enfoque en riesgos en proyectos de desarrollo,Governance and Society,474,445,93.88185654008439
+COR1035,Roadmap to Success in Digital Manufacturing & Design ,Mechanical Engineering,2063,1510,73.19437712069802
+COR1036,Economics and Policies of Climate Change,Economics,3272,1890,57.76283618581907
+COR1037,Medical Terminology III,Basic Science,2414,2003,82.97431648715823
+COR1038,IELTS Listening and Speaking Sections Skills Mastery,Learning English,3098,1582,51.06520335700452
+COR1039,Advanced Styling with Responsive Design,Mobile and Web Development,2369,1307,55.17095821021528
+COR1040,Design and Build a Data Warehouse for Business Intelligence Implementation,Data Analysis,1819,1083,59.53820780648707
+COR1041,Building High-Performing Teams,Leadership and Management,294,203,69.04761904761905
+COR1042,Supply Chain Optimization,Business Strategy,2678,2284,85.28752800597461
+COR1043,The Data Science of Health Informatics,Health Informatics,3764,2137,56.77470775770457
+COR1044,Statistics for International Business,Finance,1006,889,88.36978131212724
+COR1045,Business Transformation with Google Cloud,Business Strategy,4247,2221,52.295738168118675
+COR1046,Introduction to Big Data,Data Analysis,214,142,66.35514018691589
+COR1047,Financing for Startup Businesses,Finance,3809,3290,86.37437647676556
+COR1917,The Digital Marketing Revolution,Marketing,4332,3972,91.68975069252078
+COR1048,Value-Based Care: Quality Improvement in Organizations,Patient Care,3142,2975,94.68491406747295
+COR1049,Artificial Intelligence and legal issues,Algorithms,2688,2356,87.64880952380952
+COR1050,"Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",Business Essentials,1482,1082,73.00944669365722
+COR1051,Evaluating User Interfaces,Design and Product,3241,2142,66.09071274298056
+COR1052,Decentralized Finance (DeFi) Infrastructure,Finance,4055,2329,57.43526510480888
+COR1053,Machine Learning Algorithms with R in Business Analytics,Leadership and Management,2592,1848,71.29629629629629
+COR1054,FinTech Risk Management,Business Essentials,2312,1411,61.029411764705884
+COR1055,Google Docs,Cloud Computing,1254,994,79.26634768740031
+COR1056,Startup Valuation Methods,Finance,2335,1446,61.92719486081371
+COR1918,Hypothesis-Driven Development,Design and Product,2689,1727,64.22461881740425
+COR1057,Research Instruments and Research Hypotheses,Marketing,3228,2563,79.39900867410161
+COR1058,C Programming: Getting Started - 1,Software Development,4373,2446,55.93414132174709
+COR1059,Algebra: Elementary to Advanced - Functions & Applications,Math and Logic,1632,863,52.879901960784316
+COR1060,Build personal resilience,Leadership and Management,359,356,99.16434540389972
+COR1061,Google Drive,Cloud Computing,1876,1597,85.12793176972282
+COR1062,Supply Chain Planning,Business Strategy,4596,2669,58.072236727589214
+COR1063,Cyber Attack Countermeasures,Computer Security and Networks,4905,2980,60.75433231396534
+COR1064,Foundations of Business Strategy,Business Strategy,4979,3016,60.574412532637076
+COR1065,Intermediate Grammar Project,Learning English,4984,2765,55.47752808988764
+COR1066,Data Structures,Algorithms,219,157,71.68949771689498
+COR1067,JSON and Natural Language Processing in PostgreSQL,Software Development,2580,1732,67.13178294573643
+COR1068,Positive Psychology: Applications and Interventions,Psychology,1956,1008,51.533742331288344
+COR1069,Data Science in Real Life,Data Analysis,1323,760,57.44520030234316
+COR1070,Simple Regression Analysis in Public Health ,Public Health,4650,4282,92.08602150537635
+COR1071,Managing Cybersecurity Incidents and Disasters,Security,1645,1440,87.53799392097264
+COR1072,Digital Fashion Industry,Business Strategy,2407,1981,82.30162027420025
+COR1073,Salesforce Capstone: Organization Integration,Business Essentials,554,460,83.03249097472924
+COR1074,Advanced Application Management with Red Hat OpenShift,Cloud Computing,2241,2002,89.3351182507809
+COR1075,International Marketing & Cross Industry Growth Capstone Project  ,Marketing,2981,2355,79.00033545790002
+COR1076,Project Planning and Execution,Leadership and Management,2853,1896,66.45636172450052
+COR1077,Value-Based Care: Introduction to Value-Based Care and the U.S. Healthcare System,Patient Care,4857,3724,76.67284331892115
+COR1078,Patent Law,Law,1062,650,61.20527306967985
+COR1079,Meeting Investors' Goals,Finance,3665,2040,55.66166439290586
+COR1080,Fundraising and Development Foundations,Business Strategy,4980,2491,50.02008032128514
+COR1081,Clinical Data Models and Data Quality Assessments,Data Analysis,3135,2810,89.63317384370016
+COR1082,Combinatorics and Probability,Algorithms,4644,3411,73.44961240310077
+COR1083,Graph Analytics for Big Data,Data Analysis,3661,2024,55.28544113630156
+COR1084,La gestión de los riesgos y la administración de los cambios en el proyecto,Leadership and Management,4270,4169,97.63466042154568
+COR1085,Natural Language Processing with Probabilistic Models,Machine Learning,3006,1922,63.93878908848969
+COR1086,Robotics: Aerial Robotics,Mechanical Engineering,2913,2437,83.65945760384483
+COR1087,Introduction to Java and Object-Oriented Programming,Software Development,4216,2805,66.53225806451613
+COR1088,"Credential Access, discovery, lateral movement & collection",Security,4065,3473,85.43665436654366
+COR1089,SQL for Data Science Capstone Project,Data Analysis,697,685,98.27833572453372
+COR1090,"Comparing Genes, Proteins, and Genomes (Bioinformatics III)",Health Informatics,2428,2162,89.04448105436573
+COR1091,Introduction to Systems Biology,Basic Science,1204,909,75.4983388704319
+COR1092,Linux Server Management and Security,Security,446,307,68.83408071748879
+COR1093,A Blueprint for Success – Your Video Pre-Production,Personal Development,1435,1201,83.69337979094077
+COR1094,Leading Organizations,Leadership and Management,4386,2951,67.28226174190607
+COR1095,Applied Text Mining in Python,Data Analysis,2712,2694,99.33628318584071
+COR1096,Launch Strategy: 5 Steps to Capstone Experience,Entrepreneurship,3978,2393,60.15585721468074
+COR1097,Google Cloud Fundamentals: Core Infrastructure,Cloud Computing,802,419,52.244389027431424
+COR1098,3D Printing Hardware,Entrepreneurship,1372,1016,74.05247813411079
+COR1099,Design Thinking: Ideas to Action,Business Strategy,1226,1121,91.43556280587276
+COR1919,Music Production Capstone,Music and Art,3137,2815,89.73541600255021
+COR1100,Construction Scheduling,Business Strategy,4309,2422,56.20793687630541
+COR1101,Introduction to User Experience Principles and Processes,Design and Product,2910,2017,69.3127147766323
+COR1102,Explore Core Data Concepts in Microsoft Azure,Data Management,183,171,93.44262295081968
+COR1103,Computational Methods in Pricing and Model Calibration,Finance,3561,3138,88.12131423757371
+COR1104,Google Meet,Cloud Computing,387,261,67.44186046511628
+COR1105,Fundamentals of Finance,Finance,1796,1247,69.43207126948775
+COR1106,"Sustainable Business: Big Issues, Big Changes",Leadership and Management,420,318,75.71428571428571
+COR1107,Software Product Management Capstone,Design and Product,2350,1771,75.36170212765958
+COR1108,Strategic Procurement and Sourcing Conclusions,Leadership and Management,1292,711,55.030959752321984
+COR1109,Data Visualization with Advanced Excel,Data Analysis,1451,991,68.29772570640938
+COR1110,Object-Oriented Hierarchies in Java,Software Development,2987,1800,60.26113157013726
+COR1111,Developing Cloud Native Applications,Software Development,3559,2529,71.059286316381
+COR1112,History of Mental Illness,Psychology,4435,2414,54.43066516347238
+COR1113,Moneyball and Beyond,Data Analysis,1016,746,73.4251968503937
+COR1114,European Business Law: Competing in Europe,Business Essentials,3046,2625,86.17859487852921
+COR1115,Digital Forensics Essentials (DFE),Computer Security and Networks,4042,3804,94.11182582879762
+COR1116,Convolutional Neural Networks,Machine Learning,3783,2755,72.82579962992334
+COR1117,Management Fundamentals,Leadership and Management,1370,1217,88.83211678832117
+COR1118,Advanced Writing,Learning English,2054,1212,59.00681596884129
+COR1119,Fundamentals of International Business,Business Essentials,3715,3553,95.6393001345895
+COR1120,Strategic Career Self-Management,Personal Development,2663,1661,62.373263236950805
+COR1121,FPGA Capstone:  Building FPGA Projects,Electrical Engineering,1628,1557,95.63882063882065
+COR1920,"Immunology: Autoimmunity, Allergy, and Transplants",Basic Science,1969,1052,53.428136109700354
+COR1122,Hypothesis Testing in Public Health ,Public Health,2442,1637,67.03521703521703
+COR1123,Project: Writing a Research Paper,Learning English,4736,2663,56.22888513513513
+COR1124,Magnetics for Power Electronic Converters,Electrical Engineering,4102,3873,94.41735738664066
+COR1125,Google Sheets - Advanced Topics,Cloud Computing,3561,2121,59.561920808761585
+COR1126,Scripting with Python and SQL for Data Engineering,Data Analysis,1686,1525,90.45077105575326
+COR1127,Advanced Manufacturing Enterprise,Mechanical Engineering,1111,728,65.52655265526552
+COR1128,Project Management: The Basics for Success,Leadership and Management,866,692,79.90762124711316
+COR1129,Speaking to inform:  Discussing complex ideas with clear explanations and dynamic slides,Personal Development,4150,4029,97.08433734939759
+COR1130,The Roles and Responsibilities of Nonprofit Boards of Directors within the Governance Process,Leadership and Management,4936,4537,91.9165316045381
+COR1131,Copyright Law in the Music Business,Business Strategy,175,118,67.42857142857143
+COR1132,Advanced Grammar & Punctuation Project,Learning English,2631,1907,72.48194602812619
+COR1921,Chinese for HSK 2,Other Languages,2135,1259,58.969555035128806
+COR1922,Linear Regression in R for Public Health ,Public Health,4400,2580,58.63636363636363
+COR1133,Principles of Computing (Part 2),Software Development,4917,3365,68.43603823469596
+COR1134,Marketing Mix Implementation Capstone ,Marketing,3937,2401,60.985521971043944
+COR1135,Wharton Entrepreneurship Capstone,Entrepreneurship,2187,1135,51.89757658893461
+COR1136,Modern Data Warehouse Analytics in Microsoft Azure,Data Management,529,350,66.1625708884688
+COR1137,Optimize ML Models and Deploy Human-in-the-Loop Pipelines,Machine Learning,3221,2433,75.53554796647003
+COR1138,Inteligencia artificial: proyecto final,Algorithms,2375,1886,79.41052631578948
+COR1139,Artificial Creativity,Design and Product,1587,1582,99.68494013862635
+COR1140,Forex - Trading Around the World,Finance,4938,3190,64.6010530579182
+COR1141,Building Your Leadership Skills,Leadership and Management,4154,4098,98.6519017814155
+COR1142,AWS Cloud Technical Essentials,Cloud Computing,4199,3104,73.9223624672541
+COR1143,"Modern Robotics, Course 4:  Robot Motion Planning and Control",Mechanical Engineering,1949,1367,70.13853258081068
+COR1144,"Divide and Conquer, Sorting and Searching, and Randomized Algorithms",Algorithms,1223,1222,99.91823385118562
+COR1145,Aromatherapy: Clinical Use of Essential Oils,Research,2111,1105,52.34486025580294
+COR1146,Diseño de Proyectos de Desarrollo,Governance and Society,1906,1071,56.1909758656873
+COR1147,"Career planning: Your career, your life",Leadership and Management,2931,2395,81.71272603207098
+COR1148,Solución de problemas y toma de decisiones,Leadership and Management,249,173,69.47791164658635
+COR1149,Tools for Data Science,Data Analysis,1477,864,58.49695328368314
+COR1150,The Control Phase for the 6 σ Black Belt,Business Essentials,2453,1849,75.37708927843457
+COR1151,Linux System Administration with IBM Power Systems,Cloud Computing,2891,2831,97.92459356624006
+COR1152,Google Cloud Fundamentals: Core Infrastructure,Cloud Computing,4306,3589,83.34881560613098
+COR1153,Design Patterns,Software Development,4051,3454,85.26289804986423
+COR1154,Human Resources Management Capstone: HR for People Managers,Leadership and Management,609,363,59.60591133004927
+COR1155,Principles of Photo Composition and Digital Image Post-Production,Music and Art,2181,1638,75.10316368638239
+COR1156,Google Sheets - Advanced Topics en español,Cloud Computing,3977,3073,77.26929846618053
+COR1157,Sensor Manufacturing and Process Control,Electrical Engineering,304,234,76.97368421052632
+COR1158,Machine Learning: Regression,Machine Learning,2842,2459,86.52357494722027
+COR1159,Inclusive Analytic Techniques,Business Essentials,625,400,64.0
+COR1160,Autodesk Fusion 360 Integrated CAD/CAM/CAE,Mechanical Engineering,2946,2362,80.1765105227427
+COR1161,Introduction to Clinical Data Science,Data Analysis,2474,1995,80.63864187550526
+COR1162,"Data Wrangling, Analysis and AB Testing with SQL",Data Analysis,2186,2021,92.451967063129
+COR1163,"Execution, persistence, privilege escalation and evasion",Security,1048,832,79.38931297709924
+COR1164,Understanding Financial Statements: Company Position,Business Essentials,808,695,86.01485148514851
+COR1165,Excel Power Tools for Data Analysis,Business Essentials,464,416,89.65517241379311
+COR1166,"Functions, Methods, and Interfaces in Go",Software Development,4908,2467,50.26487367563163
+COR1167,Introduction to Software Testing,Software Development,2535,1664,65.64102564102564
+COR1168,"Everyday Excel, Part 1",Design and Product,852,807,94.71830985915493
+COR1169,Ordered Data Structures,Software Development,4456,3856,86.53500897666068
+COR1170,Training and Learning Programs for Volunteer Community Health Workers,Public Health,4019,2403,59.7909927842747
+COR1171,Designing the Organization,Leadership and Management,2682,1668,62.19239373601789
+COR1172,Cloud Data Engineering,Cloud Computing,3661,2157,58.9183283255941
+COR1173,Developing a Google SRE Culture,Leadership and Management,3911,3870,98.9516747634876
+COR1174,Project Management Project,Business Essentials,3089,2694,87.21269019100032
+COR1175,Entrepreneurship 4: Financing and Profitability,Entrepreneurship,1573,1126,71.5829624920534
+COR1176,"Custom Models, Layers, and Loss Functions with TensorFlow",Machine Learning,2028,1571,77.465483234714
+COR1177,Factorial and Fractional Factorial Designs,Probability and Statistics,199,180,90.45226130653266
+COR1178,Applied AI with DeepLearning,Machine Learning,2086,1322,63.374880153403645
+COR1179,A Technical Leader's Qualities and Effectiveness,Personal Development,829,578,69.72255729794934
+COR1180,Mathematical Biostatistics Boot Camp 2,Probability and Statistics,3438,2925,85.07853403141361
+COR1181,Managerial Economics and Business Analysis Capstone,Business Essentials,1871,1383,73.91769107429182
+COR1182,International Marketing Entry and Execution,Marketing,4184,3336,79.73231357552581
+COR1183,Build Better Generative Adversarial Networks (GANs),Machine Learning,595,575,96.63865546218487
+COR1184,Noun Clauses and Conditionals,Learning English,2817,1441,51.15370962016329
+COR1185,Machine Learning: Classification,Machine Learning,3513,2742,78.05294619982921
+COR1186,Leading Teams: Building Effective Team Cultures,Leadership and Management,3024,1529,50.56216931216932
+COR1187,"Intro to AR/VR/MR/XR: Technologies, Applications & Issues",Design and Product,3789,3671,96.8857218263394
+COR1188,Career Self-Management Advanced Certification,Personal Development,2012,1980,98.40954274353876
+COR1189,Brand New Brand,Music and Art,448,343,76.5625
+COR1190,Writing Stories About Ourselves,Music and Art,3887,3696,95.08618471829175
+COR1191,Managing the Organization,Leadership and Management,3177,2028,63.83380547686497
+COR1192,Cryptocurrency and Blockchain: An Introduction to Digital Currencies,Finance,3550,3548,99.94366197183099
+COR1193,Critical Thinking Skills for the Professional,Business Essentials,758,654,86.2796833773087
+COR1194,Social Media and Digital Marketing Fundamentals,Marketing,712,459,64.46629213483146
+COR1195,Functional Programming Principles in Scala,Software Development,495,432,87.27272727272727
+COR1196,Introduction to Cloud Computing,Cloud Computing,4007,2387,59.57075118542551
+COR1197,Planned Giving,Business Strategy,151,89,58.94039735099338
+COR1198,Measuring the Success of a Patient Safety or Quality Improvement Project (Patient Safety VI),Healthcare Management,2513,2073,82.49104655789893
+COR1199,Financial Accounting: Advanced Topics,Finance,756,733,96.95767195767195
+COR1200,Immunology: Immune System and Infectious Diseases,Basic Science,2097,1619,77.20553171196947
+COR1201,Public Speaking and Presentations ,Personal Development,1288,718,55.74534161490683
+COR1923,R Programming,Data Analysis,4076,3979,97.62021589793916
+COR1924,"Java Programming: Arrays, Lists, and Structured Data",Software Development,4664,2384,51.114922813036024
+COR1202,"Medical Emergencies: CPR, Toxicology, and Wilderness",Patient Care,2251,2150,95.51310528653931
+COR1203,Design Thinking for Innovation,Business Strategy,3010,2336,77.60797342192691
+COR1204, Supervised Machine Learning: Classification,Machine Learning,4861,2861,58.856202427484064
+COR1205,Effective Business Presentations with Powerpoint,Business Essentials,408,231,56.61764705882353
+COR1206,Python Project for Data Science,Data Analysis,174,145,83.33333333333334
+COR1207,Introduction to Management Consulting,Business Strategy,2703,1815,67.14761376248613
+COR1208,Firm Level Economics: Consumer and Producer Behavior,Finance,1677,882,52.59391771019678
+COR1209,Designing the Organization,Leadership and Management,590,455,77.11864406779661
+COR1210,Intermediate Object-Oriented Programming for Unity Games,Software Development,2306,2173,94.23243712055508
+COR1211,Introduction to Python Programming,Software Development,1424,781,54.84550561797753
+COR1212,Healthcare Data Models,Health Informatics,3503,2762,78.84670282614901
+COR1213,Storytelling and influencing: Communicate with impact,Leadership and Management,4868,2794,57.39523418241578
+COR1214,"Image Segmentation, Filtering, and Region Analysis",Electrical Engineering,1608,1471,91.48009950248756
+COR1215,"Defining Diversity, Equity and Inclusion in Organizations",Leadership and Management,2975,1899,63.831932773109244
+COR1216,Building a Data Science Team,Data Analysis,3787,2568,67.8109321362556
+COR1217,"Excel/VBA for Creative Problem Solving, Part 1",Algorithms,3382,3306,97.75280898876404
+COR1218,The Art of Negotiation,Business Essentials,2672,1967,73.61526946107784
+COR1219,Positive Psychology Specialization Project: Design Your Life for Well-being,Psychology,3944,2060,52.23123732251521
+COR1220,Managing Project Risks and Changes,Leadership and Management,4828,3562,73.77796188898095
+COR1221,Renewable Energy Projects,Environmental Science and Sustainability,2259,1404,62.15139442231076
+COR1222,Multiple Regression Analysis in Public Health ,Health Informatics,1374,940,68.41339155749637
+COR1223,Exploratory Data Analysis,Data Analysis,964,623,64.62655601659752
+COR1224,Decision-Making: Blending Art & Science,Leadership and Management,538,527,97.95539033457248
+COR1225,Building Web Applications in Django,Mobile and Web Development,1543,1463,94.81529488010369
+COR1226,Operations Analytics,Business Strategy,498,420,84.33734939759037
+COR1227,Java Programming: Build a Recommendation System,Software Development,658,553,84.04255319148936
+COR1228,Healthcare Organizations and the Health System,Healthcare Management,2096,2050,97.80534351145039
+COR1229,Introduction to Supply Chain Finance & Blockchain Technology,Business Strategy,103,72,69.90291262135922
+COR1230,RPA Basics and Introduction to UiPath,Software Development,934,875,93.6830835117773
+COR1231,Symptom Management in Palliative Care,Patient Care,1073,755,70.36346691519105
+COR1232,User Experience: Research & Prototyping,Design and Product,2423,1569,64.7544366487825
+COR1233,C for Everyone: Programming Fundamentals,Software Development,4211,2900,68.86725243410116
+COR1234,Executive Data Science Capstone,Leadership and Management,4501,2290,50.87758275938681
+COR1235,Data Science Methodology,Data Analysis,3794,3681,97.0216130732736
+COR1236,Risk Management in Personal Finance,Personal Development,3408,2490,73.06338028169014
+COR1237,Fashion Retail Transformation,Business Strategy,3590,2663,74.17827298050139
+COR1238,Leading Change in Health Informatics,Health Informatics,3681,1974,53.62673186634067
+COR1239,Apache Spark (TM) SQL for Data Analysts,Data Analysis,2750,1964,71.41818181818181
+COR1240,Financial Forecasting and Reporting,Leadership and Management,691,379,54.848046309696095
+COR1241,Oracle Database Platform,Software Development,1186,998,84.14839797639124
+COR1242,Building Resilient Streaming Analytics Systems on Google Cloud,Cloud Computing,3886,2277,58.59495625321668
+COR1243,Web3 and Blockchain Transformations in Global Supply Chains,Business Strategy,4531,2650,58.4859854336791
+COR1244,Inventory Management,Business Strategy,3488,3394,97.30504587155964
+COR1245,Strategic Organization Design,Business Strategy,2511,1891,75.30864197530865
+COR1246,Accounting for Business Decision Making: Measurement and Operational Decisions,Business Essentials,3690,3367,91.24661246612466
+COR1247,Principles of Computing (Part 1),Software Development,3850,3830,99.48051948051948
+COR1248,Reinforcement Learning for Trading Strategies,Machine Learning,893,849,95.07278835386337
+COR1249,Strategic Management,Business Strategy,1444,833,57.686980609418285
+COR1250,Sustainable Consumption and Health,Public Health,1047,993,94.84240687679083
+COR1251,Engineering Design Process with Autodesk Fusion 360,Mechanical Engineering,4652,3938,84.65176268271712
+COR1252,"Photography Techniques: Light, Content, and Sharing",Music and Art,2576,1952,75.77639751552795
+COR1253,Algebra: Elementary to Advanced - Equations & Inequalities,Math and Logic,4100,2991,72.95121951219512
+COR1254,Introduction to Early Childhood,Education,1661,1076,64.78025285972305
+COR1255,Python Data Structures,Software Development,1813,1755,96.80088251516823
+COR1256,Construction Project Management,Business Strategy,2661,1733,65.12589252160842
+COR1257,Machine Learning Data Lifecycle in Production ,Machine Learning,214,125,58.41121495327103
+COR1258,Data Mining Project,Data Analysis,3375,2761,81.80740740740741
+COR1259,"Smart Analytics, Machine Learning, and AI on GCP 日本語版",Cloud Computing,2603,2535,97.38762965808682
+COR1260,Business English: Making Presentations,Learning English,4711,4439,94.22627892167267
+COR1261,High-Impact Business Writing,Business Essentials,694,601,86.59942363112391
+COR1262,Introduction to Power Electronics,Electrical Engineering,4680,2445,52.243589743589745
+COR1263,Advanced Portfolio Construction and Analysis with Python,Finance,1306,984,75.34456355283308
+COR1264,Mandarin Chinese 1: Chinese for Beginners,Other Languages,1351,1216,90.00740192450037
+COR1265,What is Financial Accounting?,Business Essentials,3563,3105,87.14566376648891
+COR1266,Marketing Strategy Capstone Project,Marketing,2709,1848,68.21705426356588
+COR1267,Managing the Organization,Leadership and Management,4578,2852,62.297946701616425
+COR1268,IoT Cloud,Mobile and Web Development,3666,2818,76.86852154937262
+COR1269,"Forecasting, Budgeting, Territories, Evaluation and Legal/Ethical Issues",Leadership and Management,4720,3255,68.96186440677965
+COR1270,Hardware Description Languages for FPGA Design,Electrical Engineering,1028,613,59.63035019455253
+COR1271,Hardware Security,Computer Security and Networks,2464,2122,86.12012987012987
+COR1272,Business English: Final Project,Learning English,2541,1842,72.49114521841794
+COR1273,Online teaching: Using Zoom to connect with learners ,Education,406,209,51.47783251231527
+COR1274,Understanding User Needs,Design and Product,827,708,85.61064087061668
+COR1275,More on Change and Sustainability,Leadership and Management,3082,1980,64.24399740428294
+COR1276,Speaking and Presenting: Pitches and Persuasion,Personal Development,1407,1174,83.43994314143568
+COR1277,Gestión del talento humano,Leadership and Management,4939,4935,99.919011945738
+COR1278,DFSS for the 6 σ Black Belt,Business Essentials,705,391,55.46099290780142
+COR1279,Spatial Analysis and Satellite Imagery in a GIS,Environmental Science and Sustainability,2888,2170,75.13850415512465
+COR1280,Product Management Essentials,Business Essentials,4517,4304,95.28448085012177
+COR1281,Take Your English Communication Skills to the Next Level,Learning English,4882,4780,97.91069233920524
+COR1282,Value-Based Care: Capstone Project,Public Health,470,338,71.91489361702128
+COR1283,Software Processes and Agile Practices,Design and Product,2851,2345,82.25184145913714
+COR1284,Interview Research and Preparation,Business Essentials,1457,1320,90.5971173644475
+COR1285,Ready to Roll – The Video Production Process,Personal Development,2972,1578,53.095558546433374
+COR1286,Operations and Patient Safety for Healthcare IT Staff,Patient Care,4468,2596,58.10205908683975
+COR1287,Speaking and Presenting: Conversation Starters,Personal Development,4099,3896,95.04757257867773
+COR1288,FinTech Disruptive Innovation: Implications for Society,Finance,322,271,84.16149068322981
+COR1289,Six Sigma Principles ,Business Essentials,4951,2576,52.02989295091901
+COR1290,"Anatomy: Gastrointestinal, Reproductive and Endocrine Systems",Basic Science,4622,4058,87.797490263955
+COR1291,Positioning: What you need for a successful Marketing Strategy,Marketing,4130,3931,95.181598062954
+COR1292,Data Visualization with Tableau Project,Data Analysis,2942,2577,87.59347382732835
+COR1293,European Business Law: Understanding the Fundamentals,Business Essentials,350,197,56.285714285714285
+COR1294,"Positive Psychology: Character, Grit and Research Methods",Psychology,1996,1626,81.4629258517034
+COR1295,Career Success Project,Business Essentials,1881,1136,60.39340776182881
+COR1296,Six Sigma Advanced Analyze Phase,Leadership and Management,4913,3342,68.02361082841442
+COR1297,Questionnaire Design for Social Surveys,Psychology,1513,1389,91.80436219431593
+COR1298,Cybersecurity Compliance Framework & System Administration,Security,2067,1334,64.53797774552491
+COR1299,Introduction to Integrative Nursing,Patient Care,2759,2687,97.39035882566147
+COR1300,Cloud Computing Law: Data Protection and Cybersecurity,Law,4829,2951,61.10996065437979
+COR1301, Advanced Topics in Derivative Pricing,Finance,3660,3093,84.50819672131148
+COR1302,Molecular Evolution (Bioinformatics IV),Health Informatics,2167,1791,82.64882325796032
+COR1303,Introduction to Mobile Development,Mobile and Web Development,3655,2445,66.89466484268127
+COR1304,World Design for Video Games,Music and Art,995,525,52.76381909547738
+COR1305,Physics 102 - Electric Potential and DC Circuits,Physics and Astronomy,4683,4068,86.86739269698911
+COR1306,Why Smart Executives Fail: Common Mistakes & Warning Signs,Leadership and Management,4685,4669,99.65848452508004
+COR1307,"FinTech: Foundations, Payments, and Regulations",Business Essentials,2542,2457,96.65617623918175
+COR1308,Taking Safety and Quality Improvement Work to the Next Level (Patient Safety VII),Patient Care,2531,1765,69.73528249703675
+COR1309,Managing Change when Moving to Google Cloud,Cloud Computing,1043,596,57.14285714285714
+COR1310,Implementación del Marketing Mix Proyecto Capstone,Marketing,1454,1077,74.07152682255847
+COR1311,Guitar for Beginners,Music and Art,253,222,87.74703557312253
+COR1312,Algebra: Elementary to Advanced - Polynomials and Roots,Math and Logic,4727,3211,67.92891897609478
+COR1313,Essential Google Cloud Infrastructure: Core Services,Cloud Computing,2123,2023,95.2896844088554
+COR1314,Differential Equations for Engineers,Math and Logic,2982,1644,55.13078470824949
+COR1315,Natural Creativity,Design and Product,4238,4137,97.61680037753658
+COR1316,Coaching Practices,Leadership and Management,2613,1865,71.3738997321087
+COR1317,Digital Marketing Capstone,Marketing,3554,2381,66.99493528418682
+COR1318,Fundamentals of Graphic Design,Music and Art,4005,2590,64.66916354556804
+COR1319,Working with Data,Mobile and Web Development,2551,2150,84.28067424539395
+COR1320,The Growth Mindset,Business Essentials,4199,4038,96.16575375089307
+COR1321,"Surveillance Systems: Analysis, Dissemination, and Special Systems",Public Health,840,772,91.9047619047619
+COR1322,Applied Data Science Capstone,Data Analysis,4337,2394,55.199446622089
+COR1323,Introduction to R Programming for Data Science,Data Analysis,2474,1867,75.46483427647534
+COR1324,Creating Toolpaths for a CNC Lathe,Mechanical Engineering,3228,2642,81.84634448574968
+COR1325,Retail Digital Supply Chain,Business Strategy,1800,1536,85.33333333333334
+COR1326,Foundations of Public Health Practice: The Public Health Approach,Public Health,3951,3700,93.64717792963808
+COR1327,Country Level Economics: Macroeconomic Variables and Markets,Finance,3136,2349,74.90433673469387
+COR1328,Introduction to Biology: Ecology,Environmental Science and Sustainability,3725,1948,52.29530201342282
+COR1329,Guitar for Beginners,Music and Art,4164,2600,62.43996157540826
+COR1330,Healthcare Marketplace Capstone,Finance,821,698,85.01827040194885
+COR1331,Programming with JavaScript,Mobile and Web Development,185,125,67.56756756756756
+COR1332,Object Oriented Programming in Java,Software Development,2476,2080,84.00646203554119
+COR1333,The Art of Music Production,Music and Art,3658,2623,71.70585019136139
+COR1334,Wharton Business Foundations Capstone,Business Essentials,4863,3378,69.46329426280074
+COR1335,Major and Principal Gifts,Business Strategy,1208,688,56.95364238410596
+COR1336,Six Sigma and the Organization (Advanced),Leadership and Management,4455,3982,89.38271604938272
+COR1337,Annual Campaigns: Building a Case for Support,Business Strategy,892,609,68.27354260089686
+COR1338,Google Cloud Fundamentals: Core Infrastructure,Cloud Computing,3604,1815,50.3607103218646
+COR1339,Introduction to Corporate Finance,Finance,4824,4354,90.25704809286898
+COR1340,Marketing: Customer Needs and Wants,Business Strategy,1409,1287,91.34137686302341
+COR1341,Finance of Mergers and Acquisitions: Designing an M&A Deal,Finance,3727,2576,69.11725248188891
+COR1342,International B2B (Business to Business) Marketing,Marketing,1324,1223,92.37160120845923
+COR1343,Google Slides en Español,Cloud Computing,711,552,77.63713080168776
+COR1344,Federal Taxation II: Property Transactions of Business Owners and Shareholders,Business Essentials,2050,1886,92.0
+COR1345,Genomic Data Science and Clustering (Bioinformatics V),Health Informatics,1626,927,57.01107011070111
+COR1346,Songwriting: Writing the Music,Music and Art,2878,2757,95.7956914523975
+COR1347,Supply Chain Operations,Business Strategy,609,592,97.20853858784893
+COR1348,Six Sigma Advanced Improve and Control Phases,Leadership and Management,2308,1172,50.77989601386482
+COR1349,Architecting with Google Kubernetes Engine: Workloads,Software Development,720,466,64.72222222222223
+COR1350,Data Science as a Field,Data Analysis,495,392,79.1919191919192
+COR1351,Network Analysis in Systems Biology,Basic Science,605,533,88.09917355371901
+COR1352,Advanced Interviewing Techniques,Learning English,1130,1118,98.93805309734513
+COR1353,Bring Your Story to Life – Video Post-Production,Personal Development,4123,3662,88.81882124666505
+COR1354,IoT Networking,Computer Security and Networks,3196,1647,51.533166458072586
+COR1355,Agile Planning for Software Products,Software Development,1661,1379,83.02227573750753
+COR1356,Healthcare Data Literacy,Health Informatics,1652,1382,83.65617433414043
+COR1357,Understanding Financial Markets,Finance,3427,2380,69.44849722789613
+COR1358,Applying Data Analytics in Marketing,Marketing,3896,3176,81.51950718685832
+COR1359,Statistics for Data Science with Python,Probability and Statistics,1308,667,50.99388379204893
+COR1360,Managing an Agile Team,Design and Product,3714,2775,74.7172859450727
+COR1361,"Excel/VBA for Creative Problem Solving, Part 2",Algorithms,4828,2486,51.49130074565037
+COR1362,Developing Data Models with LookML,Data Analysis,561,494,88.05704099821747
+COR1363,Teach English Now! Capstone Project 2,Learning English,499,326,65.33066132264528
+COR1925,Applying Data Analytics in Accounting,Business Strategy,4145,2843,68.58866103739444
+COR1364,Human Factors in AI,Machine Learning,3506,3377,96.32059326868226
+COR1365,Input and Interaction,Design and Product,4294,3356,78.15556590591522
+COR1366,Six Sigma Advanced Define and Measure Phases,Leadership and Management,644,582,90.37267080745342
+COR1367,Robotics: Estimation and Learning,Mechanical Engineering,4757,3294,69.24532268236283
+COR1368,Networking in Google Cloud: Hybrid Connectivity and Network Management,Networking,2378,1310,55.08830950378469
+COR1369,Intro to International Marketing,Marketing,1701,1351,79.42386831275721
+COR1370,Artificial Intelligence: An Overview,Algorithms,1164,998,85.73883161512028
+COR1371,Getting Started with Git and GitHub,Software Development,152,87,57.23684210526315
+COR1372,Understanding TikTok and Its Users,Marketing,1150,628,54.608695652173914
+COR1373,Essential Design Principles for Tableau,Data Analysis,613,354,57.74877650897226
+COR1374,Effective Compliance Programs,Business Essentials,2460,2198,89.34959349593497
+COR1375,Customising your models with TensorFlow 2,Machine Learning,2532,1734,68.48341232227489
+COR1926,Motion Planning for Self-Driving Cars,Software Development,614,539,87.78501628664495
+COR1376,Healthcare Marketplace,Finance,1978,1330,67.23963599595551
+COR1377,"Excel/VBA for Creative Problem Solving, Part 3 (Projects)",Algorithms,790,491,62.151898734177216
+COR1378,Supply Chain Management Strategy,Business Strategy,183,98,53.551912568306015
+COR1379,Accounting Analysis I: The Role of Accounting as an Information System,Business Essentials,678,399,58.849557522123895
+COR1380,Teaching Popular Music in the Classroom,Education,4822,2432,50.43550394027374
+COR1381,Managing Employee Performance,Business Essentials,4220,2226,52.74881516587677
+COR1382,Design your own trading strategy – Culminating Project,Finance,3292,2658,80.74119076549209
+COR1383,Digital Media and Marketing Principles,Marketing,2670,1932,72.35955056179775
+COR1384,Introduction to Game Design,Music and Art,4740,4132,87.17299578059071
+COR1385,Finding Mutations in DNA and Proteins (Bioinformatics VI),Health Informatics,3752,1889,50.346481876332625
+COR1386,Experimental Methods in Systems Biology,Research,4945,4339,87.74519716885743
+COR1927,Electric Power Systems,Electrical Engineering,2253,1524,67.64314247669773
+COR1387,Supporting Families and Caregivers,Patient Care,2249,1509,67.0964873277012
+COR1388,Introduction to Hardware and Operating Systems,Support and Operations,1724,918,53.24825986078886
+COR1389,Introduction to Business Analytics with R,Business Essentials,542,454,83.76383763837639
+COR1390,Probability Theory: Foundation for Data Science,Probability and Statistics,2028,1775,87.52465483234714
+COR1391,Data Analysis with Python,Data Analysis,4487,2286,50.94718074437263
+COR1392,ESG Impact: Investor Perspective,Finance,4260,2647,62.136150234741784
+COR1393,Prediction Models with Sports Data,Data Analysis,1247,873,70.00801924619086
+COR1394,Planning your Client's Wealth over a 5-year Horizon,Finance,1313,984,74.94287890327494
+COR1395,Market Risk Management: Frameworks & Strategies,Finance,2860,2628,91.8881118881119
+COR1396,Ethical Issues in Data Science,Data Analysis,2420,1350,55.78512396694215
+COR1397,Easing Physical Symptoms: It's Not Just Hospice Anymore,Patient Care,103,60,58.252427184466015
+COR1398,Arranging for Songwriters,Music and Art,243,189,77.77777777777779
+COR1399,Web Application Technologies and Django,Mobile and Web Development,3946,2384,60.41561074505829
+COR1400,Solving Problems with Creative and Critical Thinking,Personal Development,4588,3256,70.96774193548387
+COR1401,Sales Force Management,Leadership and Management,3281,3225,98.29320329167936
+COR1402,"Professional development: Improve yourself, always",Leadership and Management,3445,1916,55.61683599419448
+COR1403,Financial Accounting Fundamentals,Business Essentials,1488,1485,99.79838709677419
+COR1404,Business Transformation with Google Cloud,Business Strategy,1185,1154,97.38396624472574
+COR1405,Lessons on Wisdom: Personal Leadership for Your Life,Leadership and Management,3805,3594,94.45466491458608
+COR1406,Robotics: Computational Motion Planning,Mechanical Engineering,899,472,52.502780867630705
+COR1407,The Role of Global Capital Markets,Finance,247,239,96.76113360323887
+COR1408,Marketing on TikTok,Marketing,843,429,50.88967971530249
+COR1409,Identifying Patient Populations,Data Analysis,2316,2250,97.15025906735751
+COR1410,Fitting Statistical Models to Data with Python,Probability and Statistics,1919,1675,87.28504429390307
+COR1411,Positive Psychology: Martin E. P. Seligman’s Visionary Science,Psychology,2168,1142,52.67527675276753
+COR1412,Digitalisation in Space Research,Mechanical Engineering,967,692,71.56153050672181
+COR1413,Perspective-Taking,Personal Development,4703,2723,57.89921326812673
+COR1414,Drug Discovery ,Healthcare Management,4643,3174,68.36097350850743
+COR1415,Battery Pack Balancing and Power Estimation,Electrical Engineering,203,136,66.99507389162561
+COR1416,Social Marketing Capstone Project,Marketing,1741,1322,75.93337162550259
+COR1417,"Musicianship: Chord Charts, Diatonic Chords, and Minor Keys",Music and Art,1515,1069,70.56105610561056
+COR1418,The Define Phase for the 6 σ Black Belt,Business Essentials,4637,4388,94.63014880310546
+COR1419,Capstone: Your Story,Music and Art,2295,1883,82.0479302832244
+COR1420,SEL for Students: A Path to Social Emotional Well-Being,Education,3171,2707,85.36739198990855
+COR1928,Comparative Health Systems,Public Health,1757,1068,60.7854297097325
+COR1421,Applied Machine Learning in Python,Data Analysis,4634,4306,92.921881743634
+COR1422,Overview of Advanced Methods of Reinforcement Learning in Finance,Algorithms,3072,2021,65.78776041666666
+COR1423,Teach English Now! Foundational Principles,Education,1064,544,51.127819548872175
+COR1424,Statistical Inference for Estimation in Data Science,Probability and Statistics,832,619,74.39903846153845
+COR1425,Statistical Inference and Hypothesis Testing in Data Science Applications,Probability and Statistics,1112,1062,95.50359712230215
+COR1426,Cryptography,Computer Security and Networks,2144,1455,67.86380597014924
+COR1427,Information Design,Design and Product,2394,1709,71.38680033416875
+COR1428,Fashion Systems,Business Strategy,2169,1905,87.82849239280775
+COR1429,"Data Warehouse Concepts, Design, and Data Integration",Design and Product,1382,1289,93.27062228654125
+COR1430,"Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal",Design and Product,2309,2153,93.24382849718494
+COR1431,Brand Identity and Strategy,Marketing,4670,2937,62.890792291220556
+COR1432,"Conjunctions, Connectives, and Adverb Clauses",Learning English,736,639,86.82065217391305
+COR1433,Introduction to CSS3,Mobile and Web Development,3588,3422,95.37346711259754
+COR1434,Software Development Processes and Methodologies,Software Development,4911,4367,88.92282630828751
+COR1435,Introduction to Machine Learning in Sports Analytics,Data Analysis,4692,2593,55.26427962489343
+COR1436,Understanding and Visualizing Data with Python,Data Analysis,311,244,78.45659163987139
+COR1437,Managing Talent,Leadership and Management,3514,1771,50.39840637450199
+COR1438,Analyzing and Visualizing Data in Looker,Data Analysis,1160,658,56.72413793103448
+COR1439,Excel Fundamentals for Data Analysis,Business Essentials,1487,1010,67.92199058507062
+COR1440,"ETL and Data Pipelines with Shell, Airflow and Kafka",Data Management,1749,1487,85.02001143510579
+COR1441,Analysis and Interpretation of Data,Marketing,691,689,99.71056439942113
+COR1442,Agile Leadership: Introduction to Change,Leadership and Management,640,443,69.21875
+COR1443,"Create video, audio and infographics for online learning ",Education,1783,1486,83.3426808749299
+COR1444,Singing Popular Music,Music and Art,4538,2335,51.454385191714415
+COR1445,Investments I: Fundamentals of Performance Evaluation,Finance,1029,649,63.070942662779395
+COR1446,The Business of Product Management I,Leadership and Management,917,813,88.65866957470011
+COR1447,Agile Software Development,Software Development,1367,1274,93.19678127286028
+COR1448,Applied Data Science for Data Analysts,Data Analysis,3676,3420,93.03590859630033
+COR1449,Financial Analysis of Scenarios and Decisions,Business Essentials,3050,2918,95.67213114754098
+COR1450,Functional Programming in Scala Capstone,Data Analysis,349,245,70.20057306590259
+COR1451,Understanding and Strengthening Health Systems,Public Health,1433,949,66.22470341939986
+COR1452,Understanding Financial Statements: Company Performance,Business Essentials,4415,3759,85.14156285390713
+COR1453,Types of Conflict,Business Essentials,278,232,83.45323741007195
+COR1454,Content Strategy for Professionals: Engaging Audiences,Marketing,4054,2542,62.70350271336951
+COR1455,Big Data - Capstone Project,Data Analysis,3273,2558,78.15459822792545
+COR1456,Inferential Statistics,Probability and Statistics,2963,2140,72.22409719878502
+COR1457,Fundamentals of Scalable Data Science,Data Analysis,3785,2980,78.73183619550859
+COR1458,Uncommon Sense Teaching,Education,2172,1507,69.3830570902394
+COR1459,Delivery Problem,Algorithms,1215,884,72.75720164609054
+COR1460,Creating Behavioral Change,Psychology,4253,2504,58.876087467669876
+COR1461,Decentralized Applications (Dapps),Software Development,859,806,93.83003492433062
+COR1462,Agile Meets Design Thinking,Design and Product,3550,2999,84.47887323943662
+COR1463,Flight Mechanics - Anemobarometry,Physics and Astronomy,2530,1615,63.83399209486166
+COR1464,Improving Communication Skills,Personal Development,4025,2375,59.006211180124225
+COR1465,AI Workflow: Data Analysis and Hypothesis Testing,Machine Learning,1891,1062,56.16076150185088
+COR1466,Design Thinking: Discovery Tools,Business Strategy,273,160,58.60805860805861
+COR1467,Cognición encarnada,Algorithms,647,443,68.46986089644514
+COR1468,Foundations of Red Hat Cloud-native Development,Cloud Computing,2842,2606,91.69598874032371
+COR1469,Introduction to Artificial Intelligence (AI),Machine Learning,4751,3066,64.53378236160809
+COR1470,Creating a Team Culture of Continuous Learning,Leadership and Management,1589,1252,78.79169288860919
+COR1471,"Healthy Practices: Nutrition, Physical Activity, and Community and Family Participation",Nutrition,1604,1349,84.10224438902743
+COR1472,Financial Acumen for Non-Financial Managers,Business Essentials,2603,2574,98.88590088359585
+COR1473,"High Performance Collaboration: Leadership, Teamwork, and Negotiation",Leadership and Management,4239,3210,75.72540693559802
+COR1929,What is news? ,Music and Art,3227,2867,88.84412767276108
+COR1474,Linux System Programming and Introduction to Buildroot,Software Development,1749,1564,89.42252715837623
+COR1475,Fundamentals of Management,Leadership and Management,579,437,75.47495682210709
+COR1476,"Engineering Project Management: Risk, Quality, Teams, and Procurement",Leadership and Management,4713,2750,58.34924676426905
+COR1477,Introduction to Corporate Finance,Finance,3165,1772,55.9873617693523
+COR1478,Statistical Inference,Probability and Statistics,1417,1257,88.70853916725477
+COR1479,Financial Analysis of Organizations,Business Essentials,965,508,52.64248704663213
+COR1480,Game Design and Development 3: 3D Shooter,Software Development,3312,2848,85.99033816425121
+COR1481,Life Cycle Assessment,Public Health,3891,3386,87.0213312773066
+COR1482,Generative Deep Learning with TensorFlow,Machine Learning,571,546,95.6217162872154
+COR1483,Value-Based Care: Organizational Competencies,Public Health,3738,2104,56.28678437667202
+COR1930,The Art of Music Production,Music and Art,3990,2597,65.08771929824562
+COR1484,AI Strategy and Governance,Machine Learning,2362,1230,52.07451312447079
+COR1485,Digital Product Management: Modern Fundamentals,Leadership and Management,953,688,72.19307450157397
+COR1486,Negotiation skills: Negotiate and resolve conflict,Business Essentials,4321,3533,81.7634806757695
+COR1487,Managing Big Data with MySQL,Data Analysis,2769,1660,59.94944023113037
+COR1488,"Journalism, the future, and you!",Music and Art,1127,1033,91.65927240461403
+COR1489,Experiencing Design: Deepening Your Design Thinking Practice,Business Strategy,1553,1342,86.41339343206697
+COR1490,Successful Presentation,Business Essentials,244,170,69.67213114754098
+COR1491,Getting Started with Data Visualization in R,Data Analysis,782,533,68.15856777493606
+COR1492,Java Programming: Solving Problems with Software,Software Development,3996,3195,79.95495495495496
+COR1493,Simple Past Tense,Learning English,1211,1122,92.65070189925682
+COR1494,"Big Data, Artificial Intelligence, and Ethics",Data Analysis,1207,990,82.0215410107705
+COR1495,Supply Chain Analytics,Business Essentials,3472,1949,56.134792626728114
+COR1496,"Smart Analytics, Machine Learning, and AI on Google Cloud",Cloud Computing,1190,766,64.36974789915966
+COR1497,Blockchain and Business,Business Essentials,138,77,55.79710144927537
+COR1498,Leading Positive Change through Appreciative Inquiry,Leadership and Management,3310,2466,74.50151057401813
+COR1499,"Negotiation, Mediation, and Conflict Resolution - Capstone Project",Leadership and Management,475,336,70.73684210526315
+COR1500,Strategy Formulation,Business Strategy,3001,1858,61.912695768077306
+COR1501,Recording in Journals & Posting in Ledgers,Finance,2551,1719,67.38533908271266
+COR1502,Competitive Strategy and Organization Design Project,Business Strategy,4306,2385,55.38783093358105
+COR1503,Enterprise Systems,Support and Operations,3554,2586,72.76308384918401
+COR1504,Success,Personal Development,4990,3684,73.82765531062124
+COR1505,Bayesian Statistics: From Concept to Data Analysis,Probability and Statistics,2890,2266,78.4083044982699
+COR1506,Access Control Concepts,Security,2563,2232,87.08544674209911
+COR1507,Advanced Data Structures in Java,Algorithms,3855,2759,71.56939040207523
+COR1508,Qualitative Data Collection Methods,Health Informatics,2475,1719,69.45454545454545
+COR1509,"Unsupervised Learning, Recommenders, Reinforcement Learning",Machine Learning,4672,3285,70.3125
+COR1510,Introduction to Business Analytics: Communicating with Data ,Leadership and Management,1385,1376,99.35018050541517
+COR1511,Network Defense Essentials (NDE),Security,512,301,58.7890625
+COR1512,Mastering the Software Engineering Interview,Software Development,270,251,92.96296296296296
+COR1513,SQL for Data Science,Data Analysis,2128,1251,58.787593984962406
+COR1514,Derivatives - Options & Futures,Finance,1775,1267,71.38028169014085
+COR1515,Digital Signal Processing 1: Basic Concepts and Algorithms,Electrical Engineering,406,322,79.3103448275862
+COR1516,Finance for Managers,Finance,2766,1530,55.31453362255966
+COR1517,Mandarin Chinese 3: Chinese for Beginners,Other Languages,4906,4723,96.26987362413372
+COR1518,Innovating with Data and Google Cloud,Cloud Computing,2549,2251,88.30914083954492
+COR1519,Creating Sounds for Electronic Music,Music and Art,3470,2350,67.72334293948127
+COR1520,Qualitative Research,Marketing,489,433,88.5480572597137
+COR1521,Quantitative Foundations for International Business,Business Essentials,1066,848,79.54971857410882
+COR1522,Project Management: Beyond planning and control,Leadership and Management,2980,2686,90.13422818791946
+COR1523,"Imagery, Automation, and Applications",Environmental Science and Sustainability,1357,755,55.63743551952837
+COR1524,3D Printing Software,Entrepreneurship,118,97,82.20338983050848
+COR1525,Business English: Basics,Learning English,3640,2088,57.36263736263736
+COR1526,Python Basics,Software Development,4065,3141,77.26937269372694
+COR1527,"Conversations That Inspire: Coaching Learning, Leadership and Change",Leadership and Management,1308,1226,93.7308868501529
+COR1528,Corporate Strategy,Business Strategy,1542,1288,83.52788586251621
+COR1529,Introduction to Python for Cybersecurity ,Security,1588,1221,76.88916876574308
+COR1530,Preparing for AI-900: Microsoft Azure AI Fundamentals exam,Machine Learning,1713,1363,79.56800934033859
+COR1531,"Cloud Virtualization, Containers and APIs",Cloud Computing,4727,4182,88.47048868203935
+COR1532,Tools for Exploratory Data Analysis in Business,Data Analysis,2309,1634,70.76656561281939
+COR1533,Feature Engineering,Machine Learning,2503,1998,79.82421094686376
+COR1534,Leading People and Teams Capstone,Leadership and Management,821,803,97.80755176613886
+COR1535,Developing a Leadership Framework,Leadership and Management,2349,1625,69.17837377607493
+COR1536,Converter Control,Electrical Engineering,4005,2745,68.53932584269663
+COR1537,Copyright Law,Law,1327,1006,75.81009796533534
+COR1538,Version Control,Mobile and Web Development,1349,1010,74.8702742772424
+COR1539,Inheritance and Data Structures in Java,Software Development,1902,1010,53.10199789695058
+COR1540,Business Strategies for Social Impact,Business Strategy,2712,1812,66.8141592920354
+COR1541,Command Line Tools for Genomic Data Science,Data Analysis,2476,2397,96.80936995153473
+COR1542,Build Basic Generative Adversarial Networks (GANs),Machine Learning,1145,831,72.5764192139738
+COR1543,Supply Chain Analytics Essentials,Business Essentials,3362,1694,50.386674598453304
+COR1544,"Modern Robotics, Course 2:  Robot Kinematics",Mechanical Engineering,2909,2675,91.95599862495702
+COR1545,Python for Active Defense,Security,2087,1313,62.91327264015333
+COR1546,Essentials of Palliative Care,Patient Care,2399,1305,54.39766569403919
+COR1547,Mindfulness in Integrative Healthcare,Research,2030,1300,64.03940886699507
+COR1548,Python and Machine Learning for Asset Management ,Finance,1717,982,57.19277810133955
+COR1549,Essential Epidemiologic Tools for Public Health Practice,Public Health,2088,1215,58.189655172413794
+COR1550,La gestión de personas y equipos,Leadership and Management,2363,2131,90.1819720694033
+COR1551,Digital Transformation of Financial Services - Capstone Project,Business Strategy,4584,4465,97.40401396160559
+COR1552,Transformational Leadership for Inclusive Innovation,Business Essentials,4812,4476,93.01745635910224
+COR1553,Getting Started With Application Development,Software Development,4863,4841,99.54760435944891
+COR1554,Managing an Agile Team,Design and Product,638,510,79.9373040752351
+COR1555,Organisational behaviour: Know your people,Leadership and Management,4706,3225,68.52953676158096
+COR1556,What is Data Science? ,Data Analysis,3633,3361,92.51307459399945
+COR1557,Managing Debt,Personal Development,390,319,81.7948717948718
+COR1558,Concept Art for Video Games,Music and Art,3061,2690,87.87977785037569
+COR1559,Optimizing Diversity on Teams,Leadership and Management,2307,1162,50.36844386649329
+COR1560,Object-Oriented Data Structures in C++,Software Development,1130,978,86.54867256637168
+COR1561,Animation with JavaScript and jQuery,Mobile and Web Development,2072,2040,98.45559845559846
+COR1562,Summary Statistics in Public Health ,Public Health,2341,2237,95.55745407945324
+COR1563,Bayesian Statistics: Mixture Models,Data Analysis,3073,1589,51.70842824601367
+COR1564,"Introduction to Data, Signal, and Image Analysis with MATLAB",Data Analysis,2276,1221,53.646748681898075
+COR1565,CUDA Advanced Libraries,Algorithms,3523,3128,88.78796480272496
+COR1566,Project Execution and Control,Leadership and Management,1945,1072,55.11568123393317
+COR1567,Gestión del canal de distribución y retailing    ,Marketing,3029,2315,76.42786398151205
+COR1568,Advanced Data Visualization with R,Data Analysis,4309,2786,64.65537247621258
+COR1569,Apply Generative Adversarial Networks (GANs),Machine Learning,2153,2140,99.39619136089178
+COR1570,Leading transformations: Manage change,Leadership and Management,3311,2403,72.57626094835398
+COR1571,Excel Skills for Business: Advanced,Business Essentials,3599,1942,53.95943317588219
+COR1572,Competitive Strategy,Business Strategy,2607,2132,81.77982355197545
+COR1573,Introduction to Financial Engineering and Risk Management,Finance,2777,2746,98.8836874324811
+COR1574,Integral Calculus and Numerical Analysis for Data Science,Math and Logic,4158,3168,76.19047619047619
+COR1575,Term-Structure and Credit Derivatives ,Finance,3794,3760,99.10384818133896
+COR1576,Administración de Proyectos Project,Leadership and Management,2311,1784,77.19601903937689
+COR1577,Computational Social Science Capstone Project,Data Analysis,926,918,99.13606911447084
+COR1578,Think Again III: How to Reason Inductively,Philosophy,2539,1982,78.06222922410397
+COR1579,"Writing, Running, and Fixing Code in C",Software Development,2841,2143,75.43118620204153
+COR1580,Cybersecurity Capstone Project,Computer Security and Networks,4964,4687,94.41982272361
+COR1581,Finance of Mergers and Acquisitions: Valuation and Pricing,Finance,1975,1864,94.37974683544303
+COR1582,Intelligent Machining,Mechanical Engineering,3799,3464,91.18188997104501
+COR1583,Developing an Agile Team,Leadership and Management,2018,1197,59.316154608523284
+COR1584,Plant Bioinformatics Capstone,Research Methods,4715,4568,96.88229056203606
+COR1585,Brand and Product Management,Marketing,2561,2542,99.25810230378758
+COR1586,Ethical Hacking Essentials (EHE),Security,200,198,99.0
+COR1587,"Response Surfaces, Mixtures, and Model Building",Probability and Statistics,2538,2442,96.2174940898345
+COR1588,"Python Project: pillow, tesseract, and opencv",Software Development,2160,1827,84.58333333333333
+COR1589,Infonomics II: Business Information Management and Measurement,Business Strategy,2596,1466,56.47149460708783
+COR1590,Data Science with R - Capstone Project,Data Analysis,1881,1810,96.2254120148857
+COR1591,Credit Risk Management: Frameworks and Strategies,Finance,4861,4618,95.00102859493931
+COR1592,Introduction to Genomic Technologies,Data Analysis,4205,2681,63.757431629013084
+COR1593,A Complete Reinforcement Learning System (Capstone),Machine Learning,824,553,67.1116504854369
+COR1594,Engineering Project Management: Initiating and Planning,Leadership and Management,2013,1813,90.06458022851466
+COR1595,Engineering Practices for Building Quality Software,Software Development,3534,3464,98.0192416525184
+COR1596,Capstone: Build a Winning Investment Portfolio,Finance,4502,3527,78.34295868502888
+COR1597,Safety in the Utility Industry ,Electrical Engineering,4876,3594,73.70795734208367
+COR1598,AI Workflow: Feature Engineering and Bias Detection,Machine Learning,3576,2671,74.69239373601789
+COR1599,Database Management Essentials,Software Development,4657,3595,77.1956194975306
+COR1600,Jazz Improvisation,Music and Art,139,137,98.56115107913669
+COR1601,"Providing Social, Emotional, Behavioral, and Special Education Services in School",Public Health,1475,1123,76.13559322033898
+COR1602,Practical Machine Learning,Machine Learning,1080,634,58.7037037037037
+COR1603,Salesforce Basics,Business Essentials,104,72,69.23076923076923
+COR1604,Design and Implementation of Digital Health Interventions ,Animal Health,427,322,75.40983606557377
+COR1605,"Healthcare Data Security, Privacy, and Compliance",Patient Care,769,703,91.41742522756827
+COR1606,FinTech Security and Regulation (RegTech),Finance,1062,713,67.13747645951035
+COR1607,3D Reconstruction - Multiple Viewpoints,Algorithms,2179,1203,55.208811381367596
+COR1608,Manufacturing Process with Autodesk Fusion 360,Mechanical Engineering,599,406,67.779632721202
+COR1609,Business Analytics Capstone,Data Analysis,1430,1023,71.53846153846153
+COR1610,Organization Planning and Development for the 6 σ Black Belt,Leadership and Management,3778,2483,65.72260455267337
+COR1611,Framework for Data Collection and Analysis,Data Analysis,3887,2702,69.5137638281451
+COR1612,Foundations for Big Data Analysis with SQL,Data Analysis,3112,1793,57.61568123393316
+COR1613,Grammar and Punctuation,Learning English,488,466,95.49180327868852
+COR1614,"Anatomy: Cardiovascular, Respiratory and Urinary Systems",Basic Science,1586,1324,83.48045397225725
+COR1615,Introduction to Cyber Attacks,Computer Security and Networks,1589,1153,72.5613593455003
+COR1616,Business Metrics for Data-Driven Companies,Data Analysis,4108,2686,65.38461538461539
+COR1617,"Teach English Now! Second Language Reading, Writing, and Grammar ",Learning English,1729,872,50.43377674956623
+COR1618,Product Cost and Investment Cash Flow Analysis ,Leadership and Management,4795,3467,72.30448383733055
+COR1619,Intellectual Property in the Healthcare Industry,Healthcare Management,3282,2293,69.8659354052407
+COR1620,"Java Programming: Arrays, Lists, and Structured Data",Software Development,3457,2951,85.36303153022851
+COR1621,Marketing estratégico: claves para competir con éxito,Marketing,1604,1111,69.2643391521197
+COR1622,Channel Management and Retailing ,Marketing,1682,1502,89.29845422116529
+COR1623,Design Thinking: Insights to Inspiration ,Business Strategy,3708,3228,87.05501618122977
+COR1624,Accounting: Principles of Financial Accounting,Finance,953,497,52.1511017838405
+COR1625,Databases and SQL for Data Science with Python,Data Analysis,3571,2477,69.36432371884626
+COR1626,Innovating with the Business Model Canvas,Leadership and Management,2355,2114,89.76645435244161
+COR1627,Structuring Machine Learning Projects,Data Analysis,2337,2247,96.14890885750962
+COR1628,Developing An Entrepreneurial Mindset: First Step Towards Success ,Entrepreneurship,4656,3890,83.54810996563575
+COR1629,Python Classes and Inheritance,Software Development,181,143,79.00552486187846
+COR1630,"Engineering Project Management: Scope, Time and Cost Management",Leadership and Management,4702,3176,67.54572522330923
+COR1631,User Experience & Interaction Design for AR/VR/MR/XR,Design and Product,3682,2972,80.71700162954916
+COR1632,"Cybersecurity Roles, Processes & Operating System Security",Security,246,166,67.47967479674797
+COR1633,"Diversity, Equity, and Inclusion Best Practices for Managers",Leadership and Management,832,622,74.75961538461539
+COR1634,Microsoft Azure Machine Learning,Machine Learning,155,124,80.0
+COR1635,International Entertainment and Sports Marketing,Marketing,1848,1380,74.67532467532467
+COR1636,Data Manipulation in JavaScript,Mobile and Web Development,1550,922,59.483870967741936
+COR1637,Marketing Mix Fundamentals,Marketing,815,803,98.52760736196319
+COR1638,The Importance of Listening,Marketing,1851,1407,76.01296596434359
+COR1639,DevOps on AWS: Operate and Monitor,Software Development,3898,2119,54.36121087737301
+COR1931,Enterprise System Management and Security ,Security,2617,1512,57.77607948032097
+COR1640,Corruption,Governance and Society,4520,3743,82.80973451327434
+COR1641,Getting Started with Essay Writing,Music and Art,315,203,64.44444444444444
+COR1642,Introduction to Neurohacking In R,Data Analysis,2373,1738,73.24062368310156
+COR1643,Oracle Database Foundations,Software Development,1461,1009,69.06228610540725
+COR1644,Managing Machine Learning Projects,Machine Learning,3869,3324,85.91367278366504
+COR1645,Digital Twins,Business Strategy,2311,1476,63.868455214192984
+COR1646,The Outcomes and Interventions of Health Informatics,Health Informatics,4021,3940,97.98557572743098
+COR1647,First Steps in Making the Business Case for Sustainability,Leadership and Management,1125,1031,91.64444444444445
+COR1648,Building No-Code Apps with AppSheet: Foundations,Cloud Computing,2992,1561,52.17245989304813
+COR1649,State Estimation and Localization for Self-Driving Cars,Software Development,1557,1419,91.13680154142581
+COR1650,Content Strategy for Professionals: Managing Content,Marketing,3439,2704,78.62750799651062
+COR1651,Features and Boundaries,Algorithms,3231,2978,92.16960693283814
+COR1652,"Content, Advertising & Social IMC",Marketing,4894,3558,72.70126685737638
+COR1653,"Everyday Excel, Part 2",Design and Product,1964,1862,94.80651731160896
+COR1654,Optical Efficiency and Resolution,Electrical Engineering,3229,2839,87.92195726231031
+COR1655,Healthcare Data Quality and Governance,Health Informatics,1358,1288,94.84536082474226
+COR1656,Relational Database Design,Data Management,3715,2958,79.62314939434724
+COR1657,Introduction to Data Science in Python,Data Analysis,1885,1855,98.40848806366049
+COR1658,Understanding Cancer Metastasis,Basic Science,1355,979,72.25092250922509
+COR1659,Interfacing with the Raspberry Pi,Electrical Engineering,881,615,69.80703745743473
+COR1660,Strategic Self-Marketing and Personal Branding,Personal Development,2758,2298,83.32124728063815
+COR1661,Blockchain Opportunity Analysis,Business Strategy,3189,2775,87.01787394167451
+COR1662,"Python for Data Science, AI & Development",Data Analysis,885,832,94.01129943502825
+COR1663,Object Oriented Programming in Java,Software Development,264,255,96.5909090909091
+COR1664,Project Initiation and Planning,Leadership and Management,586,383,65.35836177474403
+COR1665,Accounting for Mergers and Acquisitions: Advanced Topics,Business Strategy,4386,2358,53.76196990424077
+COR1666,Work Smarter with Microsoft Excel,Business Essentials,698,438,62.75071633237822
+COR1667,Lean Software Development,Software Development,4316,3547,82.1825764596849
+COR1668,Linear Algebra for Machine Learning and Data Science,Algorithms,4313,3892,90.23881289125897
+COR1669,Building Your Career in Music: Developing A Brand and Funding Your Music,Music and Art,3028,2999,99.04227212681637
+COR1670,Ethics of Artificial Intelligence,Algorithms,3326,2917,87.70294648226098
+COR1671,Innovation: From Creativity to Entrepreneurship Capstone,Entrepreneurship,272,148,54.41176470588235
+COR1672,Numerical Methods for Engineers,Math and Logic,2204,2174,98.63883847549909
+COR1673,Análisis de situaciones de negocio,Leadership and Management,2107,1148,54.48504983388705
+COR1674,Camera and Imaging,Algorithms,2351,1604,68.22628668651637
+COR1675,Strategic Management - Capstone Project,Business Strategy,2446,2171,88.75715453802125
+COR1676,A Crash Course in Data Science,Data Analysis,1006,551,54.771371769383705
+COR1677,Digital Strategy and Business Opportunity,Marketing,4528,4452,98.32155477031802
+COR1678,Arranging for Songwriters,Music and Art,1986,1774,89.32527693856998
+COR1679,Market Research and Consumer Behavior,Marketing,4579,3743,81.74273858921161
+COR1680,Entrepreneurship 2: Launching your Start-Up,Entrepreneurship,3977,2336,58.737742016595426
+COR1681,Data Collection and Processing with Python,Software Development,1606,1366,85.0560398505604
+COR1682,Introduction to Portfolio Construction and Analysis with Python,Finance,1471,1260,85.65601631543169
+COR1683,Developing Data Products,Data Analysis,659,400,60.69802731411229
+COR1684,Capstone (React App),Mobile and Web Development,1358,1194,87.92341678939617
+COR1685,"Managing Asthma, Allergies, Diabetes, and Seizures in School",Patient Care,3523,2949,83.70706783990917
+COR1686,Sales Operations: Final Project,Leadership and Management,2152,1683,78.20631970260223
+COR1687,Collaborate Effectively for Professional Success,Personal Development,3816,2434,63.78406708595388
+COR1688,Setting the Stage for Success: An Eye on Safety Culture and Teamwork (Patient Safety II),Healthcare Management,3446,3078,89.32095182820662
+COR1689,Creative Writing: The Craft of Style,Music and Art,1461,1455,99.58932238193019
+COR1690,Best Practices in Planning DE&I Interventions,Leadership and Management,102,53,51.9607843137255
+COR1691,Wearable Technologies and Sports Analytics,Data Analysis,4380,3266,74.56621004566209
+COR1692,Organizational Behavior: How to Manage People,Leadership and Management,781,585,74.90396927016644
+COR1693,Introduction to Object-Oriented Programming with Java,Software Development,4769,3005,63.011113440972956
+COR1694,Investment Banking: Financial Analysis and Valuation,Finance,3829,3798,99.19038913554454
+COR1695,Advanced Content and Social Tactics to Optimize SEO,Marketing,1010,855,84.65346534653465
+COR1696,CUDA at Scale for the Enterprise,Software Development,601,550,91.51414309484193
+COR1697,Predictive Modeling and Analytics ,Data Analysis,1236,936,75.72815533980582
+COR1698,Robotics: Mobility,Mechanical Engineering,3932,1984,50.45778229908443
+COR1932,Google Calendar en Español,Cloud Computing,1470,811,55.17006802721088
+COR1699,Software Architecture,Software Development,918,651,70.91503267973856
+COR1700,Information Gathering and Vetting,Personal Development,2673,1912,71.53011597456042
+COR1701,Women in Leadership: Inspiring Positive Change,Leadership and Management,4216,3593,85.22296015180265
+COR1702,Creating Dashboards and Storytelling with Tableau,Data Analysis,4605,4598,99.84799131378936
+COR1703,Customer Value in Pricing Strategy,Marketing,3508,2028,57.81071835803877
+COR1704,Content Strategy for Professionals: Expanding Your Content’s Reach,Marketing,2827,2407,85.14326140785285
+COR1705,Management Skills for International Business,Leadership and Management,587,439,74.78705281090289
+COR1706,Quality Improvement in Healthcare Organizations,Healthcare Management,1240,669,53.95161290322581
+COR1707,Cómputo evolutivo,Algorithms,964,738,76.55601659751036
+COR1708,Game Design and Development 4: 3D Platformer,Software Development,4530,3151,69.55849889624724
+COR1933,Introduction to battery-management systems,Electrical Engineering,4918,2766,56.24237494916633
+COR1709,Consonants of American English Pronunciation,Learning English,4946,3163,63.95066720582289
+COR1710,Introduction to Agile Development and Scrum,Software Development,4672,2539,54.34503424657534
+COR1711,Introduction to Blockchain Technologies,Business Essentials,3039,2367,77.88746298124383
+COR1712,Advanced Machine Learning and Signal Processing,Machine Learning,4437,3634,81.90218616182105
+COR1713,DevOps on AWS: Release and Deploy,Software Development,3391,2996,88.35151872603952
+COR1714,Elastic Google Cloud Infrastructure: Scaling and Automation,Cloud Computing,4442,3572,80.41422782530393
+COR1715,Capstone: Analyzing (Social) Network Data,Data Analysis,1381,830,60.101375814627076
+COR1716,Mathematics for Machine Learning: Multivariate Calculus,Math and Logic,1313,697,53.08453922315308
+COR1717,Accounting: Principles of Financial Accounting,Finance,3622,3310,91.3859745996687
+COR1718,Immunology: Adaptive Immune System,Basic Science,3792,3590,94.67299578059072
+COR1719,Black-box and White-box Testing,Software Development,3369,1748,51.88483229444939
+COR1934,"Cloud Computing Law: Law Enforcement, Competition, & Tax",Law,2680,1972,73.5820895522388
+COR1720,Mathematics for Machine Learning: PCA,Machine Learning,4084,3645,89.25073457394711
+COR1721,Machine Learning Foundations: A Case Study Approach,Machine Learning,3827,2939,76.79644630258689
+COR1722,Probability & Statistics for Machine Learning & Data Science,Algorithms,2997,2936,97.96463129796463
+COR1723,Security Best Practices in Google Cloud,Cloud Computing,4816,4481,93.04401993355482
+COR1724,Neural Networks and Deep Learning,Machine Learning,2264,1377,60.82155477031802
+COR1725,Intermediate Object-Oriented Programming for Unreal Games,Software Development,690,426,61.73913043478261
+COR1726,Getting Started with Data Warehousing and BI Analytics,Data Management,3109,1839,59.15085236410421
+COR1727,Linux Embedded System Topics and Projects,Software Development,4285,2254,52.60210035005834
+COR1728,Chinese for HSK 3 PART I,Other Languages,2295,1754,76.42701525054466
+COR1729,Architecting with Google Kubernetes Engine: Production,Software Development,1210,707,58.429752066115704
+COR1730,"Python for Data Science, AI & Development",Data Analysis,141,126,89.36170212765957
+COR1731,Managing Security in Google Cloud,Cloud Computing,3410,3361,98.56304985337243
+COR1732,Cloud Computing Law: Transactions,Law,1008,888,88.09523809523809
+COR1733,"Graph Search, Shortest Paths, and Data Structures",Algorithms,1583,864,54.57991156032848
+COR1734,Guided Tour of Machine Learning in Finance,Machine Learning,2816,2437,86.54119318181817
+COR1735,Databases and SQL for Data Science with Python,Data Analysis,3757,3165,84.24274687250465
+COR1736,Designing for Sustainment: Keeping Improvement Work on Track (Patient Safety IV),Patient Care,158,122,77.21518987341773
+COR1737,English for Effective  Business Writing,Learning English,3781,3511,92.85903200211584
+COR1738,Digital Marketing Analytics in Theory,Data Analysis,2462,1846,74.97969130787978
+COR1739,Introduction to UI Design,Design and Product,4805,3927,81.72736732570239
+COR1740,Human-Centered Design for Inclusive Innovation,Business Essentials,3155,2370,75.1188589540412
+COR1741,Physics 102 - AC Circuits and Maxwell's Equations,Physics and Astronomy,3616,1907,52.73783185840708
+COR1742,User Research and Design,Design and Product,2365,2062,87.18816067653276
+COR1743,Tricky English Grammar,Learning English,372,312,83.87096774193549
+COR1744,Getting started with TensorFlow 2,Machine Learning,3350,2493,74.41791044776119
+COR1745,Supply Chain Sourcing,Business Strategy,2627,1587,60.4111153406928
+COR1746,The Power of Team Culture,Leadership and Management,2581,2301,89.15149166989539
+COR1935,"Pressure, Force, Motion, and Humidity Sensors ",Electrical Engineering,3982,3830,96.18282270215973
+COR1747,Introduction to the Internet of Things and Embedded Systems,Software Development,679,365,53.75552282768778
+COR1748,Foundations of Public Health Practice: Behaviour & Behaviour Change,Public Health,503,290,57.65407554671968
+COR1749,Investment Banking: M&A and Initial Public Offerings,Finance,179,163,91.06145251396647
+COR1750,Inspiring Leadership through Emotional Intelligence,Leadership and Management,161,146,90.6832298136646
+COR1751,Saving Money for the Future,Personal Development,3915,2550,65.13409961685824
+COR1752,Advanced Learning Algorithms,Machine Learning,3979,2844,71.47524503644132
+COR1753,"Lending, Crowdfunding, and Modern Investing",Business Essentials,1013,705,69.59526159921026
+COR1754,Entrepreneurship II: Preparing for Launch,Entrepreneurship,437,378,86.49885583524028
+COR1755,Introduction to GIS Mapping,Environmental Science and Sustainability,2026,1145,56.51530108588352
+COR1756,Data Visualization and Communication with Tableau,Data Analysis,3218,2624,81.54133001864511
+COR1757,Combining Scrum with Other Agile Methodologies,Design and Product,1137,835,73.43887423043097
+COR1758,Chinese for HSK 1,Other Languages,1305,677,51.877394636015325
+COR1759,Introduction to Structured Query Language (SQL),Mobile and Web Development,832,693,83.29326923076923
+COR1760,Machine Learning Modeling Pipelines in Production,Machine Learning,4401,2526,57.39604635310157
+COR1761,Creative Writing: The Craft of Character,Music and Art,1676,974,58.1145584725537
+COR1762,SQL for Data Science with R,Data Analysis,867,701,80.85351787773934
+COR1763,Java Programming: Solving Problems with Software,Software Development,905,697,77.01657458563535
+COR1764,Evaluations of AI Applications in Healthcare,Machine Learning,1752,1153,65.81050228310502
+COR1765,Building Batch Data Pipelines on GCP 日本語版,Cloud Computing,4149,3513,84.67100506146059
+COR1766,Infrastructure and Application Modernization with Google Cloud,Business Strategy,2880,2850,98.95833333333334
+COR1767,3D Model Creation with Autodesk Fusion 360,Mechanical Engineering,698,463,66.33237822349571
+COR1768,Natural Language Processing with Sequence Models,Machine Learning,3916,2080,53.11542390194075
+COR1936,Strategic Planning and Execution,Business Strategy,2967,1714,57.76879002359286
+COR1937,"C++ For C Programmers, Part B",Software Development,1543,1111,72.00259235255994
+COR1769,IoT Devices,Mobile and Web Development,3426,2099,61.26678342089901
+COR1770,Digital Product Management: Modern Fundamentals,Leadership and Management,3868,3234,83.60910031023785
+COR1771,Pro Tools Basics,Music and Art,122,68,55.73770491803278
+COR1772,GIS Data Acquisition and Map Design,Environmental Science and Sustainability,4640,4568,98.44827586206897
+COR1773,Challenges of Leading Technical Teams,Personal Development,3559,3554,99.85951109862322
+COR1774,Word Forms and Simple Present Tense,Learning English,1975,1076,54.48101265822785
+COR1775,Smart Contracts,Software Development,3404,2776,81.55111633372502
+COR1776,Writing and Editing: Structure and Organization,Personal Development,364,258,70.87912087912088
+COR1777,Linux Basics: The Command Line Interface - 6,Software Development,846,835,98.69976359338062
+COR1778,Consulting Presentations and Storytelling,Business Strategy,3624,2961,81.70529801324503
+COR1938,Drug Development,Research,3610,2114,58.5595567867036
+COR1779,Spanish Vocabulary Project,Other Languages,567,523,92.23985890652557
+COR1780,Music Business Foundations,Music and Art,1285,906,70.50583657587549
+COR1781,Introduction to Food and Our Environment,Nutrition,1670,1044,62.514970059880234
+COR1782,CAPSTONE: Your Leadership Challenge,Leadership and Management,4390,4012,91.38952164009112
+COR1783,"Everyday Excel, Part 3 (Projects)",Algorithms,804,647,80.4726368159204
+COR1784,Razonamiento artificial,Algorithms,4035,3382,83.81660470879801
+COR1785,Portfolio Selection and Risk Management,Finance,421,230,54.63182897862233
+COR1786,Medical Terminology II,Basic Science,415,245,59.036144578313255
+COR1787,Custom and Distributed Training with TensorFlow,Machine Learning,617,575,93.19286871961103
+COR1788,Advanced Data Science Capstone,Machine Learning,1519,944,62.146148782093476
+COR1789,Reinforcement Learning in Finance,Machine Learning,1447,760,52.522460262612306
+COR1790,Business English: Networking,Learning English,4257,3925,92.2010805731736
+COR1791,AI Workflow: AI in Production,Machine Learning,4337,2667,61.49412035969565
+COR1792,Web3 and Blockchain Leadership for Transformation,Leadership and Management,604,503,83.27814569536423
+COR1793,Fundamentals of Immunology: Death by Friendly Fire,Basic Science,1992,1751,87.90160642570282
+COR1794,Coaching Conversations,Leadership and Management,2638,2138,81.04624715693708
+COR1795,Machine Learning: an overview,Data Management,4977,3696,74.26160337552743
+COR1796,Trading Basics,Finance,3558,2326,65.37380550871276
+COR1797,Seeing Through Photographs,Music and Art,1617,1071,66.23376623376623
+COR1798,Computational Social Science Methods,Data Analysis,2610,1358,52.03065134099617
+COR1799,Natural Language Processing with Classification and Vector Spaces,Machine Learning,2648,1606,60.649546827794566
+COR1800,Advanced Algorithms and Complexity,Algorithms,1769,1328,75.07066139061617
+COR1801,Introduction to Programming with MATLAB,Software Development,4877,4184,85.79044494566331
+COR1939,Introduction to Software Engineering,Software Development,1349,1264,93.69903632320236
+COR1802,Introduction to Spreadsheets and Models,Business Essentials,1082,941,86.96857670979668
+COR1803,Launching into Machine Learning,Machine Learning,1392,1140,81.89655172413794
+COR1804,"Modern Robotics, Course 3:  Robot Dynamics",Mechanical Engineering,2791,1430,51.236116087423866
+COR1805,An Introduction to Interactive Programming in Python (Part 2),Software Development,2418,1666,68.89991728701406
+COR1806,Algorithmic Thinking (Part 2),Software Development,1748,1119,64.01601830663616
+COR1807,Reproducible Research,Data Analysis,2506,1564,62.41021548284118
+COR1808,Key Concepts in Organizational DE&I,Leadership and Management,2386,1270,53.22715842414082
+COR1809,Introduction to Microsoft Azure Cloud Services,Cloud Computing,340,339,99.70588235294117
+COR1810,Cost and Economics in Pricing Strategy,Marketing,4374,2637,60.288065843621396
+COR1811,Mathematics for Engineers: The Capstone Course,Math and Logic,2696,2691,99.81454005934718
+COR1812,市场营销概论 (中文版）,Business Strategy,1385,768,55.45126353790614
+COR1813,Procurement & Sourcing Introduction,Leadership and Management,1289,1261,97.8277734678045
+COR1814,"Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization",Machine Learning,3153,2372,75.22993973993023
+COR1815,Web and Mobile Testing with Selenium,Software Development,4367,3850,88.16120906801007
+COR1816,Introduction to HTML5,Mobile and Web Development,2247,1770,78.7716955941255
+COR1817,Fundamental Neuroscience for Neuroimaging,Basic Science,2195,1775,80.86560364464692
+COR1818,C Programming: Modular Programming and Memory Management - 3,Software Development,1497,1425,95.19038076152304
+COR1819,C for Everyone: Structured Programming,Software Development,4246,2292,53.98021667451719
+COR1820,Supervised Machine Learning: Regression,Machine Learning,857,446,52.04200700116686
+COR1821,Digital Signal Processing 2: Filtering,Electrical Engineering,1710,1257,73.50877192982456
+COR1822,Planning a Patient Safety or Quality Improvement Project (Patient Safety III),Healthcare Management,3869,3140,81.15792194365469
+COR1823,Investment Strategies and Portfolio Analysis,Finance,4344,2869,66.04511970534071
+COR1824,Key Success Factors in Supply Chain Finance,Finance,2180,1304,59.816513761467895
+COR1825,Learn Mandarin Chinese: Capstone Project,Other Languages,3536,3150,89.08371040723982
+COR1826,"Spanish Vocabulary: Sports, Travel, and the Home",Other Languages,3773,2281,60.455870659952296
+COR1827,The Art of Negotiation,Business Essentials,1259,783,62.19221604447974
+COR1828,Advanced Deep Learning Methods for Healthcare,Machine Learning,4022,2482,61.7105917454003
+COR1829,Ethical Leadership Through Giving Voice to Values,Leadership and Management,896,694,77.45535714285714
+COR1830,Game Design and Development 2: 2D Platformer,Software Development,633,455,71.87993680884675
+COR1831,Battery State-of-Health (SOH) Estimation,Electrical Engineering,1010,921,91.1881188118812
+COR1832,沃顿商务基础毕业项目 (中文版),Business Essentials,663,425,64.1025641025641
+COR1833,Entrepreneurship I: Laying the Foundation,Entrepreneurship,2092,1491,71.27151051625239
+COR1834,Memoir and Personal Essay: Managing Your Relationship with the Reader,Music and Art,4697,4200,89.41877794336811
+COR1835,Gestión de marca y producto,Marketing,3107,2757,88.73511425812681
+COR1836,Careers in Sustainability,Environmental Science and Sustainability,3318,2958,89.1500904159132
+COR1837,Exploratory Data Analysis,Data Analysis,252,197,78.17460317460318
+COR1838,Principles of fMRI 1,Data Analysis,518,284,54.826254826254825
+COR1839,Enterprise Database Migration,Cloud Computing,3433,1803,52.5196621031168
+COR1840,Survey Data Collection and Analytics Project (Capstone),Psychology,795,414,52.075471698113205
+COR1841,Writing and Editing: Word Choice and Word Order,Personal Development,3891,2367,60.83269082498073
+COR1842,Professional Selling: Step 3 - Become a High-Performer,Marketing,2775,1908,68.75675675675676
+COR1843,"AI Workflow: Machine Learning, Visual Recognition and NLP",Machine Learning,1138,1000,87.87346221441125
+COR1844,Finding Hidden Messages in DNA (Bioinformatics I),Health Informatics,3037,2209,72.7362528811327
+COR1845,Speaking and Presenting: Poise,Personal Development,1942,1742,89.70133882595263
+COR1940,CAM and Design Manufacturing for Mechanical Engineers with Autodesk Fusion 360,Mechanical Engineering,2928,2524,86.20218579234972
+COR1846,Value-Based Care: Reimbursement Models,Public Health,4705,3122,66.35494155154092
+COR1847,"Questions, Present Progressive and Future Tenses",Learning English,2128,1448,68.04511278195488
+COR1848,More C++ Programming and Unreal,Software Development,4312,3143,72.8896103896104
+COR1849,UX (User Experience) Capstone,Design and Product,3334,1767,52.999400119976
+COR1850,"Medical Emergencies: Airway, Breathing, and Circulation",Patient Care,3636,2404,66.11661166116612
+COR1851,"GIS, Mapping, and Spatial Analysis Capstone",Environmental Science and Sustainability,1444,954,66.06648199445983
+COR1852,Accounting for Business Decision Making: Strategy Assessment and Control,Business Essentials,1201,686,57.11906744379684
+COR1853,Building a Toolkit for Your Sales Process,Business Essentials,375,343,91.46666666666667
+COR1854,Introduction to Integrative Therapies and Healing Practices,Patient Care,3079,2173,70.57486196817149
+COR1855,Introduction to Cybersecurity Essentials,Security,1616,1149,71.10148514851485
+COR1856,Privacy Law and HIPAA,Business Essentials,2346,1736,73.99829497016198
+COR1857,Introducción a la Contabilidad Financiera,Finance,4345,3134,72.12888377445339
+COR1858,Sequence Models,Machine Learning,889,594,66.81664791901012
+COR1859,Health and Safety of a Home-Based Childcare Center,Education,2027,1366,67.39023186975827
+COR1860,Introduction to Ableton Live,Music and Art,4488,3086,68.76114081996435
+COR1861,The Arduino Platform and C Programming,Software Development,3911,3623,92.63615443620557
+COR1862,Positive Psychology: Resilience Skills,Psychology,2857,1780,62.303115155757794
+COR1863,Introduction to Public Speaking,Business Essentials,3200,2729,85.28125
+COR1864,Hands-on Introduction to Linux Commands and Shell Scripting,Software Development,892,595,66.70403587443946
+COR1865,Procurement Negotiation,Leadership and Management,3892,3579,91.95786228160328
+COR1866,Network Security & Database Vulnerabilities ,Security,2142,1789,83.5200746965453
+COR1867,Financial Accounting: Foundations,Finance,2246,1140,50.756901157613534
+COR1868,Social Media and Social Content Strategy,Marketing,1318,1089,82.62518968133536
+COR1869,What is Data Science? ,Data Analysis,4097,3649,89.06516963631927
+COR1870,Business Strategy in Practice (Project-centered Course),Business Strategy,380,306,80.52631578947368
+COR1871,Qualitative Research Design,Health Informatics,3788,3512,92.71383315733897
+COR1872,Machine Learning With Big Data,Machine Learning,4703,3652,77.65256219434403
+COR1873,U.S. Federal Taxation Capstone,Business Essentials,3832,3703,96.63361169102296
+COR1874,Data Structures and Performance,Algorithms,3095,1622,52.407108239095315
+COR1875,Essentials of Management and Strategic Planning,Leadership and Management,4059,3647,89.84971667898498
+COR1876,Natural Language Processing in Microsoft Azure,Machine Learning,3958,3389,85.62405255179384
+COR1877,Interacting with the System and Managing Memory,Software Development,817,635,77.7233782129743
+COR1878,Bioinformatic Methods I,Health Informatics,3372,3183,94.3950177935943
+COR1879,Introduction to Artificial Intelligence (AI),Machine Learning,4191,2122,50.632307325220715
+COR1880,The Fundamentals of Revenue Management: The Cornerstone of Revenue Strategy,Business Strategy,2858,1729,60.496850944716584
+COR1881,The Newborn Assessment,Public Health,1326,1067,80.46757164404224
+COR1882,Medical Technology and Evaluation,Finance,3515,3355,95.44807965860598
+COR1883,Present with Purpose: Create/Deliver Effective Presentations,Personal Development,3004,2242,74.63382157123834
+COR1884,Foundations of Public Health Practice: Health Protection,Public Health,2581,1696,65.71096474234793
+COR1885,Service-Oriented Architecture,Software Development,3520,2590,73.57954545454545
+COR1886,Sample-based Learning Methods,Machine Learning,241,205,85.06224066390041
+COR1887,"Diversity, Equity, and Inclusion Applications for Executives",Leadership and Management,1359,1292,95.06990434142753
+COR1888,Guided Imagery,Research,250,151,60.4
+COR1889,What is Compliance?,Business Essentials,3425,2414,70.48175182481752
+COR1890,International Hospitality & Healthcare Services Marketing,Marketing,1178,870,73.85398981324278
+COR1941,The Construction Industry: The Way Forward,Leadership and Management,4669,4410,94.45277361319341
+COR1891,Inferential Statistical Analysis with Python,Data Analysis,3335,3062,91.81409295352324
+COR1892,Business English: Finance and Economics,Learning English,1221,1125,92.13759213759214
+COR1893,Leadership Communication for Maximum Impact: Storytelling,Leadership and Management,1123,940,83.70436331255566
+COR1894,Data-driven Decision Making,Data Analysis,2914,2599,89.1901166781057
+COR1895,Digital Fashion Mindset,Business Strategy,4343,3973,91.48054340317753
+COR1896,Value-Based Care: Population Health,Healthcare Management,437,349,79.86270022883295
+COR1897,Pain Management: Easing Pain in Palliative Care,Patient Care,4245,2167,51.04829210836278
+COR1898,Databases and SQL for Data Science with Python,Data Analysis,4455,2438,54.72502805836139
+COR1899,Methods and Statistics in Social Science - Final Research Project,Psychology,240,156,65.0
+COR1900,Strategic Leadership and Management Capstone,Leadership and Management,2911,1656,56.88766746822398
+COR1901,UX Design Fundamentals,Music and Art,2406,1885,78.3458021612635
+COR1902,Public Health in Humanitarian Crises 1,Governance and Society,4522,3427,75.78505086245025
+COR1903,"Spring MVC, Spring Boot  and Rest Controllers",Software Development,3866,2775,71.77961717537507
+COR1904,Modern Art & Ideas,Music and Art,1447,1415,97.78852798894265
+COR1905,Machine Learning for Accounting with Python,Machine Learning,3221,3147,97.70257683949085
+COR1906,Pharmaceutical and Medical Device Innovations,Finance,278,205,73.7410071942446
+COR1907,Initiating and Planning Projects,Leadership and Management,2467,1643,66.59910822861775
+COR1908,Psychosocial and Spiritual Aspects of Palliative Care,Patient Care,1023,825,80.64516129032258
+COR1909,UX Design: From Concept to Prototype,Design and Product,4799,4487,93.49864555115649
+COR1910,U.S. Bond Investing Basics,Finance,2365,1631,68.96405919661733
+COR1911,Fundamentals of Red Hat Enterprise Linux,Support and Operations,3682,1940,52.688756110809344
+COR1912,The Fundamentals of Computing Capstone Exam,Software Development,1432,1183,82.61173184357543
+COR1944,"Be a Leader, Develop a Leader",Leadership and Management,3912,2535,64.80061349693251
+COR1945,Python for Genomic Data Science,Data Analysis,1257,978,77.80429594272077
+COR1946,Interactivity with JavaScript,Mobile and Web Development,3021,2725,90.2019198940748
+COR1947,International Business Environment,Business Essentials,2502,1853,74.0607513988809
+COR1948,Data Science Fundamentals for Data Analysts,Probability and Statistics,2780,1469,52.84172661870503
+COR1949,Low Poly Art For Video Games,Music and Art,2497,1805,72.28674409291149
+COR1950,Sustainability Challenges for the Planet and Employers,Environmental Science and Sustainability,2637,2295,87.03071672354949
+COR1951,Data Science Capstone,Data Analysis,2946,2096,71.14731839782756
+COR1952,Algorithmic Thinking (Part 1),Software Development,884,761,86.08597285067874
+COR1953,Science and Engineering of Climate Change,Environmental Science and Sustainability,2160,1647,76.25
+COR1954,Effective Problem-Solving and Decision-Making,Business Essentials,4178,2273,54.40402106270943
+COR1955,Capstone MOOC for Android App Development,Mobile and Web Development,4564,4053,88.8036809815951
+COR1956,Data Visualization in R with ggplot2,Data Analysis,942,0,0.0
+COR1957,Building Your Career in Music: Developing A Brand and Funding Your Music,Music and Art,3469,0,0.0
+COR1958,Supply Chain Logistics,Business Essentials,170,0,0.0
+COR1959,Programación y presupuesto del proyecto,Leadership and Management,4827,0,0.0
+COR1960,Habilidades gerenciales: Proyecto final,Personal Development,3636,0,0.0
+COR1961,Introduction to NoSQL Databases,Data Management,2755,0,0.0
+COR1962,Google Chat,Cloud Computing,3031,0,0.0
+COR1963,Future Development in Supply Chain Finance and Blockchain Technology,Finance,1734,0,0.0
+COR1964,Quantitative Research,Marketing,4336,0,0.0
+COR1965,Pro Tools Basics,Music and Art,1215,0,0.0
+COR1966,3-Axis Machining with Autodesk Fusion 360,Mechanical Engineering,208,0,0.0
+COR1967,Natural Gas,Electrical Engineering,2594,0,0.0
+COR1968,Infonomics I: Business Information Economics and Data Monetization,Business Essentials,3694,0,0.0
+COR1969,Introduction to Mechanical Engineering Design and Manufacturing with Fusion 360,Mechanical Engineering,4376,0,0.0
+COR1970,"Emergency Care: Pregnancy, Infants, and Children",Patient Care,2882,0,0.0
+COR1971,Probabilistic Graphical Models 2: Inference,Machine Learning,592,0,0.0
+COR1972,Fundamentals of Reinforcement Learning,Machine Learning,4468,0,0.0
+COR1973,"Applied Plotting, Charting & Data Representation in Python",Data Analysis,4676,0,0.0
+COR1974,Songwriting: Writing the Lyrics,Music and Art,538,0,0.0
+COR1975,Six Sigma Tools for Analyze,Business Essentials,2284,0,0.0
+COR1976,Python Data Visualization,Software Development,3095,0,0.0
+COR1977,Copyright Law in the Music Business,Business Strategy,2745,0,0.0
+COR1978,Health Impacts of Chemicals in Consumer Products,Public Health,4126,0,0.0
+COR1979,"App Deployment, Debugging, and Performance",Software Development,3971,0,0.0
+COR1980,Six Sigma Tools for Improve and Control,Business Essentials,4545,0,0.0
+COR1981,Decentralized Finance (DeFi) Opportunities and Risks,Finance,3652,0,0.0
+COR1982,Business Analytics for Decision Making,Data Analysis,1302,0,0.0
+COR1983,Additive Manufacturing,Business Strategy,1334,0,0.0
+COR1984,What is Palliative Care?,Patient Care,4373,0,0.0
+COR1985,Write Professional Emails in English,Learning English,1879,0,0.0
+COR1986," Build, Train, and Deploy ML Pipelines using BERT",Machine Learning,1338,0,0.0
+COR1987,Data Visualization with R,Data Analysis,4240,0,0.0
+COR1988,Road to the CISO – Culminating Project Course,Security,1858,0,0.0
+COR1989,Organizational Leadership Capstone,Leadership and Management,1134,0,0.0
+COR1990,Introduction to Ableton Live,Music and Art,2558,0,0.0
+COR1991,Think Again IV: How to Avoid Fallacies,Philosophy,2775,0,0.0
+COR1992,"Data Collection: Online, Telephone and Face-to-face",Psychology,1947,0,0.0
+COR1993,Conflict Management Project,Personal Development,4738,0,0.0
+COR1994,Value-Based Care: Managing Processes to Improve Outcomes,Patient Care,4814,0,0.0
+COR1995,Developing Innovative Ideas for Product Leaders,Leadership and Management,723,0,0.0
+COR1996,Operational Risk Management: Frameworks & Strategies,Finance,2076,0,0.0
+COR1997,Branding and Customer Experience,Marketing,3194,0,0.0
+COR1998,Guitar Performance Techniques,Music and Art,2161,0,0.0
+COR1999,Business English: Marketing and Sales,Learning English,644,0,0.0

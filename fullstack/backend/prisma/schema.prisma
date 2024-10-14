@@ -1,0 +1,44 @@
+// backend/prisma/schema.prisma
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model courses {
+  courseid          String        @id
+  title             String
+  short_intro       String?
+  category          String?
+  total_enrollments Int?          @default(0)
+  completion_rate   Float?        @default(0)
+  total_completions Int?          @default(0)
+  skills            String?
+  enrollments       enrollments[] // Relation to enrollments
+}
+
+model Enrollment {
+  id              String          @id @default(cuid())
+  userId          String
+  courseId        String
+  progress        Float
+  grade           String
+  completed       Boolean
+  user            User            @relation(fields: [userId], references: [id])
+  course          Course          @relation(fields: [courseId], references: [id])
+}
+model users {
+  id          String        @id
+  username    String        @unique
+  password    String
+  role        String
+  department  String?
+  enrollments Int
+  completions Int
+
+  userEnrollments enrollments[] // Relation to enrollments
+}
+

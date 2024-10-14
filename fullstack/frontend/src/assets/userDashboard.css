@@ -1,0 +1,60 @@
+/* src/assets/user-dashboard.css */
+
+.user-dashboard {
+    padding: 20px; /* Overall padding for the dashboard */
+}
+
+.dashboard-container {
+    background-color: #f9f9f9; /* Light background for the container */
+    border-radius: 10px; /* Rounded corners */
+    padding: 30px; /* Inner padding */
+}
+
+.dashboard-title {
+    color: #333; /* Title color */
+    margin-bottom: 20px; /* Space below the title */
+}
+
+.search-box {
+    border-radius: 5px;
+    border: 1px solid #ccc; /* Border styling */
+    padding: 10px; /* Padding inside the search box */
+    width: 100%; /* Full width */
+    margin-bottom: 20px; /* Space below the search box */
+}
+
+.dashboard-section {
+    display: flex; /* Flex layout for the sections */
+    justify-content: space-between; /* Space between sections */
+}
+
+.my-courses-section {
+    flex: 1; /* Flex grow for the my courses section */
+}
+
+.available-courses-section {
+    flex: 1; /* Flex grow for the available courses section */
+}
+
+.my-courses-card {
+    background-color: #ffffff; /* Card background color */
+    border: 1px solid #ddd; /* Card border */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.my-courses-title {
+    color: #596e79; /* Title color for my courses */
+}
+
+.my-courses-list {
+    list-style-type: none; /* Remove default list style */
+    padding: 0; /* Remove default padding */
+}
+
+.my-course-item {
+    padding: 5px 0; /* Spacing between items */
+}
+
+.no-courses-text {
+    color: #777; /* Color for no courses text */
+}
